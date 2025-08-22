@@ -42,3 +42,5 @@ Pre planned strategy vs on the fly
 Pre planned deviates you farther (deep planning), and on the fly relies more on quick compute / cache, more middle of the road, but has more flexibility in execution.
 
 Game sense = on the fly deduction and requires you to be fast
+
+Good planner = good at planning in game states, this is not equal to players with big range, who play with more varied game states but may be less precise.
