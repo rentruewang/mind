@@ -14,6 +14,7 @@ Disclaimer: I do not play those games, but watch them extensively.
 8. Different maps
 9. Map control needed to secure new bases, worker spread mechanic -> bases and spaces are important, not just workers
 10. There seems to be more randomness and gambling in broodwar as you cannot be ready for everything. In sc2 you can be ready.
+11. Units are more general purpose, which means composition choices are realtively free compared to sc2.
 
 ## What technical jargon translate to in terms of game state
 
