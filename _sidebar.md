@@ -1,1 +1,22 @@
-* [Home](./)
+* Coding
+    * [Coding designs](./code/designs.md)
+    * [Fundamentals](./code/fundamentals.md)
+    * [My journey](./code/journey.md)
+    * [How humans program](./code/how.md)
+    * [Languages](./code/languages.md)
+    * [Simplicity](./code/simplicity.md)
+    * [Similarity](./code/similar.md)
+    * [FP vs OOP](./code/fpoop.md)
+* Intelligence
+    * [Human brain](./intelligence/brain.md)
+    * [How children learn](./intelligence/children.md)
+    * [Problem solving](./intelligence/problem.md)
+    * [Good shows](./intelligence/shows.md)
+    * [More](./intelligence/more.md)
+* Gaming
+    * [Computation](./games/compute.md)
+    * [Starcraft](./games/starcraft.md)
+* Business
+    * [LLM](./business/llm.md)
+    * [OSS](./business/oss.md)
+    * [Apps](./business/apps.md)
