@@ -27,3 +27,9 @@ B2B companies are more applications, and B2C companies are more platforms.
 B2C is less developer focused.
 
 B2C is most likely platforms, B2B not necessarily so.
+
+
+## Innovation
+
+Innovation = high value
+Software happens to be good for business because it's so reproducible.

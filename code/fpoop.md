@@ -6,6 +6,12 @@ I think in general imperative programming is much more greedy, maintaining a sta
 
 Furthermore, FP favors data structures like linked lists and trees, where it's a node / data pattern rather than hashmaps / arrays, where data is grouped together and acting like a unit. This is because immutability makes it s.t. you need to create rather than mutate, making a wholistic data structure like array expensive to change.
 
+Oop restrict access to data (encapsulation). Fp restrict mutation, to quote some random strangers:
+
+> Oop makes core understandable by encapsulating moving parts, and fp makes code understandable by minimizing moving parts. Moving parts = mutating states.
+
+Now this is not to say that FP has no side effects, things like: time, space, energy are inherent to all programs, but FP aims to abstract it away.
+
 ## What to abstract and represent
 
 In OOP data is hidden, and functions are exposed (as interface)

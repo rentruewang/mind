@@ -21,6 +21,17 @@ Not reproducible enough, which is not compatible with businesses, by definition,
 
 Prompt tuning has a low skill ceiling. Everything you can do I can do too, and vice versa. So you cannot capture value as once value is found, it's spread out.
 
+4. No path forward
+
+A most common thing to hear is "In 5 years llm would....", but no one actually has a path as to how that would be achieved.
+
+5. For coding / intelligent work??
+
+Llm = maximum likelihood estimation, no innovation can happen because of how it's trained. Good for writing a demo online that the LLM has seen thousands of times on GitHub on, but no in business. Business needs innovation. LLM use in production? No, use library instead (not new). Good for ad hoc e.g. plotting tho, or for students lazy to write HW, but those don't generate value. Even if llm good for prototype, no money in that
+
+How, then, are they so good at benchmarks? They cheated. Training testing set leak. As it's at best going to be an average 50% human, it simply doesn't solve problems that are PhD level like so many LLM provider claims.
+
+
 ## Unicorn where?
 
 Simple excercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years. As of moment of writing, no unicorn relying on prompt tuning exists (companies that rely on being LLM platform are not themselves reliant on prompt tuning, and companies just using LLM as autocompletion API I wouldn't count as well, specifically copilot as codex predates GPT 3.5).
