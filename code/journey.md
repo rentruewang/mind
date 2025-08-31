@@ -30,11 +30,14 @@ Work also makes me prioritize and work with a deadline. Makes me minimize work a
 
 Also I never was able to spend time on coding for this long, which made my made some good progress about programming principles.
 
+Maybe I focus too much on simplicity and terseness, not necessarily approachability and maintainability.
+
+
 ## Platform type code I read
 
 2019/08: CPython. Specifically around types.
 2024/04: [Crafting interpreters](https://craftinginterpreters.com/).
-2025/08: FP (Haskell / GHC) and FV (ADA / Lean).
+2025/08: FP (Haskell / GHC) and FV (ADA / Lean), Type / set / category theory.
 
 Honorable mention: Spark / Postgres / Clickhouse somewhere in 2025.
 

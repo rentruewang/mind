@@ -91,6 +91,8 @@ Act of abstracting = states. Because abstraction allows a person not to recurse 
 
 These 2 are the same, where as 2nd is simply folding over the precious state.
 
+In some ways, abstraction is recursion (especially when it refers to itself).
+
 Seems to me that humans are doing the reverse, using memory for 2, and memorizing building blocks to do 1 (implicitly contain previous state as new data structures get created).
 
 Debugging is either fixing s.t. it matches the beliefs or fixing the beliefs themselves. Fix-up behavior is essentially coding in reverse.

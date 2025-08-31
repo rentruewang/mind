@@ -27,10 +27,27 @@ A most common thing to hear is "In 5 years llm would....", but no one actually h
 
 5. For coding / intelligent work??
 
-Llm = maximum likelihood estimation, no innovation can happen because of how it's trained. Good for writing a demo online that the LLM has seen thousands of times on GitHub on, but no in business. Business needs innovation. LLM use in production? No, use library instead (not new). Good for ad hoc e.g. plotting tho, or for students lazy to write HW, but those don't generate value. Even if llm good for prototype, no money in that
+Llm = maximum likelihood estimation, no creativity / innovation can happen because of how it's trained. Good for writing a demo online that the LLM has seen thousands of times on GitHub on, but no in business. Business needs innovation. LLM use in production? No, use library instead (not new). Good for ad hoc e.g. plotting tho, or for students lazy to write HW, but those don't generate value. Even if llm good for prototype, no money in that.
+
+Not good at maintaining and editing. Good for one time use. Either way, requires heavy human in the loop.
+At this time, common patterns in code are all in libraries, which you can trust.
+
+6. Human in the loop
+
+Human in the loop means no automation. It also means LLM doesn't save time on valuable thing, but boilerplate and mundane things. Which is important, but at this stage most of them are solved.
+
+7. Benchmarks
 
 How, then, are they so good at benchmarks? They cheated. Training testing set leak. As it's at best going to be an average 50% human, it simply doesn't solve problems that are PhD level like so many LLM provider claims.
 
+8. Saving cost
+
+Save time in (inefficient) process, not creating value.
+
+
+9. No creativity
+
+*I believe creativity comes from planning*.
 
 ## Unicorn where?
 
