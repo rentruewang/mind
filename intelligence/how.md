@@ -2,12 +2,14 @@
 
 Must have:
 
-Discover of primitives
-Using primitives
+1. Discover of primitives
+2. Using primitives
+
+Primitives are known operators, of various hierarchy
 
 When being faced a problem, humans:
 
-**Break down a problem**
+### Break down a problem
 
 - Find intermediate representation
 - Multiple simulation and pattern finding (even symbolic reason can start with simulation)
@@ -19,7 +21,7 @@ When being faced a problem, humans:
 - Symbolic / abstract analyzing (pattern finding) of stages is performed (finding stages of common behavior), and maybe reordering
 - Understanding existing code falls into this
 
-**Assemble solution from known primitives**
+### Assemble solution from known primitives
 
 - Assemble from primitives already in memory
 - Seems to be way harder, and memory is limited
@@ -30,7 +32,7 @@ When being faced a problem, humans:
 - Obvious in hindsight
 - Knowing how to improve the design falls into this
 
-**Simulation**
+### Simulation
 
 - Humans would simulate between different hot paths to find a solution
 - In each path, a problem is broken down and assembled
@@ -40,7 +42,7 @@ When being faced a problem, humans:
 
 This is possible because humans mind work in sequential, so bigger events can always be broken down
 
-**Anecdotes**
+### Anecdotes
 
 - Brain is mostly doing scientific method, hypothesis, searching, and testing
 - Sometimes you form a symbolic conclusion too (works for any case e.g. induction)
@@ -56,7 +58,7 @@ This is possible because humans mind work in sequential, so bigger events can al
 - There are no Singleton problems. If there is one, then you cannot explain, only memorize.
 - Face recognition is one such instance of feeling (computation) based abstraction.
 
-**What Turing said**
+### What Turing said
 
 On Wikipedia:
 
@@ -74,7 +76,7 @@ Ideally, you want variables in a function to fit in registers anyways (states ra
 
 Hopcraft book treats program instruction as part of the tape. However, since the program itself is finite, we can enumerate the combo of instruction and the state that Hopcraft defined and treat it as the new state.
 
-**Biological implications**
+### Biological implications
 
 Regardless, humans attention can only be at a place at once. The primitives in brain does follow the program's flow, but rather work on individual components based on what state (where we are in the program) we are in, but uses memory to reason about past events. That's why good code just be short and concise.
 
@@ -84,7 +86,7 @@ Even in the problem solving phase, branching out to different solutions requires
 
 Act of abstracting = states. Because abstraction allows a person not to recurse into the underlying implementation details -> dp.
 
-**Abstracting has 2 parts**
+### Abstracting has 2 parts
 
 1. Abstracting over the implementation underneath
 2. Abstracting over the program state
@@ -107,7 +109,7 @@ State to reason current program state, (designing, debugging), tape for existing
 
 Out of order computation requires storage obviously, or a different way to access storage.
 
-**Another dimension of abstraction**
+### Another dimension of abstraction
 
 You practically never get the design on the first try. Rather, you build the first world model (design), and then expanding it when it makes sense. During this refinement phase, different phases or versions can be thought of a module / block in a function, where you know what is changing before and after and how the program changes its behavior.
 
@@ -119,7 +121,7 @@ Regardless, I'm just editing the world model to behave differently. This relies 
 
 The edits correspond to a change in world models, be it an incremental update to expand the world model, or toss it out all together. If you do these changes a lot, you kind of build a world model on the changes themselves as well (this is too abstract and maybe not the case, but possible).
 
-**Ubiquitous of memory**
+### Ubiquitous of memory
 
 Every step I take I use memory, or the search space is too big.
 
@@ -129,7 +131,7 @@ I compute based on the world model, which is built upon the sequence I memorize.
 
 Therefore, memory is ubiquitous
 
-**Streaming**
+### Streaming
 
 - Brain obviously is using streaming because neurons cannot move.
 - Brain uses abstractions / context switching a lot based on memory.
@@ -142,7 +144,7 @@ Therefore, memory is ubiquitous
 - And then, concepts are formed by sunsetting / intersection and finding common patterns.
 - Relations between entities are the ultimate primitives.
 
-**Evidence**
+### Evidence
 
 - When people write code, they usually don't review the assumption built upon by what they are changing, but rather add additional changes (causing baggage in the long run).
 - To do it completely without memory, humans would have to have a big combinatorial logic gates to compute something that may be computed over multiple cycles of a smaller logic designs (which has states).
@@ -155,6 +157,6 @@ Therefore, memory is ubiquitous
 - Humana backtrack + context switch / switch over back and forth while planning as opposed to e.g. MCTS look ahead due to attention's limitations of being serial.
 - Humans sometimes work the reasoning backwards, still in a symbolic way.
 
-**Conclusion**
+### Conclusion
 
 Memory is inherent in world models = building blocks. Prediction of world models depend on memory because it's based on past trajectories. Abstraction and generalization is essentially a level above. Scientific methods (closely related to symbolic world models and abstractions) of hypothesizing and pattern matching can depend on abstractions or not, but it depends on past trajectories for sure. This goes for symbolic reasoning (e.g. data structures) as well. Or rather they are just a different system that is retrieved and matched (e.g. this problem has same properties as a stack / dag), but still they rely on memory / own world model as well. Of course, algorithms are processed, and rely on program state changes, even in functional languages (abstraction in blocks vs state).
