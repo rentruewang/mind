@@ -2,12 +2,12 @@
     * [Coding designs](./code/designs.md)
     * [Fundamentals](./code/fundamentals.md)
     * [My journey](./code/journey.md)
-    * [How humans program](./code/how.md)
     * [Languages](./code/languages.md)
     * [Simplicity](./code/simplicity.md)
     * [Similarity](./code/similar.md)
     * [FP vs OOP](./code/fpoop.md)
 * Intelligence
+    * [How humans program](./intelligence/how.md)
     * [Human brain](./intelligence/brain.md)
     * [How children learn](./intelligence/children.md)
     * [Problem solving](./intelligence/problem.md)
