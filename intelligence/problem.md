@@ -58,7 +58,7 @@ In editing, action = change, state = outcome. Not really that different from gen
   Plan a series of change that can be tested along the way (assemble)
   Find equivalent ways of doing things in old and new (assemble)
   Try to make the problem as simple and clean as possible (assemble / aggregate)
-  Find min-cut in the new data flow for modularity (simulate / assemble)
+  Find min-cut in the new data flow / info exchange for modularity (simulate / assemble)
   Revisit assumptions, and predict how the input could cause change in output (simulate / verify)
 
 - Learning when something clicks
@@ -67,9 +67,11 @@ In editing, action = change, state = outcome. Not really that different from gen
   Simulate and see the cause and effect (simulate)
   Find out isomorphism / difference with current knowledge (retrieval / assemble / aggregate)
   Incorporate new knowledge into old world model (simulation / update)
+  How is the knowledge different from what I know? (retrieval / update)
   Ensure consistency and update beiliefs (retrieve / update)
   Try using this new knowledge (simulation)
   Use the knowledge in new ways, inspired by specific difference with current concept (assemble)
+  Go down a path, doesn't work, check the reference material, try again (retrieval / simulate / verify / update)
 
 - Theory of mind (try to make other person feel some way / do something)
   Think in terms of information they get (retrieval)
