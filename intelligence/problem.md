@@ -7,7 +7,7 @@ Problem solving involves the following process:
 0. (Simplify) Maybe simplify the problem first. Preserve and isolate the relevant parts.
 1. (Retrieve) Enumerate some instances you know, whether it being concrete or symbolic, or a simplified version of the problem.
 2. (Simulate) Do simulation in the head, maybe extrapolate or use extreme cases, assemble solutions from known primitivevs.
-3. (Verify) Check if the solution is working. If not, maybe restart. Compare to things we know.
+3. (Verify) Check if the solution is working, symbolically or experiments. If not, maybe restart. Compare to things we know.
 4. (Aggregate) Find common pattern across different instances, or derive at a result symbolically.
 5. (Update) Update hypothesis / world models.
 
@@ -42,15 +42,16 @@ In editing, action = change, state = outcome. Not really that different from gen
   Check if working (verification)
 
 - Debugging
-  Doesnt' behave as expected, look at relevant items (retrieval)
+  Doesn't behave as expected, look at relevant items (retrieval)
   Only look at parts changed for a working system (simplify)
   Knowing the cause and effect of differnet components (retrieval / simulation)
   Isolate the parts of concern (simplify)
   What did I do? (retrieval)
   Revisiting state of mind, to figure out why, hypothesize, and check the result (simulate, verify)
   Deduct from the observation after change (update)
-  Have hypothesis of what's wrong (assemble, verify)
-  Plan on changing and predict what would be the result of change (simulation)
+  Have hypothesis of what's wrong (assemble / verify)
+  Rollout + deduction + predict + verify from hypothetical scenarios (assemble)
+  Plan on changing (rollout) and predict what would be the result of change (simulation)
   If fail, update beliefs and try again (update)
 
 - Editing and refactoring
@@ -88,7 +89,8 @@ In editing, action = change, state = outcome. Not really that different from gen
   Find out events / attributes to focus on (simplify)
   Simulate a bunch of plausible scenarios (simulation).
   Validate each scenarios (verify)
-  Narrowing of scope after isolating each possiblity (update)
+  Narrowing of scope after isolating each possiblity (simulate / update)
+  Perhaps a series of yes / no question on (symbolic) scenario search tree (aggregate / simulate)
 
 ## Neurons
 
