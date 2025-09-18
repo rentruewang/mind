@@ -27,3 +27,21 @@ OOP is about coupling different functions together into a single abstraction
 See this amazing [link](https://craftinginterpreters.com/representing-code.html) to see how visitor pattern in OOP simulates FP.
 
 Perhaps typeclasses in FP simulates protocols in OOP?
+
+
+## What each is good at
+
+Since purest FP doesn't have the notion of time,
+it has no side effects and mutation,
+so it favors creation,
+which makes big data structures difficult,
+so it favors small data structures,
+so it doesn't work well with adding new things,
+because each implementation is simple in nature.
+
+Since OOP is just normal programming,
+it goes into the other direction,
+and had to do encapsulation and access control to keep development sane.
+
+> FP is good at adding new transformation at a fixed set of things,
+> OOP is good at adding new thing for a fixed set of transformations.

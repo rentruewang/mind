@@ -20,9 +20,13 @@ Dependent types strong enough to represent a lot of symbolic logic, s.t. a lot o
 
 No linear types (use once, good for modeling resource usage mathematically) in dependent types.
 
+## Why runtime checks exists at all
+
 C++ Turing complete templates is almost dependently typed.
 
 Think of it this way: if all computation happens during compile time, then compiler can execute the program without doing anything at runtime. This is essentially what dependent type does, where compiler executes and verify code during compile time.
+
+Perhaps, we only use runtime checks because the compile time types are not expressive enought? E.g. in python, sometimes we `assert value > 0`, just because there is no positive value type, but we need one when running.
 
 ## What is dependent type?
 
