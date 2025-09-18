@@ -45,3 +45,17 @@ and had to do encapsulation and access control to keep development sane.
 
 > FP is good at adding new transformation at a fixed set of things,
 > OOP is good at adding new thing for a fixed set of transformations.
+
+## Good code in each
+
+I feel like good = simple. Easy to understand, elegant, minimizing information exchange unless absolutely necessary (modular).
+
+Compared to each other
+
+- OOP relaxes:
+    Mutation. Sometimes good and simplest OOP code use this, and can mutate global state. (Contexts, command line parser, global variables etc).
+    Easy polymorphism. This means objects can be as complicated as possible. This means you can write libraries that capture only high level business logic.
+
+- FP relaxes:
+    Places where you can use the functions. This means instead of if-else, you can use function pointers and don't hard code the decision boundary.
+    Relation between objects. This means you can use them however you like, each are going to be isolated for the most part.
