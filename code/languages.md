@@ -36,7 +36,7 @@ I like the language. But the community isn't too likable (lots of cocky but igno
 
 > Programming in rust bogged down to thinkig about language features rather than solving problems.
 
-Would it become big in the future? No, because only people who have learned about C++ would love rust. It won't be a successful language as C++ imo.
+Would it become big in the future? No, because only people who have learned about C++ would love rust. It won't be a successful language as C++ imo. Also too FP like, not C like, to be popular. Most languages that are popular look like C, also FP has its own issues [(sum types)](./fpoop.md).
 
 Go:
 
