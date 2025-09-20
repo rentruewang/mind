@@ -72,7 +72,7 @@ Stemming from the fact that FP favors working with smaller data types,
 sum types are added (smaller kinds, switching over a few cases).
 
 In languages like Haskell, sum types are very easy to write and very expressive,
-making abusing this very easy.
+making abusing this very easy (not to say I don't love it for writing, just reading).
 Lots of code does `data rec = a | b | c | ...`.
 
 This has the following downside:
@@ -84,12 +84,18 @@ This has the following downside:
 2. Too many code paths (many transformations on **specific** things).
    Now you need to verify the product of input -> output kinds of code paths.
    And since output type might also be defined **adhoc**, they lack clear cohesion.
+   It's simply more complex, from what I have seen.
 3. Worse intermediate representation (too low level).
    Due to how flexible the sum type is, a lot of times intermediate representation is defined as sum type.
-   _Without a cohesive theme for those types, you need to verify many code paths, rather than one (more abstract) code path_.
+   Due to how restricted / weak OOP compares, the intermediate would be designed to be much simpler and abstract.
+   As an added bonus, OOP has fewer methods (vs FP, as OOP is better at adding instances) as well!
+   So less complexity overall for the intermediate types.
+   Without a cohesive theme for those types, you need to verify many code paths, rather than one (more abstract) code path.
+   Having to verify each individual, more concrete, code path, rather than a single path where you can verify symbolically / with mock data types.
 4. Coupled with the fact that compared to OOP,
    FP "methods" can be anywhere in the library, possibly in another file,
    making it quite difficult to find.
+   More functional also means that it's more concise, where a function takes up physically less space than a statement, and syntax highlight.
 
 OOP's methods are part of their contracts (objects are the main cast),
 and FP's data types are part of the contracts (functions are the main cast).
