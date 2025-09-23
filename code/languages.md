@@ -38,6 +38,10 @@ I like the language. But the community isn't too likable (lots of cocky but igno
 
 Would it become big in the future? No, because only people who have learned about C++ would love rust. It won't be a successful language as C++ imo. Also too FP like, not C like, to be popular. Most languages that are popular look like C, also FP has its own issues [(sum types)](./fpoop.md).
 
+
+Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that. There are also `trait`s all over the place, making it difficult to trace where the functions come from.
+
+
 Go:
 
 I love the language, but simply have no use for it. It shines in building web backends / goroutines, but is outclassed by python / c++ in other areas, in terms of avaialbility of tools / libraries and features.

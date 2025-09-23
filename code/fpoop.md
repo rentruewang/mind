@@ -71,7 +71,7 @@ Let me explain.
 Stemming from the fact that FP favors working with smaller data types,
 sum types are added (smaller kinds, switching over a few cases).
 
-In languages like Haskell, sum types are very easy to write and very expressive,
+In FP languages like haskell, sum types are very easy to write and very expressive,
 making abusing this very easy (not to say I don't love it for writing, just reading).
 Lots of code does `data rec = a | b | c | ...`.
 
@@ -106,9 +106,13 @@ and better FP design (simpler) has fewer data types.
 > This means that compilers are usually FP's killer application.
 According to some strangers on stack overflow.
 
+## Examples to demonstrate FP's problem
+
 I did take a look at GHC's implementation, but I notice that,
 in a lot of the sum types, the data types are one time use (only 1-2 functions operate on them),
 and there are more members in the sum types than there are functions,
 and then `case` is used in those functions liberally (just if-elses essentially),
 which have the problems mentioned above.
 This means it might have been clearer written in an OOP fashion.
+
+Scala I think did a very good job of mixing. When I was reading spark's source code (specifically the sql compiler part), I noticed that even though a lot of matching take place in the code, the intermediate representation is alwasy to some very well defined / used types like `SparkPlan`, probably due to Scala's OOP support.
