@@ -1,5 +1,11 @@
 # LLM
 
+### Note
+
+LLM is really good at enhancing existing workflows, making them more user friendly.
+
+My criticisms below are more against people thinking that it can "move fast and break things" while in reality it is more like "break nothing, make it better", which tbh makes it hard for startup to build businesses around, as "it" is way too diverse.
+
 ## Current use
 
 Llm is used as a blackbox.
