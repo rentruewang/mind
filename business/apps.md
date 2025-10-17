@@ -10,6 +10,8 @@ Platforms have changeable content, which does not require effort on their end.
 
 If customer access content (no update effort) only over the application, then it’s a platform.
 
+It is much easier to host an app, due to simpler API (doing 1 thing) or UI (human facing), doesn't change that much, compared to a platform (many coexisting API).
+
 ## Example
 
 Games are applications.
