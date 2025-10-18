@@ -18,5 +18,5 @@
     * [Starcraft](./games/starcraft.md)
 * Business
     * [LLM](./business/llm.md)
-    * [OSS](./business/oss.md)
     * [Apps](./business/apps.md)
+    * [Starting](./business/founding.md)

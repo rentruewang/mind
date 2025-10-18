@@ -10,6 +10,7 @@ My criticisms below are more against people thinking that it can "move fast and 
 
 Llm is used as a blackbox.
 Declarative approach on llm (give answers and find prompts).
+Very good at natural language and personalization.
 
 ## Why not going to be successful
 
