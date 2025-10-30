@@ -36,8 +36,10 @@ In editing, action = change, state = outcome. Not really that different from gen
 
 ## Examples for problem solving and planning
 
-- Algorithm exams
+- Algorithm exams / inventing an algorithm
   Find similar problem (retrieval)
+  Analyze the structural property of the problem, e.g. Z-order curve is recursive (simulation / pattern / assemble)
+  Break down the problem if needed (simplify)
   Try / assemble different combination (simulation / assemble / aggregate)
   Check if working (verification)
 
