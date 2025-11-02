@@ -11,7 +11,6 @@
     * [Human brain](./intelligence/brain.md)
     * [How children learn](./intelligence/children.md)
     * [Problem solving](./intelligence/problem.md)
-    * [Good shows](./intelligence/shows.md)
     * [More](./intelligence/more.md)
 * Gaming
     * [Computation](./games/compute.md)
