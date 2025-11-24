@@ -22,3 +22,8 @@ Some amazing way of looking at it: language **is** a pattern. `for` loop is a pa
 Dependency injection injects data, whereas strategy pattern injects functions.
 
 For a dynamic language like `Python`, where methods can be dyanmically defined and overwritten, strategy pattern seems to be a special case of dependency injection.
+
+
+## Clean coding
+
+I personally think clean coding is poorly explained, where the closer to center part (more business logic) isn't dictated at all by whether or not it's business logic, but whether or not it is under your control. You want to minimize changes needed to your logic, regardless of other frameworks. This is a better IMO definition because it applies to libraries, not just applications.
