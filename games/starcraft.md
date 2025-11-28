@@ -36,7 +36,11 @@ Strategy = hard counters / decision making, higher level, range
 Mechanics = do basic things, lower level, sameness
 
 Safe vs corner cutting
-How big the threshold is for transitioning between good gamestates
+How big the threshold is for transitioning between good game states
+
+Race for pushing vs race for defending in meta
+
+You only push (try to interfere with opponent's states) when you get outscaled doing single player. E.g. In BW, T in TvZ, P in PvT until carriers. T in both matchups in SC2.
 
 Pre planned strategy vs on the fly
 Pre planned deviates you farther (deep planning), and on the fly relies more on quick compute / cache, more middle of the road, but has more flexibility in execution.
