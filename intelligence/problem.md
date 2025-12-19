@@ -38,6 +38,8 @@ In editing, action = change, state = outcome. Not really that different from gen
 
 - Algorithm exams / inventing an algorithm
   Find similar problem (retrieval)
+  Using known problems and the simlar problem as a stepping stone, and try to transform the problem (assemble)
+  Simulate the running of the algorithm (simulation)
   Analyze the structural property of the problem, e.g. Z-order curve is recursive (simulation / pattern / assemble)
   Break down the problem if needed (simplify)
   Try / assemble different combination (simulation / assemble / aggregate)
