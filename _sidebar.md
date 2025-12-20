@@ -12,9 +12,10 @@
     * [How children learn](./intelligence/children.md)
     * [Problem solving](./intelligence/problem.md)
     * [More](./intelligence/more.md)
-* Gaming
-    * [Computation](./games/compute.md)
-    * [Starcraft](./games/starcraft.md)
+* Entertainment
+    * [Computation](./entertainment/compute.md)
+    * [Starcraft](./entertainment/starcraft.md)
+    * [Stories](./entertainment/stories.md)
 * Business
     * [LLM](./business/llm.md)
     * [Apps](./business/apps.md)

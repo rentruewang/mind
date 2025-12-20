@@ -2,12 +2,6 @@
 
 This is completely BS. If people learn poorly by memorizing then sure. But if by learning you also extrapolate, no way this is true, considering that humans approach things in a hierarchical manner.
 
-## When shows are good
-
-Amusing = not predictable
-Emotion vs logic
-Something new
-
 ## Why rhetorical questions are annoying
 
 They imply the listener "needs to be reminded", belittling the listener.
