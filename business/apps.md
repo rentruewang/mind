@@ -57,6 +57,6 @@ Platforms / libraries:
     - 2 way info exchange, interactive.
 
 If we go by that definition, OSS application provides little space for monetization,
-and this is why a lot of OSS apps would become closed source / source avaialable due to competition, example: Grafana, HashiCorp, CockroachDB. Elastic, Sentry.
+and this is why a lot of OSS apps would become closed source / source available due to competition, example: Grafana, HashiCorp, CockroachDB. Elastic, Sentry.
 
 Platforms provide rooms to build additional services on top due to **many ways** you can use a platform (you open souce a way, close source a way for monetization). E.g. DataBricks can build on top of spark with hosting, monitoring, custom runtime etc. Now DBT is an interesting case. It is much like a SQL DB, so it leans closer to application, but since it's doing ingestion it can visualize a lot of interesting endpoints etc, and the value added is much bigger than an UI for DB (cause DB would not fail so long as syntax foHashicorpr SQL is correct). Building UI for DBT requires interactivity for DBT core, making it platform like I would say (different from *DB).

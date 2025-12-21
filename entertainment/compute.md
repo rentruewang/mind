@@ -10,7 +10,7 @@
 
 ## Strategy vs tactics
 
-Some game theorists define strategy as "having complete access to all the game states, and figure out the best possible rewards", and tactics as "having limited access to the game tree, and figure out the best possible rewards", and conclude that tactics are positional inherently, and does not make sense for information avaialble globally.
+Some game theorists define strategy as "having complete access to all the game states, and figure out the best possible rewards", and tactics as "having limited access to the game tree, and figure out the best possible rewards", and conclude that tactics are positional inherently, and does not make sense for information available globally.
 
 I disagree. I think strategy / tactics is more like the high / low level decision making I described, where high level guides low level (pusing vs retreat), and low level informs and influences (adjusts) high level decision making.
 
@@ -18,7 +18,7 @@ I don't think strategy is limited to global game state, but "being higher level"
 
 In a PvP game, you naturally do not have access to your opponent's mind, therefore by definition no information is global or certain. Even in a zero sum game, opponent's computation power is not infinite.
 
-Positional warfare like advance wars still can have strategic play, where players decide where to fight and how to counter opponent.
+Positional warfare like advance wars still can have strategic play, where players decide where to fight and unit type how to counter opponent.
 
 Global information, like how to spend money in a turn based 4x game, can still be highly tactical (low level), for example optimize spending when dealing with a timing attack (e.g. opponent's threat will materialize in 3 turns, 1st turn let's be maximally greedy so once the threat can be dealt with, you are in better position).
 

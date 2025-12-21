@@ -44,7 +44,7 @@ Since the type system must be compatible with native code to some extent, a lot 
 
 Go:
 
-I love the language, but simply have no use for it. It shines in building web backends / goroutines, but is outclassed by python / c++ in other areas, in terms of avaialbility of tools / libraries and features.
+I love the language, but simply have no use for it. It shines in building web backends / goroutines, but is outclassed by python / c++ in other areas, in terms of availability of tools / libraries and features.
 
 JS/TS:
 

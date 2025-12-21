@@ -1,6 +1,6 @@
 # StarCraft Broodwar and StarCraft 2
 
-Broodwar seems more varied in its play and avaialble strategy at the top level, but why?
+Broodwar seems more varied in its play and available strategy at the top level, but why?
 
 Disclaimer: I do not play those games, but watch them extensively.
 
