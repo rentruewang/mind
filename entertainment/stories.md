@@ -17,6 +17,21 @@ Good stories keeps you guessing due to having lots of options, just like real li
 This is why writing good stories are hard, because it requires very good memory.
 
 
+### Tight vs loose plot
+
+Tight = leaky and sequential
+Loose = modular and distributed
+
+**Modular vs leaky**: Modular: Each story is self contained. Leaky is the opposite.
+
+**Sequential vs distributed**: Sequential: one scene affects the scene after. Distributed: portraits individual scenes, and join up to a wholistic view.
+
+#### Ablation study
+
+Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequentail: time dependence requires changing the following scenes), whereas a removal in a loose plot may not even be noticible in plot.
+
+
+
 ## Good characters
 
 Realistic character depiction involves a lot of subtext, requiring readers to be actively involved,
@@ -42,14 +57,30 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 #### most of these I consumed more than 1 times or having consumed the entire collection.
 
-ASOIAF / Jin Yong: Good architecture, good writing, realistic characters, lots of info everywhere, shows but not telling. This allows people to create lots of theories. 3D characters. Lots of foreshadowing.
+Jin Yong:
 
-Sherlock Holmes: Good character biulding. Stories may be a little predictable due to being a classic.
+    Good architecture (very demanding and tight (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. Shows character growth and change well. This allows people to create lots of theories. 3D characters, using indirect, varied characterization to depict chracters' personality, making them realistic. Lots of foreshadowing. Lots of things happening.
 
-Gu Long: Tell don't show, characters can be quite unrealistic and simple. Uses dialogues to tell readers the plots and state of mind. But his plots are non traditional, and edgy, which is interesting.
+    Chracters make "natural" decisions. Not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
 
-JOJO: Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+Sherlock Holmes:
 
-Attack on Titan 1-3: Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+    Good character biulding. Stories may be a little predictable due to being a classic.
 
-Web / light novels: Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+Gu Long:
+
+    Tell don't show, characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
+
+    Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+
+JOJO:
+
+    Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+
+Attack on Titan 1-3:
+
+    Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
+Web / light novels:
+
+    Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
