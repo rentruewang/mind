@@ -5,6 +5,7 @@ Emotion vs logic (good stories make you learn about humans)
 Something new (creative, surprising)
 Engaging (keeps you thinking, suspense)
 Relatable characters (make you care)
+Mimic how humans acquire information in real life.
 
 _I personally use this metric: Do I want to read it a second time?_
 
@@ -39,8 +40,9 @@ Stories are engaging when they are tight.
 1. Chain effect: The story is sequential
 2. Actions have meanings, where they affect outcome: The story is leaky.
 3. Lots of clues that get picked up later: Story is leaky.
-4. Leaky world building: Don't show the world at once, god viewpoint (too plain and straight forward) makes the story boring. Reveal the world little by little from details and characters' behaviors.
-5. Having conflicts. Without conflicts, it would just be a linear story.
+4. Leaky events: Don't show the world at once, god viewpoint (too plain and straight forward) makes the story boring. Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
+5. Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
+6. Having conflicts. Without conflicts, it would just be a linear story.
 
 ## Good characters
 
