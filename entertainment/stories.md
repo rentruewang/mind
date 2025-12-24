@@ -2,14 +2,13 @@
 
 Amusing = not predictable (creative)
 Emotion vs logic (good stories make you learn about humans)
-Something new (creative)
+Something new (creative, surprising)
 
 _I personally use this metric: Do I want to read it a second time?_
 
 ## Good story architecture
 
-Modular linear stories are bad. Not to say that good stories take detours,
-but every story leaks into others.
+Modular linear stories are bad. Not to say that good stories take detours, but every story leaks into others.
 Everything happens in parallel, each having their lasting effects.
 
 Good stories keeps you guessing due to having lots of options, just like real life.
@@ -28,7 +27,7 @@ Loose = modular and distributed
 
 #### Ablation study
 
-Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequentail: time dependence requires changing the following scenes), whereas a removal in a loose plot may not even be noticible in plot.
+Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal in a loose plot may not even be noticable in plot.
 
 
 
@@ -59,28 +58,28 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 Jin Yong:
 
-    Good architecture (very demanding and tight (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. Shows character growth and change well. This allows people to create lots of theories. 3D characters, using indirect, varied characterization to depict chracters' personality, making them realistic. Lots of foreshadowing. Lots of things happening.
+> Good architecture (very demanding and tight (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. Shows character growth and change well. This allows people to create lots of theories. 3D characters, using indirect, varied characterization to depict characters' personality, making them realistic. Lots of foreshadowing. Lots of things happening.
 
-    Chracters make "natural" decisions. Not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
+> Characters make "natural" decisions. Not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
 
 Sherlock Holmes:
 
-    Good character biulding. Stories may be a little predictable due to being a classic.
+> Good character building. Stories may be a little predictable due to being a classic.
 
 Gu Long:
 
-    Tell don't show, characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
+> Tell don't show, characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
 
-    Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+> Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
 
 JOJO:
 
-    Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+> Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
 
 Attack on Titan 1-3:
 
-    Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+> Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
 Web / light novels:
 
-    Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+> Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.

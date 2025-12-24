@@ -12,7 +12,7 @@ Started caring about simplicity / readability in 2021 -> Huffman and brief
 
 ### Open source in 2021
 
-Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects. (You don't pay for what you don't use, the simpler the better, in maintainence and performance)
+Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects. (You don't pay for what you don't use, the simpler the better, in maintainance and performance)
 
 ### 2022-2023
 
@@ -20,7 +20,7 @@ I was obsessed with abstraction principles after I read clean architecture somew
 
 ### 2024
 
-I adopted the simplity doctrine, and tolerate no code duplication.
+I adopted the simplicity doctrine, and tolerate no code duplication.
 At this time, I optimize for simplicity, not just in writing code, but also in the compiled instructions / machine code (no extra computation).
 Writing the bocoel project gave me a lot of real world application to my knowledge on architecture (depending on abstraction, which evolves into strategy pattern, which at the time I didn't make an explicit connection but is obvious I figured this type of idea out retrospectively)
 

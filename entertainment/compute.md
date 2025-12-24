@@ -12,7 +12,7 @@
 
 Some game theorists define strategy as "having complete access to all the game states, and figure out the best possible rewards", and tactics as "having limited access to the game tree, and figure out the best possible rewards", and conclude that tactics are positional inherently, and does not make sense for information available globally.
 
-I disagree. I think strategy / tactics is more like the high / low level decision making I described, where high level guides low level (pusing vs retreat), and low level informs and influences (adjusts) high level decision making.
+I disagree. I think strategy / tactics is more like the high / low level decision making I described, where high level guides low level (pushing vs retreat), and low level informs and influences (adjusts) high level decision making.
 
 I don't think strategy is limited to global game state, but "being higher level" is probably a better definition. Maybe both are working with the game tree, where strategy = tree being high level, where each node is multiple steps decided by tactics. Kind of like RL's hierarchical policy.
 

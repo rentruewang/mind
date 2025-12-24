@@ -54,7 +54,7 @@ This is possible because humans mind work in sequential, so bigger events can al
 - Predict + surprise
 - Probably same as reading novel, having general idea of what’s going on = state
 - States exist everywhere. When I'm reasoning about dynamic programs, recursion etc, those are states. Any tasks that has intermediate representation or retrieval (tape or state) requires memory.
-- Usage of memory is apparent in redactors and reimplementing, where the contract (external states) are unchanged.
+- Usage of memory is apparent in refactors and re-implementing, where the contract (external states) are unchanged.
 - There are no Singleton problems. If there is one, then you cannot explain, only memorize.
 - Face recognition is one such instance of feeling (computation) based abstraction.
 

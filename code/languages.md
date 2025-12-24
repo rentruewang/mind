@@ -14,11 +14,11 @@ Usage: prototyping, machine learning, scripting, glue language for C++ libraries
 
 🛠️ Modern C++ (Old C++, C, Cuda):
 
-Complicated but useful. Super fast (bascially the 1x on benchmarks). Preferred when **performance** is needed. Modern C++ is also pleasant to write, except for debugging template errors.
+Complicated but useful. Super fast (basically the 1x on benchmarks). Preferred when **performance** is needed. Modern C++ is also pleasant to write, except for debugging template errors.
 
 Usage: high performance computing, desktop UI, games, improve Python performance, computing bound CLI tools, performant solution for long running tools / services, any sort of low level stuff
 
-**NOTE** Python and C++ are ubiquitous and don't have a lot of [deficiencies](https://softwareengineering.stackexchange.com/questions/329728/are-design-patterns-frowned-upon). They also don't have very few overalpping use cases.
+**NOTE** Python and C++ are ubiquitous and don't have a lot of [deficiencies](https://softwareengineering.stackexchange.com/questions/329728/are-design-patterns-frowned-upon). They also don't have very few overlapping use cases.
 
 ## Since when do languages of a project matter?
 

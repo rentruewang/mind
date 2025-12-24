@@ -30,4 +30,4 @@ OS abstracts from hardware and lets you only do (pure) software.
 
 System design: architecture that may rely on entities you don't control (hardware / DB etc) vs software architecture: you control everything.
 
-System design requires mapping real world requirement to code (interface level), and software design requires cleaness and simplicity, depends on what the available interface are ofc, minimizing mincut of information flow.
+System design requires mapping real world requirement to code (interface level), and software design requires cleanness and simplicity, depends on what the available interface are ofc, minimizing mincut of information flow.

@@ -12,7 +12,7 @@ We can do something like guided RL, where we do multi step planning (heavy compu
 
 New memory means new understanding and different world tree, means new outcome
 
-Humans can do symbolic condition in search, the symoblic part can be substituted with enumeration in memory, during simulation.
+Humans can do symbolic condition in search, the symbolic part can be substituted with enumeration in memory, during simulation.
 
 Humor is caused by expectation and violation of it.
 
@@ -31,7 +31,7 @@ RL in the field often is responsible for tuning models that have billions of par
 
 However, people now treats the scaling of RL as an engineering issue, and it is! Theoretically RL can always find the optimal value function, but theories are different than practices. To make matters worse, people are obsessed with end to end training, making it very difficult to reason when one of the components go wrong, and the increased number of parameters make it difficult to scale.
 
-How does the brain solve it? Very simple. It employs a sea of RL agents, each being a neuron. The agents are being controlled in a heirarchical matter, and this is a blueprint that is super scalable, as well as being flexible, where extending this design is easy.
+How does the brain solve it? Very simple. It employs a sea of RL agents, each being a neuron. The agents are being controlled in a hierarchical matter, and this is a blueprint that is super scalable, as well as being flexible, where extending this design is easy.
 
 This means that the high level decision making would be simple, as the high level (in hierarchy) agent is small in number of parameters. However, on a high level, an organism is simple. How many degrees of freedom can you say you as a human have? Most of the actions is guided by concepts (a hot path of memory sequence, assembled by [planning](./how.md)). A lot of discussions are in that file. Planning (by itself) doesn't really require a lot of parameters as well, just retrieve and search. Actions are taking on other neurons, which fire up (what wires together fires together) on memory (reliving past scenarios), and carry out actions. This is (I believe) how the brain uses world models to solve the problem that is intelligence.
 

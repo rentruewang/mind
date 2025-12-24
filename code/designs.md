@@ -14,7 +14,7 @@ and [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness)
 
 > A set of natural numbers is said to be a computable set (also called a decidable, recursive, or Turing computable set) if there is a Turing machine that, given a number n, halts with output 1 if n is in the set and halts with output 0 if n is not in the set.
 
-With all these information, one can conclude that anything that is computable must be able to be compiled (transformed) to an algorithm running on a Turing machine, where compiling means transforming between different langauge / instruction set.
+With all these information, one can conclude that anything that is computable must be able to be compiled (transformed) to an algorithm running on a Turing machine, where compiling means transforming between different language / instruction set.
 
 Csondiering that
 
@@ -22,9 +22,9 @@ Csondiering that
 
 > In computing, a [compiler](https://en.wikipedia.org/wiki/Compiler) is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
 
-A best translation is always the closest to the original that is the shortest in the new domain, therefore, the best software desgin is therefore the best transformation from the source (map domain, physics domain etc) to the language understood by the Turing machine (your software), with structures / meanings naturally mimicking the problems in the domains we aim to solve, uneless there is a more terse / faster way of computing the same thing.
+A best translation is always the closest to the original that is the shortest in the new domain, therefore, the best software design is therefore the best transformation from the source (map domain, physics domain etc) to the language understood by the Turing machine (your software), with structures / meanings naturally mimicking the problems in the domains we aim to solve, unless there is a more terse / faster way of computing the same thing.
 
-As an example, let's say if an action `A` can be accomplished with the instructions `I`, and a computer `T` follows the instruction. `T` is flexible in its definition (maybe even humans, if humans are Turing machines)! Provided that the same thing can be accomplished by a computer program `P` running on computer `C`. This means that there must be a translation betweeen `I` and `P`, understood by `T` and `C` respectively. The translation principle still follows (similar in meaning but as terse as possible) in this case, without exception.
+As an example, let's say if an action `A` can be accomplished with the instructions `I`, and a computer `T` follows the instruction. `T` is flexible in its definition (maybe even humans, if humans are Turing machines)! Provided that the same thing can be accomplished by a computer program `P` running on computer `C`. This means that there must be a translation between `I` and `P`, understood by `T` and `C` respectively. The translation principle still follows (similar in meaning but as terse as possible) in this case, without exception.
 
 
 ## Strategy pattern

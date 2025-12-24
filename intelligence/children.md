@@ -20,7 +20,7 @@ When babies do that, there are 2 possibilities
 
 1. They have different concepts just not enough vocabulary
 2. They have one concept and only refine as needed
-In the ball example, it sounds to me like 1 is true, or else the baby wouldn't be frustrated. But in their mind it might be 2, that the same word is used for different concepts. They know it's different stuff, but the abstract boundaries havent been fine tuned.
+In the ball example, it sounds to me like 1 is true, or else the baby wouldn't be frustrated. But in their mind it might be 2, that the same word is used for different concepts. They know it's different stuff, but the abstract boundaries haven't been fine tuned.
 
 What follows is that when kids first learn abstract terms, they must already have understood the abstraction. Problem is, when? The apple hat example suggests that when kids refer to a red helmet as apple hat, they think that it is related to apples rather than the more abstract "red", "round", and suggested that it is a memory retrieval process and in their mind, the abstraction "red" "round" might not have fully been formed yet.
 
@@ -43,7 +43,7 @@ Evidence
 https://writing.rochester.edu/celebrating/2013/Verhoeven.pdf
 
 > Babies have very plastic brains and they learn through a process called "Schema" which we actually still use throughout development. Babies learn that certain things are similar and that sounds make other people respond to their needs so they use them. This is why, for instance, a child becomes upset when you bring them their ball when they are demanding their ball. Because they don't recognize that "ball" means ball they think "ball" means "thing I play with" and what they ACTUALLY want is their teddy bear. This is also why small children might refer to every man as "daddy" because that just means "not mama" to them.
-In your example of the ball, the important thing is that when the child calls the teddy bear "ball," the parent or caregiver will automatically say "Haha. That's not a ball that's a teddy bear." and they would probably exagerate "teddy bear." Then the toddler repeats "teddy bear" the best they can and the parent says "Yes teddy bear!". Usually there would be a lot of back and forth and playfulness over this. So that's the real way children learn language and develop their schemata. It's from the feedback and playful corrections.
+In your example of the ball, the important thing is that when the child calls the teddy bear "ball," the parent or caregiver will automatically say "Haha. That's not a ball that's a teddy bear." and they would probably exaggerate "teddy bear." Then the toddler repeats "teddy bear" the best they can and the parent says "Yes teddy bear!". Usually there would be a lot of back and forth and playfulness over this. So that's the real way children learn language and develop their schemata. It's from the feedback and playful corrections.
 >
 
 > Children tend to learn concepts first and then later find out that there are words for the concept that they just experienced

@@ -24,7 +24,7 @@ Students might want to pay, but they are the ones with the least money.
 
 Not reproducible enough, which is not compatible with businesses, by definition, reproducible processes. Good at experimenting / prototypes does not mean good at engineering / production.
 
-3. No techinical moat
+3. No technical moat
 
 Prompt tuning has a low skill ceiling. Everything you can do I can do too, and vice versa. So you cannot capture value as once value is found, it's spread out.
 
@@ -58,7 +58,7 @@ Save time in (inefficient) process, not creating value.
 
 ## Unicorn where?
 
-Simple excercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years. As of moment of writing, no unicorn relying on prompt tuning exists (companies that rely on being LLM platform are not themselves reliant on prompt tuning, and companies just using LLM as autocompletion API I wouldn't count as well, specifically copilot as codex predates GPT 3.5).
+Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years. As of moment of writing, no unicorn relying on prompt tuning exists (companies that rely on being LLM platform are not themselves reliant on prompt tuning, and companies just using LLM as autocompletion API I wouldn't count as well, specifically copilot as codex predates GPT 3.5).
 
 # Frontend vs Backend
 
