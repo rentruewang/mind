@@ -3,6 +3,8 @@
 Amusing = not predictable (creative)
 Emotion vs logic (good stories make you learn about humans)
 Something new (creative, surprising)
+Engaging (keeps you thinking, suspense)
+Relatable characters (make you care)
 
 _I personally use this metric: Do I want to read it a second time?_
 
@@ -30,6 +32,15 @@ Loose = modular and distributed
 Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal in a loose plot may not even be noticable in plot.
 
 
+### Engaging stories
+
+Stories are engaging when they are tight.
+
+1. Chain effect: The story is sequential
+2. Actions have meanings, where they affect outcome: The story is leaky.
+3. Lots of clues that get picked up later: Story is leaky.
+4. Leaky world building: Don't show the world at once, god viewpoint (too plain and straight forward) makes the story boring. Reveal the world little by little from details and characters' behaviors.
+5. Having conflicts. Without conflicts, it would just be a linear story.
 
 ## Good characters
 
@@ -41,6 +52,17 @@ Each character should be optimizing for their own goals (with their own view, hi
 Should not be a plot device (plot would have to be good despite each character making the most "obvious" choice from their own view).
 
 Does not have the view of god (reader). This includes: talking "out of character" to tell the plot, revealing their own mind (in an out of character way) to tell readers what they are thinking.
+
+### Climax
+
+**By definition, the most emotional part.**
+
+_A convergence point of a lot of previous threads, or diverge into many points._ To sum up, _the part that is tightly connected to other plot lines_. Densly packed with info.
+
+Tension (that are built up) breaks in an explosive way, or a major turning point.
+
+A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High stakes (between character / events you care about).
+
 
 ## Show don't tell
 
@@ -58,9 +80,15 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 Jin Yong:
 
-> Good architecture (very demanding and tight (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. Shows character growth and change well. This allows people to create lots of theories. 3D characters, using indirect, varied characterization to depict characters' personality, making them realistic. Lots of foreshadowing. Lots of things happening.
+> Good architecture (very demanding and tight (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**.
+> Good world building allows people to create lots of theories. 3D characters, using indirect, varied characterization to depict characters' personality, making them realistic. Lots of foreshadowing and clues. Lots of things happening.
 
-> Characters make "natural" decisions. Not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
+> Characters make "natural" decisions. Not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories.
+> Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
+> Characters have many many different personalities, and are unique. Shows character growth and change well. Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling.
+
+> Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
+> Creative fights. Does not repeat himself.
 
 Sherlock Holmes:
 
@@ -68,7 +96,7 @@ Sherlock Holmes:
 
 Gu Long:
 
-> Tell don't show, characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
+> Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
 
 > Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
 
