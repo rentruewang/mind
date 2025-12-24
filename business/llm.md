@@ -51,7 +51,6 @@ How, then, are they so good at benchmarks? They cheated. Training testing set le
 
 Save time in (inefficient) process, not creating value.
 
-
 9. No creativity
 
 *I believe creativity comes from planning*.

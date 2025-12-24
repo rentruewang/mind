@@ -26,7 +26,6 @@ A best translation is always the closest to the original that is the shortest in
 
 As an example, let's say if an action `A` can be accomplished with the instructions `I`, and a computer `T` follows the instruction. `T` is flexible in its definition (maybe even humans, if humans are Turing machines)! Provided that the same thing can be accomplished by a computer program `P` running on computer `C`. This means that there must be a translation between `I` and `P`, understood by `T` and `C` respectively. The translation principle still follows (similar in meaning but as terse as possible) in this case, without exception.
 
-
 ## Strategy pattern
 
 Strategy pattern is better than if else because the power lies in easy removal of components, where as binary decision has a boundary engrained in the branching logic. This allows modular components to even have overlaps or null implementations.

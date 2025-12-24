@@ -32,7 +32,6 @@ Also I never was able to spend time on coding for this long, which made my made 
 
 Maybe I focus too much on simplicity and terseness, not necessarily approachability and maintainability.
 
-
 ## Platform type code I read
 
 2019/08: CPython. Specifically around types.
@@ -42,7 +41,6 @@ Maybe I focus too much on simplicity and terseness, not necessarily approachabil
 Honorable mention: Spark / Postgres / Clickhouse somewhere in 2025.
 
 Reading these platform type source code has dramatically improved my ability to design code, as those are pretty abstract, has good code quality themselves, and employ a lot of data structures / algorithms / tricks to be robust. Especially crafting interpreters made my coding skills improve by a lot.
-
 
 ## Previous projects' processes
 

@@ -27,7 +27,6 @@ World models allow planning (provides transition).
 
 You simply cannot do any of which without memory.
 
-
 Especially since brain is more of a sequence machine, where you identify patterns in sequences, memory is used for retrieval and similarity comparison.
 
 Learning the fundamentals and understand a knowledge -> able to use it in various ways, and plan with it

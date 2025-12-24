@@ -20,7 +20,6 @@ Parrots and babies have small vocabulary,
 but we say that they understand because they can use the vocabularies to plan,
 and understand the transitions between different states of minds (world models).
 
-
 ## RL
 
 RL is very robust... up to a certain point. RL on small models are generally super easy to train, but getting exponentially more difficult the bigger the model is, requiring very careful tuning and reward designing. Why?

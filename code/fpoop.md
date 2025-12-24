@@ -28,7 +28,6 @@ See this amazing [link](https://craftinginterpreters.com/representing-code.html)
 
 Perhaps typeclasses in FP simulates protocols in OOP?
 
-
 ## What each is good at
 
 Since purest FP doesn't have the notion of time,
@@ -53,12 +52,14 @@ I feel like good = simple. Easy to understand, elegant, minimizing information e
 Compared to each other
 
 - OOP relaxes:
-    Mutation. Sometimes good and simplest OOP code use this, and can mutate global state. (Contexts, command line parser, global variables etc).
-    Easy polymorphism. This means objects can be as complicated as possible. This means you can write libraries that capture only high level business logic.
+
+  Mutation. Sometimes good and simplest OOP code use this, and can mutate global state. (Contexts, command line parser, global variables etc).
+  Easy polymorphism. This means objects can be as complicated as possible. This means you can write libraries that capture only high level business logic.
 
 - FP relaxes:
-    Places where you can use the functions. This means instead of if-else, you can use function pointers and don't hard code the decision boundary.
-    Relation between objects. This means you can use them however you like, each are going to be isolated for the most part.
+
+  Places where you can use the functions. This means instead of if-else, you can use function pointers and don't hard code the decision boundary.
+  Relation between objects. This means you can use them however you like, each are going to be isolated for the most part.
 
 ## Problem with FP (sum types)
 
@@ -104,7 +105,8 @@ This means that usually better OOP design (simpler) has fewer methods,
 and better FP design (simpler) has fewer data types.
 
 > This means that compilers are usually FP's killer application.
-According to some strangers on stack overflow.
+
+... According to some strangers on stack overflow.
 
 ## Examples to demonstrate FP's problem
 

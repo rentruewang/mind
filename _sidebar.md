@@ -1,22 +1,22 @@
-* Coding
-    * [Coding designs](./code/designs.md)
-    * [Fundamentals](./code/fundamentals.md)
-    * [My journey](./code/journey.md)
-    * [Languages](./code/languages.md)
-    * [Simplicity](./code/simplicity.md)
-    * [Similarity](./code/similar.md)
-    * [FP vs OOP](./code/fpoop.md)
-* Intelligence
-    * [How humans program](./intelligence/how.md)
-    * [Human brain](./intelligence/brain.md)
-    * [How children learn](./intelligence/children.md)
-    * [Problem solving](./intelligence/problem.md)
-    * [More](./intelligence/more.md)
-* Entertainment
-    * [Computation](./entertainment/compute.md)
-    * [Starcraft](./entertainment/starcraft.md)
-    * [Stories](./entertainment/stories.md)
-* Business
-    * [LLM](./business/llm.md)
-    * [Apps](./business/apps.md)
-    * [Starting](./business/founding.md)
+- Coding
+  - [Coding designs](./code/designs.md)
+  - [Fundamentals](./code/fundamentals.md)
+  - [My journey](./code/journey.md)
+  - [Languages](./code/languages.md)
+  - [Simplicity](./code/simplicity.md)
+  - [Similarity](./code/similar.md)
+  - [FP vs OOP](./code/fpoop.md)
+- Intelligence
+  - [How humans program](./intelligence/how.md)
+  - [Human brain](./intelligence/brain.md)
+  - [How children learn](./intelligence/children.md)
+  - [Problem solving](./intelligence/problem.md)
+  - [More](./intelligence/more.md)
+- Entertainment
+  - [Computation](./entertainment/compute.md)
+  - [Starcraft](./entertainment/starcraft.md)
+  - [Stories](./entertainment/stories.md)
+- Business
+  - [LLM](./business/llm.md)
+  - [Apps](./business/apps.md)
+  - [Starting](./business/founding.md)
