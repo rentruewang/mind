@@ -99,7 +99,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Overall just feels **real**.
 
-- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Lots of foreshadowing and clues. Lots of things happening.
+- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines.
+
+- Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest.
+
+- Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint).
 
 - Characters make "natural" decisions, driving plots (not the other way around). They are driven by their own unique motivations. The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories.
 
