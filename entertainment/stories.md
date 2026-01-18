@@ -16,7 +16,9 @@ Relatable characters (make you care)
 
 Mimics how humans acquire information in real life (realism)
 
-Show don't tell (make readers figure out themselves, more realistic)
+Show don't tell (make readers figure out themselves the characters' motivations etc, more realistic)
+
+Being too straightforward and linear (no branching) can be too predictable and simple, because it is not how a person's attention shifts.
 
 ## Personally
 
@@ -97,11 +99,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), good writing, realistic characters, engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Overall just feels **real**.
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), good writing, realistic characters, nonlinear and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**.
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines.
 
-- Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest.
+- Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading does'nt feel boring due to having lots of details (that look insignificant at first).
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint).
 
@@ -109,7 +111,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well. Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling.
+- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories.
 
 - Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**.
 
@@ -117,7 +119,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Creative fights. Does not repeat himself.
 
-- Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected.
+- Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction.
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
 
