@@ -21,6 +21,10 @@ Even transmitting a packet counts as computation, because it's changing state (l
 - I think it's just types of data and the type of compute (abstract, reasoned with invariance) that can be performed on them. Considering that every function is data -> compute -> data, abstraction in terms of breaking down functions are just composing data into intermediate representation, and abstract interfaces are shared traits of different data + specialized compute for each kind of data.
 - Abstractions are just using computation to transform underlying data into the same mathematic model. Compiler optimizing this away = 0 cost. Some data structures might happen to have a better complexity but those are implementation details.
 
+## Modularity and abstraction
+
+To produce maximally modular code, the component itself is kept small (more specific, more use in places), and the contract options large / interface less demanding (more abstract, accepts more items). This gets reflected in function signature (see covariance and contravariance of input / output).
+
 ## How modeling works
 
 Hardware program: you find a set of physical constructs with mathematical property, like adder, and work from there.
