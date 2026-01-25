@@ -1,3 +1,15 @@
+# Stories
+
+## Implementation
+
+Attention = pull model / lazy evaluation
+
+Story telling (for a single plot line) = event model + filtering (how many details e.g. only record changes in mindset / reactions and ofc. dialogue)
+
+Clue / reference = cross component link
+
+Author's work is to plan out the story and the events (initial condition is the characters and their nature), directing the game-script tree to an interesting path.
+
 ## When stories are good
 
 Amusing = not predictable (creative)
