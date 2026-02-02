@@ -8,11 +8,23 @@ Story telling (for a single plot line) = event model + filtering (how many detai
 
 Clue / reference = cross component link
 
-Author's work is to plan out the story and the events (initial condition is the characters and their nature), directing the game-script tree to an interesting path.
+Author's work:
+
+1. Simulate: Generate the game-script tree many ways (initial condition is the characters and their nature). Each node is a decision / event.
+2. Plan: Highlight interesting paths in the game-script tree (plan out the story and the events).
+3. Assemble: Linearize the tree. Adjust and select important events to present in ways natural to humans (pacing and storytelling).
+
+Writing style:
+
+*The way the story is presented to the reader, 5W1H to present, low level and high level.*
+
+Mostly focusing on 2 and 3.
+
+But, writing is usually a multi-step process like a compiler e.g. there can be multiple steps of planning and assembly, focusing on different aspects, and not neccessarily in 123 order.
 
 ## When stories are good
 
-Amusing = not predictable (creative)
+Unexpected, but reasonable. Amusing = not predictable (creative)
 
 Emotion vs logic (good stories make you learn about humans)
 
@@ -22,7 +34,7 @@ Writing = ability to describe with ease, and to convey what's going on to the re
 
 Good writing = efforless, disappears into the background (I think it serves the plot, not the other way around).
 
-Engaging (keeps you thinking, suspense)
+Engaging (keeps you thinking, suspense, pacing)
 
 Relatable characters (make you care)
 
@@ -73,6 +85,7 @@ Stories are engaging when they are tight.
 6. Having conflicts and tension. Without conflicts, it would just be a linear story. This makes the stories exciting.
 7. Having twists (perhaps caused by conflicts or revaling new info). Without twists, it would be linear.
 8. Right place, right time, right character: This coupled with chain effect makes the plot interesting yet realistic. Characters shouldn't be overly lucky. Some luck is OK.
+9. Stories should have good pace and keep the readers engaged.
 
 ## Good characters
 
@@ -111,7 +124,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), good writing, realistic characters, nonlinear and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**.
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), good pacing, good writing, realistic characters, nonlinear and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**.
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
 
@@ -146,6 +159,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
 
 - Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+
+- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
 
 ###### JOJO
 
