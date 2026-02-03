@@ -34,7 +34,9 @@ Writing = ability to describe with ease, and to convey what's going on to the re
 
 Good writing = efforless, disappears into the background (I think it serves the plot, not the other way around).
 
-Engaging (keeps you thinking, suspense, pacing)
+Engaging (keeps you thinking, suspense).
+
+Pacing (too fast: exhausting, no meaningful connection; too slow: dull, boring, non engaging).
 
 Relatable characters (make you care)
 
@@ -83,7 +85,7 @@ Stories are engaging when they are tight.
 4. Leaky events: Don't show the world at once, god viewpoint (too plain and straight forward) makes the story boring. Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
 5. Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
 6. Having conflicts and tension. Without conflicts, it would just be a linear story. This makes the stories exciting.
-7. Having twists (perhaps caused by conflicts or revaling new info). Without twists, it would be linear.
+7. Having twists and turns (perhaps caused by conflicts or revealing new info). Without twists, it would be linear, and would be predictable.
 8. Right place, right time, right character: This coupled with chain effect makes the plot interesting yet realistic. Characters shouldn't be overly lucky. Some luck is OK.
 9. Stories should have good pace and keep the readers engaged.
 
