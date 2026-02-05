@@ -1,0 +1,51 @@
+name: Format
+on: [push]
+jobs:
+  format-cpp:
+    name: 📀 Formatting C++
+    runs-on: ubuntu-latest
+    steps:
+      # Global part
+      - name: 🔔 Check out
+        uses: actions/checkout@v3
+
+      # C++ part
+      - name: 🏗️ 🏃 clang-format
+        uses: DoozyX/clang-format-lint-action@v0.20
+        with:
+          source: ./cpp
+          extensions: h,c,hpp,cpp
+          clangFormatVersion: 20
+
+  formta-py:
+    defaults:
+      run:
+        working-directory: ./py
+    name: 📀 Formatting Python
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🔔 Check out
+        uses: actions/checkout@v3
+
+      - name: 🏗️ python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: ⬇️ Python PDM
+        uses: pdm-project/setup-pdm@v4
+
+      - name: ⬇️ Python Dependencies
+        run: pdm install -G:all
+
+      - name: 🚂 Activate environment
+        run: echo "$(pdm venv --path in-project)/bin" >> $GITHUB_PATH
+
+      - name: 🏃 autoflake, isort, black
+        run: autoflake --check .
+
+      - name: 🏃 isort
+        run: isort --check .
+
+      - name: 🏃 black
+        run: black --diff .
