@@ -175,8 +175,9 @@ class cache : public compute {
 //
 // This is because in the worst case (and in this case where releasing is dumb),
 // it's holding on to resources as long as the call stack (last in first out),
-// it acquires in pre-order (to the expression tree), but releases in post-order,
-// so the number of concurrent tasks are the size of the entire sub-tree.
+// it acquires in pre-order (to the expression tree), but releases in
+// post-order, so the number of concurrent tasks are the size of the entire
+// sub-tree.
 //
 // For example, when budget = 1, a depending on b,
 // a would require a thread to run, and then b would require a thread to run,
