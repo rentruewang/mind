@@ -1,30 +1,32 @@
 # Stories
 
-## Implementation
+## How writing happens
 
-Attention = pull model / lazy evaluation
+### Simulation
 
-Story telling (for a single plot line) = event model + filtering (how many details e.g. only record changes in mindset / reactions and ofc. dialogue)
+Generate the game-script tree many ways (initial condition is the characters and their nature). Each node is a decision / event.
 
-Clue / reference = cross component link
+### Planning
 
-Author's work:
+Highlight interesting paths in the game-script tree (plan out the story and the events).
 
-1. Simulate: Generate the game-script tree many ways (initial condition is the characters and their nature). Each node is a decision / event.
-2. Plan: Highlight interesting paths in the game-script tree (plan out the story and the events).
-3. Assemble: Linearize the tree. Adjust and select important events to present in ways natural to humans (pacing and storytelling).
+### Assembly
 
-Writing style:
+Linearize the tree. Adjust and select important events to present in ways natural to humans (pacing and storytelling).
 
-*The way the story is presented to the reader, 5W1H to present, low level and high level.*
+### Delivery
 
-Mostly focusing on 2 and 3.
+The way words are fed to the reader, is a form of communication (good = clear). Good delivery has good emphasis and is less tiring to read. Shows, don't tell.
 
-But, writing is usually a multi-step process like a compiler e.g. there can be multiple steps of planning and assembly, focusing on different aspects, and not neccessarily in 123 order.
+Emphasis: techniques like contrasting, projection of mental state to environment.
+
+Pacing: Using various techniques, different angles / events to describe the same thing, surprise.
+
+Attention: Enumerating concrete instances to defining behaviors abstractly (e.g. describe in detail about the first few people passing by, and then said there are several groups passing by, which is how the brain works). This helps lessen cognitive load.
 
 ## When stories are good
 
-Unexpected, but reasonable. Amusing = not predictable (creative)
+Unexpected, but reasonable (requires creativity). Amusing = not predictable (creative). This is an optimization problem.
 
 Emotion vs logic (good stories make you learn about humans)
 
@@ -42,7 +44,7 @@ Relatable characters (make you care)
 
 Mimics how humans acquire information in real life (realism)
 
-Show don't tell (make readers figure out themselves the characters' motivations etc, more realistic)
+Show don't tell (make readers figure out themselves the characters' motivations etc, more realistic, **more immersion**).
 
 Being too straightforward and linear (no branching) can be too predictable and simple, because it is not how a person's attention shifts.
 
@@ -50,57 +52,127 @@ Being too straightforward and linear (no branching) can be too predictable and s
 
 _I personally use this metric: Do I want to read it a second time?_
 
-## Good story architecture
+## Story architecture
 
-Modular linear stories are bad. Not to say that good stories take detours, but every story leaks into others.
+### Story telling
 
-Everything happens in parallel, each having their lasting effects.
+For a single plot line, event model + filtering (how many details e.g. only record changes in mindset / reactions and ofc. dialogue)
 
-**Scale**: Stories should scale with the length. This keeps individual threads simpler and in check (easier for readers to understand), as well as introducing many more various elements to keep readers engaged. If too many events happen to a too small subset of people (non main character), it can feel tiring, soapy, and would be difficult to convince readers of the back and forth change of mindset. As well as being predictable.
+### Connections
 
-Good stories keeps you guessing due to having lots of options, just like real life.
+Clues are cross component link.
 
-This is why writing good stories are hard, because it requires very good memory.
+2 types of connections: spatial vs temporal
 
-### Tight vs loose plot
+#### Spacial connections: Connected characters.
 
-Tight = leaky and sequential
-Loose = modular and distributed
+The more the merrier.
 
-**Modular vs leaky**: Modular: Each story is self contained. Leaky is the opposite.
+If multiple peoples fate are connected together, things happening at one place cannot be _modular_, affecting only itself. Each story / plot line will not be self contained, but far reaching in terms of effect.
 
-**Sequential vs distributed**: Sequential: one scene affects the scene after. Distributed: portraits individual scenes, and join up to a wholistic view.
+Lots of clues that get picked up later, which causes further changes in other characters' behaviors.
+
+#### Temporal connections: Decision making.
+
+The more the merrier.
+
+One scene affects the outcome on a person / plot line heavily. If a person's decisions have meanings, it is highly coupled in temporal dimension.
+
+Chain effect: one thing causes the next.
+
+Actions have meanings, where they affect outcome.
 
 #### Ablation study
 
+We can study connections with ablation study; remove one component and observe the difference.
+
 Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal of a chapter in a loose plot may not even be noticible in plot.
 
-### Engaging stories
+### Engaging stories (human mechanism)
 
-Stories are engaging when they are tight.
+Human brains are a bunch of neurons, so let's discuss with regards to how good stories optimize reward functions in our brain.
 
-1. Chain effect: The story is sequential
-2. Actions have meanings, where they affect outcome: The story is leaky.
-3. Lots of clues that get picked up later: Story is leaky.
-4. Leaky events: Don't show the world at once, god viewpoint (too plain and straight forward) makes the story boring. Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
-5. Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
-6. Having conflicts and tension. Without conflicts, it would just be a linear story. This makes the stories exciting.
-7. Having twists and turns (perhaps caused by conflicts or revealing new info). Without twists, it would be linear, and would be predictable.
-8. Right place, right time, right character: This coupled with chain effect makes the plot interesting yet realistic. Characters shouldn't be overly lucky. Some luck is OK.
-9. Stories should have good pace and keep the readers engaged.
+#### Attention
+
+Pull model / lazy evaluation. If a story follows natural order of the way attending to things, it's easier to consume.
+
+Don't show the world at once, from the god viewpoint (too plain and straight forward) makes the story boring. But rather, follow the characters' attentions. Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
+
+Stories should have good pace and keep the readers engaged. Quick pace may be overwhelming, slow pace may be underwhelming.
+
+#### Exploration
+
+**Unexpected, but reasonable**. New aspect revealed, new potention uncovered.
+
+Good stories keeps you guessing due to having lots of options, just like real life.
+
+Having twists and turns (perhaps caused by conflicts or revealing new info). Without twists, it would be linear, and would be predictable. This also keeps the state of the story complex, and each character would have more flexibility in performing actions (less predictable, more exploration).
+
+#### Exploitation
+
+A character in the book makes a decision, you get to observe how good it is (how much reward is received).
+
+This requires very a lot of memory s.t. characters behave like themselves.
+
+Having *conflicts, tension, and stakes*. Without conflicts, it would just be a linear story. This makes the stories exciting (decision has meanings).
+
+Climax and conflicts: Exploiting multiple plot lines' decision points.
+
+Right place, right time, right character: This coupled with chain effect makes the plot interesting yet realistic. Characters shouldn't be overly lucky. Some luck is OK.
+
+#### Immersion
+
+**Show, don't tell.**
+
+Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
+
+Their decisions have to move you: you need to feel attached, and there are stakes.
+
+### Entities management
+
+Regarding entities management, there are 2 types: people and events.
+
+People should drive events, not the other way around (would be too coincidental).
+
+#### Event management (pacing).
+
+How many events to write?
+
+Too many: Too exhausting.
+
+Too few: Too boring, predictable.
+
+#### People management (scaling)
+
+How many people to write?
+
+Too many: Attention is split, no time to feel attached, taxing.
+
+Too few: As novels already depict fewer people than in real life, it would be unnatural and predictable and too simple if ther are too few people involved.
+
+Since people drive events, too few events can be generated.
+
+#### Balance
+
+Number of events and number of people should scale with the length of the story. This keeps individual threads simpler and in check (easier for readers to understand), as well as introducing many more various elements to keep readers engaged.
+
+If too many events happen to a too small subset of people (non main character), it can feel tiring, soapy, and would be difficult to convince readers of the back and forth change of mindset.
+
+As well as being predictable.
 
 ## Good characters
 
-Realistic character depiction involves a lot of subtext, requiring readers to be actively involved,
-and characters cannot be monotonous (3D).
+Realistic character depiction involves a lot of subtext, requiring readers to be actively involved, and characters cannot be monotonous (3D).
 
-Each character should be optimizing for their own goals (with their own view, history, experience, and story),
+Each character should be optimizing for their own goals (with their own view, history, experience, and story).
 
 Should not be a plot device (plot would have to be good despite each character making the most "obvious" choice from their own view).
 
 Does not have the view of god (reader). This includes: talking "out of character" to tell the plot, revealing their own mind (in an out of character way) to tell readers what they are thinking.
 
-### Climax
+Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
+
+## Climax
 
 **By definition, the most emotional part.**
 
@@ -134,7 +206,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text.
 
-- Characters make "natural" decisions, driving plots (not the other way around). They are driven by their own unique motivations. The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly.
+- Characters make "natural" decisions, driving plots (not the other way around). They are driven by their own unique motivations (not external plots). The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly.
 
 - Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
 
@@ -146,11 +218,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Creative fights. Does not repeat himself.
 
-- Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction.
+- Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective.
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
 
-- Direct readers attentions into his best aspects of writing, using appraochable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
+- Direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
+
+- Good delivery. Uses various techniques to not repeat (in words) and tire the readers. Know how to use words to direct readers' attentions, and compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost).
 
 ###### Sherlock Holmes
 

@@ -35,3 +35,7 @@ Strategy pattern is better than if else because the power lies in easy removal o
 Reading vs designing code feels much different.
 Reading → just simulating different conditions and think how they interact, possibly compiling and optimizing existing logic.
 Designing → Wholistic and breaking down problems
+
+## Rewrites
+
+Rewrite (architecture) is only when business problems change, because architecture is usually derived from business problems and no one uses a harder than necessary architecture.
