@@ -2,7 +2,7 @@ name: Format
 on: [push]
 jobs:
   format-cpp:
-    name: 📀 Formatting C++
+    name: ➕ Formatting C++
     runs-on: ubuntu-latest
     steps:
       # Global part
@@ -21,7 +21,7 @@ jobs:
     defaults:
       run:
         working-directory: ./py
-    name: 📀 Formatting Python
+    name: 🐍 Formatting Python
     runs-on: ubuntu-latest
     steps:
       - name: 🔔 Check out
