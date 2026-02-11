@@ -44,7 +44,7 @@ Relatable characters (make you care)
 
 Mimics how humans acquire information in real life (realism)
 
-Show don't tell (make readers figure out themselves the characters' motivations etc, more realistic, **more immersion**).
+Show don't tell (make readers figure out themselves the characters' motivations etc, more realistic, give lots of details so readers can run their own imagination and hence **more immersion**).
 
 Being too straightforward and linear (no branching) can be too predictable and simple, because it is not how a person's attention shifts.
 
@@ -204,7 +204,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show how the characters' characters, and change in emotional states. Lots of attention to details. Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading does'nt feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Clues: Plant clues deep and many and scattered (sometimes being an unreliable narrator for hidden lines). Uses characters' hidden motivations to connect to different parts, and deceive readers' attention by focusing on parts he wants you to focus on, making re-reading possible. (e.g. Some praises turn out to be criticism if you look at the whole picture, some events are spoken about from one person's viewpoint, and would be different if it's another person's, some characters are "written" one way but "show" another way, reveal some different aspects of characters due to some events, absense can be used to emphasize something, etc). Don't get misguided by diaglogue from the characters, but should observe their actions! Observe the details.
+- Clues: Plant clues deep and many and scattered (sometimes being an unreliable narrator for hidden lines). Uses characters' hidden motivations to connect to different parts, and deceive readers' attention by focusing on parts he wants you to focus on, making re-reading possible. (e.g. Some praises turn out to be criticism if you look at the whole picture, some events are spoken about from one person's viewpoint, and would be different if it's another person's, some characters are "written" one way but "show" another way, reveal some different aspects of characters with similar events (different parameters), absense can be used to emphasize something, etc).
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text.
 
@@ -224,7 +224,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
 
-- Direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
+- Direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real. Don't get misguided by diaglogue from the characters, but should observe their actions! Observe the details.
 
 - Good delivery. Uses various techniques to not repeat (in words) and tire the readers. Know how to use words to direct readers' attentions, and compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost).
 
