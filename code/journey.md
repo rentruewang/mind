@@ -8,7 +8,9 @@ When I was in RL / ML, I mostly didn't care about code quality.
 
 When I was still doing eda -> I optimized for fanciness and speed
 
-Started caring about simplicity / readability in 2021 -> Huffman and brief
+Started caring about simplicity / readability in 2021 -> Huffman and brief.
+
+Functions start being as short as possible (not yet as abstract and DRY as possible).
 
 ### Open source in 2021
 
