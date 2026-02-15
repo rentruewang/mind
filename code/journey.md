@@ -11,6 +11,7 @@ When I was still doing eda -> I optimized for fanciness and speed
 Started caring about simplicity / readability in 2021 -> Huffman and brief.
 
 Functions start being as short as possible (not yet as abstract and DRY as possible).
+Being short is an implicit constraint on simplicity.
 
 ### Open source in 2021
 
