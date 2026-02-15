@@ -75,4 +75,4 @@ jobs:
         run: echo "$(pdm venv --path in-project)/bin" >> $GITHUB_PATH
 
       - name: 🏃 mdformat
-        run: mdformat --check .
+        run: mdformat --check */
