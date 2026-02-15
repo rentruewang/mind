@@ -65,7 +65,7 @@ Compared to each other
 
 I personally feel that immutability aspect of FP is very nice,
 but sum types (tagged union)... they make code easy to write but difficult to verify.
-Hurts readability.
+Hurts readability (too much branching).
 
 Let me explain.
 
