@@ -58,5 +58,8 @@ We can think of the interpreter emission doing 2 things.
 So it can be treated as a special case of action.
 
 Reward is not modelled.
+
+RL scores how good an instruction sequence is, and can be used to compare 2 trajectories.
+
 Point is, RL can be modelled with interpreter architecture,
 and brain is a very powerful general purpose computer.
