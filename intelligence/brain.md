@@ -37,3 +37,17 @@ This means that the high level decision making would be simple, as the high leve
 Why does the world model work in this case, but not in a lot of hierarchical RL agents? Simply put, because it is **not trained end to end, it changes very slowly**. Not to mention, as the agents are smaller, they are more oblivious to change. **This means that the world models themselves do not cause destructive updates**, and thus eliminate a lot of issues found in HRL in the field.
 
 Other examples: 90% of an octopus's neurons are in its legs, yet it has very intelligent behavior. An ant hive can also be thought of as intelligent, even though individually ants are rather stupid.
+
+## Interpreters
+
+Interpreters are a very robust abstraction, pretty much everything can be modelled as an interpreter. Why?
+
+Instruction -> interpreter -> emission
+
+matches the RL
+
+observation -> state -> action (reward)
+
+which we know that brains run on.
+
+Brain is a very powerful general purpose computer.
