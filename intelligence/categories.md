@@ -11,3 +11,5 @@ because genetic algorithm and evolution strategy can acomplish the same thing,
 with largely the same formulation.
 
 How about optimization algorithms like Bayesian optimization?
+
+What about planning?
