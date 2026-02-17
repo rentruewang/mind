@@ -42,12 +42,19 @@ Other examples: 90% of an octopus's neurons are in its legs, yet it has very int
 
 Interpreters are a very robust abstraction, pretty much everything can be modelled as an interpreter. Why?
 
-Instruction -> interpreter -> emission
+Instruction + state of machine -> interpreter -> emission
 
 matches the RL
 
-observation -> state -> action (reward)
+observation / state -> RL agent -> action (reward)
 
 which we know that brains run on.
+
+We can think of the interpreter emission doing 2 things.
+
+1. Update the state of machine.
+2. Set the PC to the next instruction.
+
+So it can be treated as a special case of action.
 
 Brain is a very powerful general purpose computer.
