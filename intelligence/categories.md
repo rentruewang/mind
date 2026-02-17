@@ -1,4 +1,4 @@
-# Categories
+# Categories of machine learning
 
 Traditionally there are 3 categories:
 
