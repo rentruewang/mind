@@ -17,12 +17,12 @@
 using namespace std;
 
 // The compute class, with couple of members, representing differnt operations.
-class compute : enable_shared_from_this<compute> {
+class Compute : enable_shared_from_this<Compute> {
    public:
-    compute() : call_count_(0) {}
-    virtual ~compute() {}
+    Compute() : call_count_(0) {}
+    virtual ~Compute() {}
     virtual int eval() = 0;
-    virtual vector<shared_ptr<compute>> children() const = 0;
+    virtual vector<shared_ptr<Compute>> children() const = 0;
     virtual string str() const = 0;
 
     int operator()() {
@@ -37,9 +37,9 @@ class compute : enable_shared_from_this<compute> {
     size_t call_count_;
 };
 namespace {
-class semaphore_guard {
+class SemaGuard {
    public:
-    semaphore_guard(counting_semaphore<>& sem, const string& by)
+    SemaGuard(counting_semaphore<>& sem, const string& by)
         : sem_(sem), by_(by) {
         cout << "acq(" << by_ << ")\n";
         sem_.acquire();
@@ -56,10 +56,10 @@ class semaphore_guard {
 };
 }  // namespace
 // The semaphore class. Simulate a fixed amount of resources (threads).
-class sema {
+class Sema {
    protected:
     // Using a reference s.t. the semaphore don't get copied.
-    sema(counting_semaphore<>& sem) : sem_(sem) {}
+    Sema(counting_semaphore<>& sem) : sem_(sem) {}
     semaphore_guard acquire(const string& by) {
         // Using copy elision, to avoid acquiring and releasing and acquiring.
         return semaphore_guard(sem_, by);
@@ -69,11 +69,11 @@ class sema {
     counting_semaphore<>& sem_;
 };
 
-class literal : public compute {
+class Lit : public Compute {
    public:
-    literal(int i) : data_(i) {}
+    Lit(int i) : data_(i) {}
     int eval() override { return data_; }
-    vector<shared_ptr<compute>> children() const override { return {}; }
+    vector<shared_ptr<Compute>> children() const override { return {}; }
     string str() const override {
         stringstream out;
         out << data_;
@@ -84,9 +84,9 @@ class literal : public compute {
     int data_;
 };
 
-class summation : public compute {
+class Summation : public Compute {
    public:
-    summation(vector<shared_ptr<compute>> op) : operands_(op) {}
+    Summation(vector<shared_ptr<Compute>> op) : operands_(op) {}
 
     int eval() override {
         int summation = 0;
@@ -96,7 +96,7 @@ class summation : public compute {
         return summation;
     }
 
-    vector<shared_ptr<compute>> children() const override { return operands_; }
+    vector<shared_ptr<Compute>> children() const override { return operands_; }
     string str() const override {
         stringstream out;
         for (size_t i = 0; i < operands_.size(); ++i) {
@@ -110,12 +110,12 @@ class summation : public compute {
     }
 
    private:
-    vector<shared_ptr<compute>> operands_;
+    vector<shared_ptr<Compute>> operands_;
 };
 
-class product : public compute {
+class Product : public Compute {
    public:
-    product(vector<shared_ptr<compute>> op) : operands_(op) {}
+    Product(vector<shared_ptr<Compute>> op) : operands_(op) {}
 
     int eval() override {
         int product = 1;
@@ -125,7 +125,7 @@ class product : public compute {
         return product;
     }
 
-    vector<shared_ptr<compute>> children() const override { return operands_; }
+    vector<shared_ptr<Compute>> children() const override { return operands_; }
     string str() const override {
         stringstream out;
         for (size_t i = 0; i < operands_.size(); ++i) {
@@ -139,12 +139,12 @@ class product : public compute {
     }
 
    private:
-    vector<shared_ptr<compute>> operands_;
+    vector<shared_ptr<Compute>> operands_;
 };
 
-class cache : public compute {
+class Cache : public Compute {
    public:
-    cache(shared_ptr<compute> op) : operand_(op) {}
+    Cache(shared_ptr<Compute> op) : operand_(op) {}
 
     int eval() override {
         if (value_ >= 0) {
@@ -155,7 +155,7 @@ class cache : public compute {
         return value_;
     }
 
-    vector<shared_ptr<compute>> children() const override { return {operand_}; }
+    vector<shared_ptr<Compute>> children() const override { return {operand_}; }
     string str() const override {
         stringstream out;
         out << "c(" << operand_->str() << ")";
@@ -163,7 +163,7 @@ class cache : public compute {
     }
 
    private:
-    shared_ptr<compute> operand_;
+    shared_ptr<Compute> operand_;
     int value_ = -1;
 };
 
@@ -182,23 +182,23 @@ class cache : public compute {
 // For example, when budget = 1, a depending on b,
 // a would require a thread to run, and then b would require a thread to run,
 // exceeding the budget (a runs first before b).
-class task_literal : public literal, sema {
+class TaskLiteral : public Lit, Sema {
    public:
-    task_literal(int i, counting_semaphore<>& sem) : literal(i), sema(sem) {}
+    TaskLiteral(int i, counting_semaphore<>& sem) : Lit(i), Sema(sem) {}
 
     int eval() override {
         auto sem{acquire("task_lit_" + str())};
-        return literal::eval();
+        return Lit::eval();
     }
 };
-class task_summation : public summation, sema {
+class TaskSummation : public Summation, Sema {
    public:
-    task_summation(vector<shared_ptr<compute>> op, counting_semaphore<>& sem)
-        : summation(op), sema(sem) {}
+    TaskSummation(vector<shared_ptr<Compute>> op, counting_semaphore<>& sem)
+        : Summation(op), Sema(sem) {}
 
     int eval() override {
         auto sem{acquire("task_sum_" + str())};
-        return summation::eval();
+        return Summation::eval();
     }
 };
 
@@ -207,19 +207,19 @@ class task_summation : public summation, sema {
 // which can be linearly ordered (no deadlock so long as semaphore > 1).
 //
 // The tasks are scheduled in post-order traversal of the expression tree.
-class lazy_literal : public literal, sema {
+class LazyLiteral : public Lit, Sema {
    public:
-    lazy_literal(int i, counting_semaphore<>& sem) : literal(i), sema(sem) {}
+    LazyLiteral(int i, counting_semaphore<>& sem) : Lit(i), Sema(sem) {}
     int eval() override {
         // As literal has no children, this can be the same as `literal_task`.
         auto sem{acquire("lazy_lit_" + str())};
-        return literal::eval();
+        return Lit::eval();
     }
 };
-class lazy_summation : public summation, sema {
+class LazySummation : public Summation, Sema {
    public:
-    lazy_summation(vector<shared_ptr<compute>> op, counting_semaphore<>& sem)
-        : summation(op), sema(sem) {}
+    LazySummation(vector<shared_ptr<compute>> op, counting_semaphore<>& sem)
+        : Summation(op), Sema(sem) {}
     int eval() override {
         vector<int> values;
 
@@ -256,9 +256,9 @@ void raise_error_on_deadlock(counting_semaphore<>& sem, future<string> fut) {
     }
 }
 
-class deadlock_detection_guard {
+class DeadlockGuard {
    public:
-    deadlock_detection_guard(size_t count)
+    DeadlockGuard(size_t count)
         : sem_(counting_semaphore<>(count)), prom_(promise<string>()) {
         th_ = thread(raise_error_on_deadlock, ref(sem_), prom_.get_future());
     }
@@ -270,7 +270,7 @@ class deadlock_detection_guard {
     }
     counting_semaphore<>& sema() { return sem_; }
 
-    ~deadlock_detection_guard() { cancel(); }
+    ~DeadlockGuard() { cancel(); }
 
    private:
     counting_semaphore<> sem_;
@@ -279,23 +279,23 @@ class deadlock_detection_guard {
 };
 
 int main() {
-    using expr = shared_ptr<compute>;
+    using expr = shared_ptr<Compute>;
     expr one, two, three, sum_six, prod_six, twelve, thrity_six;
     vector<expr> one_two_three, six_six;
 
     cout << "---- Normal section ----\n";
     {
-        one = make_shared<literal>(1);
-        two = make_shared<literal>(2);
-        three = make_shared<literal>(3);
+        one = make_shared<Lit>(1);
+        two = make_shared<Lit>(2);
+        three = make_shared<Lit>(3);
 
         one_two_three = {one, two, three};
-        sum_six = make_shared<summation>(one_two_three);
-        prod_six = make_shared<product>(one_two_three);
+        sum_six = make_shared<Summation>(one_two_three);
+        prod_six = make_shared<Product>(one_two_three);
 
         // Too lazy to implemen cache / product for lazy / task.
-        expr cache_sum_six = make_shared<cache>(sum_six);
-        expr cache_prod_six = make_shared<cache>(prod_six);
+        expr cache_sum_six = make_shared<Cache>(sum_six);
+        expr cache_prod_six = make_shared<Cache>(prod_six);
 
         six_six = {cache_sum_six, cache_prod_six};
 
@@ -322,13 +322,13 @@ int main() {
 
     cout << "---- Lazy section ----\n";
     {
-        deadlock_detection_guard sdd(1);
-        one = make_shared<lazy_literal>(1, sdd.sema());
-        two = make_shared<lazy_literal>(2, sdd.sema());
-        three = make_shared<lazy_literal>(3, sdd.sema());
+        DeadlockGuard sdd(1);
+        one = make_shared<LazyLiteral>(1, sdd.sema());
+        two = make_shared<LazyLiteral>(2, sdd.sema());
+        three = make_shared<LazyLiteral>(3, sdd.sema());
 
         one_two_three = {one, two, three};
-        sum_six = make_shared<lazy_summation>(one_two_three, sdd.sema());
+        sum_six = make_shared<LazySummation>(one_two_three, sdd.sema());
         six_six = {sum_six, sum_six};
         twelve = make_shared<lazy_summation>(six_six, sdd.sema());
         assert((*twelve)() == 12);
@@ -338,13 +338,13 @@ int main() {
 
     cout << "---- Task section ----\n";
     {
-        deadlock_detection_guard sdd(1);
-        one = make_shared<task_literal>(1, sdd.sema());
-        two = make_shared<task_literal>(2, sdd.sema());
-        three = make_shared<task_literal>(3, sdd.sema());
+        DeadlockGuard sdd(1);
+        one = make_shared<TaskLiteral>(1, sdd.sema());
+        two = make_shared<TaskLiteral>(2, sdd.sema());
+        three = make_shared<TaskLiteral>(3, sdd.sema());
 
         one_two_three = {one, two, three};
-        sum_six = make_shared<task_summation>(one_two_three, sdd.sema());
+        sum_six = make_shared<TaskSummation>(one_two_three, sdd.sema());
         six_six = {sum_six, sum_six};
         twelve = make_shared<task_summation>(six_six, sdd.sema());
         assert((*twelve)() == 12);

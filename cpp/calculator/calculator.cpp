@@ -32,54 +32,54 @@ shared_ptr<expression> expression::operator/(
 
 expression::~expression() {}
 
-literal::literal(int data) : data_(data) {}
+Lit::Lit(int data) : data_(data) {}
 
-shared_ptr<const expression> literal::simplify() const {
+shared_ptr<const expression> Lit::simplify() const {
     return shared_from_this();
 }
 
-literal::operator string() const {
+Lit::operator string() const {
     return to_string(data_);
 }
 
-int literal::data() const {
+int Lit::data() const {
     return data_;
 }
 
-literal::~literal() {}
+Lit::~Lit() {}
 
-variable::variable(string data) : data_(data) {}
+Var::Var(string data) : data_(data) {}
 
-shared_ptr<const expression> variable::simplify() const {
+shared_ptr<const expression> Var::simplify() const {
     return shared_from_this();
 }
 
-variable::operator string() const {
+Var::operator string() const {
     return data_;
 }
 
-variable::~variable() {}
+Var::~Var() {}
 
-evaluation::evaluation(shared_ptr<const expression> left,
-                       shared_ptr<const expression> right,
-                       string token,
-                       function<int(int, int)> func)
+Eval::Eval(shared_ptr<const expression> left,
+           shared_ptr<const expression> right,
+           string token,
+           function<int(int, int)> func)
     : left_(left), right_(right), token_(token), func_(func) {}
 
-shared_ptr<const expression> evaluation::simplify() const {
-    auto lp = dynamic_pointer_cast<const literal>(left_->simplify());
-    auto rp = dynamic_pointer_cast<const literal>(right_->simplify());
+shared_ptr<const expression> Eval::simplify() const {
+    auto lp = dynamic_pointer_cast<const Lit>(left_->simplify());
+    auto rp = dynamic_pointer_cast<const Lit>(right_->simplify());
 
     // Do nothing because no simplification is needed.
     if (lp == nullptr || rp == nullptr) {
         return shared_from_this();
     }
 
-    return make_shared<literal>(func_(lp->data(), rp->data()));
+    return make_shared<Lit>(func_(lp->data(), rp->data()));
 }
 
-evaluation::operator string() const {
+Eval::operator string() const {
     return string(*left_) + " " + token_ + " " + string(*right_);
 }
 
-evaluation::~evaluation() {}
+Eval::~Eval() {}
