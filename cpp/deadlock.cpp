@@ -44,7 +44,7 @@ class SemaGuard {
         cout << "acq(" << by_ << ")\n";
         sem_.acquire();
     }
-    ~semaphore_guard() {
+    ~SemaGuard() {
         cout << "rel(" << by_ << ")\n";
         sem_.release();
     }
@@ -60,9 +60,9 @@ class Sema {
    protected:
     // Using a reference s.t. the semaphore don't get copied.
     Sema(counting_semaphore<>& sem) : sem_(sem) {}
-    semaphore_guard acquire(const string& by) {
+    SemaGuard acquire(const string& by) {
         // Using copy elision, to avoid acquiring and releasing and acquiring.
-        return semaphore_guard(sem_, by);
+        return SemaGuard(sem_, by);
     }
 
    private:
@@ -218,7 +218,7 @@ class LazyLiteral : public Lit, Sema {
 };
 class LazySummation : public Summation, Sema {
    public:
-    LazySummation(vector<shared_ptr<compute>> op, counting_semaphore<>& sem)
+    LazySummation(vector<shared_ptr<Compute>> op, counting_semaphore<>& sem)
         : Summation(op), Sema(sem) {}
     int eval() override {
         vector<int> values;
@@ -299,8 +299,8 @@ int main() {
 
         six_six = {cache_sum_six, cache_prod_six};
 
-        twelve = make_shared<summation>(six_six);
-        thrity_six = make_shared<product>(six_six);
+        twelve = make_shared<Summation>(six_six);
+        thrity_six = make_shared<Product>(six_six);
 
         assert((*one)() == 1);
         assert((*two)() == 2);
@@ -330,7 +330,7 @@ int main() {
         one_two_three = {one, two, three};
         sum_six = make_shared<LazySummation>(one_two_three, sdd.sema());
         six_six = {sum_six, sum_six};
-        twelve = make_shared<lazy_summation>(six_six, sdd.sema());
+        twelve = make_shared<LazySummation>(six_six, sdd.sema());
         assert((*twelve)() == 12);
         cout << "Done lazy\n";
     }
@@ -346,7 +346,7 @@ int main() {
         one_two_three = {one, two, three};
         sum_six = make_shared<TaskSummation>(one_two_three, sdd.sema());
         six_six = {sum_six, sum_six};
-        twelve = make_shared<task_summation>(six_six, sdd.sema());
+        twelve = make_shared<TaskSummation>(six_six, sdd.sema());
         assert((*twelve)() == 12);
 
         // Impossible to achieve.

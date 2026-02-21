@@ -6,35 +6,31 @@
 
 using namespace std;
 
-shared_ptr<expression> expression::operator+(
-    const shared_ptr<expression>& other) const {
-    return make_shared<evaluation>(shared_from_this(), other, "+",
-                                   [](int a, int b) { return a + b; });
+shared_ptr<Expr> Expr::operator+(const shared_ptr<Expr>& other) const {
+    return make_shared<Eval>(shared_from_this(), other, "+",
+                             [](int a, int b) { return a + b; });
 }
 
-shared_ptr<expression> expression::operator-(
-    const shared_ptr<expression>& other) const {
-    return make_shared<evaluation>(shared_from_this(), other, "-",
-                                   [](int a, int b) { return a - b; });
+shared_ptr<Expr> Expr::operator-(const shared_ptr<Expr>& other) const {
+    return make_shared<Eval>(shared_from_this(), other, "-",
+                             [](int a, int b) { return a - b; });
 }
 
-shared_ptr<expression> expression::operator*(
-    const shared_ptr<expression>& other) const {
-    return make_shared<evaluation>(shared_from_this(), other, "*",
-                                   [](int a, int b) { return a * b; });
+shared_ptr<Expr> Expr::operator*(const shared_ptr<Expr>& other) const {
+    return make_shared<Eval>(shared_from_this(), other, "*",
+                             [](int a, int b) { return a * b; });
 }
 
-shared_ptr<expression> expression::operator/(
-    const shared_ptr<expression>& other) const {
-    return make_shared<evaluation>(shared_from_this(), other, "/",
-                                   [](int a, int b) { return a / b; });
+shared_ptr<Expr> Expr::operator/(const shared_ptr<Expr>& other) const {
+    return make_shared<Eval>(shared_from_this(), other, "/",
+                             [](int a, int b) { return a / b; });
 }
 
-expression::~expression() {}
+Expr::~Expr() {}
 
 Lit::Lit(int data) : data_(data) {}
 
-shared_ptr<const expression> Lit::simplify() const {
+shared_ptr<const Expr> Lit::simplify() const {
     return shared_from_this();
 }
 
@@ -50,7 +46,7 @@ Lit::~Lit() {}
 
 Var::Var(string data) : data_(data) {}
 
-shared_ptr<const expression> Var::simplify() const {
+shared_ptr<const Expr> Var::simplify() const {
     return shared_from_this();
 }
 
@@ -60,13 +56,13 @@ Var::operator string() const {
 
 Var::~Var() {}
 
-Eval::Eval(shared_ptr<const expression> left,
-           shared_ptr<const expression> right,
+Eval::Eval(shared_ptr<const Expr> left,
+           shared_ptr<const Expr> right,
            string token,
            function<int(int, int)> func)
     : left_(left), right_(right), token_(token), func_(func) {}
 
-shared_ptr<const expression> Eval::simplify() const {
+shared_ptr<const Expr> Eval::simplify() const {
     auto lp = dynamic_pointer_cast<const Lit>(left_->simplify());
     auto rp = dynamic_pointer_cast<const Lit>(right_->simplify());
 
