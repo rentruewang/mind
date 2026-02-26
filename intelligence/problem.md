@@ -13,7 +13,7 @@ Problem solving involves the following process:
 
 ### Problem transformation
 
-Problem transformation applies simplify, retrieval, simulation on **abstract patterns**. E.g. we retrieve induction, hierarchical structure from memory, using it to simulate the original problem, and assemble (inverse transform) into the original problem. We can use it to isolate / focus on the smaller problem, to **simplify** the original problem.
+Problem transformation applies simplify, retrieval, simulation on **abstract patterns** and symbolic information (both are represented as active pathway in the brain). E.g. we retrieve induction, hierarchical structure from memory, using it to simulate the original problem, and assemble (inverse transform) into the original problem. We can use it to isolate / focus on the smaller problem, to **simplify** the original problem.
 
 ## Categories
 
