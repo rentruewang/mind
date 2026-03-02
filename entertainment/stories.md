@@ -214,7 +214,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet smemorable characters even for one off characters.
+- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet memorable characters even for one off characters.
 
 - Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**.
 
