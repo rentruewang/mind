@@ -8,14 +8,13 @@ When I was in RL / ML, I mostly didn't care about code quality.
 
 When I was still doing eda -> I optimized for fanciness and speed
 
-Started caring about simplicity / readability in 2021 -> Huffman and brief.
-
-Functions start being as short as possible (not yet as abstract and DRY as possible).
-Being short is an implicit constraint on simplicity.
+Started caring about readability in 2021 -> Huffman and brief.
 
 ### Open source in 2021
 
 Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects. (You don't pay for what you don't use, the simpler the better, in maintainance and performance)
+Functions start being as short as possible (not yet as abstract and DRY as possible).
+Being readable and short implicit constraints on simplicity.
 
 ### 2022-2023
 
