@@ -228,7 +228,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real. Don't get misguided by diaglogue from the characters, but should observe their actions! Observe the details.
 
-- Good delivery. Uses various techniques to not repeat (in words) and tire the readers. Know how to use words to direct readers' attentions, and compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost).
+- Good delivery. Uses various techniques to not repeat (in words) himself which tires the readers. Know how to use words to direct readers' attentions, and compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). This paired with good one off characters make the stories very memorable.
 
 ###### Sherlock Holmes
 
