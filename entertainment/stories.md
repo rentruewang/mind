@@ -40,7 +40,7 @@ Engaging (keeps you thinking, suspense).
 
 Pacing (too fast: exhausting, no meaningful connection; too slow: dull, boring, non engaging).
 
-Having threads to connect the plots (s.t. the stories aren't too modular and are releated).
+Having threads to connect the plots (s.t. the stories aren't too modular and are releated), and keep the readers engaged and focused.
 
 Relatable characters (make you care)
 
