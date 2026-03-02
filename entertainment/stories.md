@@ -20,7 +20,7 @@ The way words are fed to the reader, is a form of communication (good = clear). 
 
 Emphasis: techniques like contrasting, projection of mental state to environment.
 
-Pacing: Using various techniques, different angles / events to describe the same thing, surprise.
+Pacing: Using various techniques, different angles / events to describe the same thing, surprise the readers, while keeping the reader attention (by not being too predictable).
 
 Attention: Enumerating concrete instances to defining behaviors abstractly (e.g. describe in detail about the first few people passing by, and then said there are several groups passing by, which is how the brain works). This helps lessen cognitive load.
 
@@ -39,6 +39,8 @@ Good writing = efforless, disappears into the background (I think it serves the 
 Engaging (keeps you thinking, suspense).
 
 Pacing (too fast: exhausting, no meaningful connection; too slow: dull, boring, non engaging).
+
+Having threads to connect the plots (s.t. the stories aren't too modular and are releated).
 
 Relatable characters (make you care)
 
@@ -210,13 +212,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Characters make "natural" decisions, driving plots (not the other way around). They are driven by their own unique motivations (not external plots). The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly.
 
-- Actions have consequences amplified, making small decisions have large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
+- Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories.
+- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet smemorable characters even for one off characters.
 
 - Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**.
 
-- Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
+- Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap (partial information) is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
 
 - Creative fights. Does not repeat himself.
 
