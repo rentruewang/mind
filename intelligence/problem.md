@@ -4,12 +4,16 @@
 
 Problem solving involves the following process:
 
-0. (Simplify) Maybe simplify the problem first. Preserve and isolate the relevant parts.
+0. (Simplify) Maybe simplify the problem first. Preserve and isolate the relevant parts. AKA analysis.
 1. (Retrieve) Enumerate some instances you know, whether it being concrete or symbolic, or a simplified version of the problem.
 2. (Simulate) Do simulation in the head, maybe extrapolate or use extreme cases, assemble solutions from known primitives.
 3. (Verify) Check if the solution is working, symbolically or experiments. If not, maybe restart. Compare to things we know.
 4. (Aggregate) Find common pattern across different instances, or derive at a result symbolically.
 5. (Update) Update hypothesis / world models.
+
+### Problem transformation
+
+Problem transformation applies **retrieval**, **simulation** on _abstract patterns_ and symbolic information (both are represented as active pathway in the brain). E.g. we retrieve induction, hierarchical structure from memory, using it to simulate the original problem, and assemble (inverse transform) into the original problem. We can use it to isolate / focus on the smaller problem, to **simplify** the original problem.
 
 ## Categories
 
