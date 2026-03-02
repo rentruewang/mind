@@ -55,6 +55,12 @@ Save time in (inefficient) process, not creating value.
 
 *I believe creativity comes from planning*.
 
+10. Understanding and usage
+
+If you understand, you can use it (part of plan) to acheive your goals. LLM has shallow understanding, not deep, and cannot use it at will / flexible according to a goal.
+
+Therefore, in coding, it doesn't really use patterns well, but rather it repeats patterns (like fizz buzz enterprise), without considering whether or not it is the right call.
+
 ## Unicorn where?
 
 Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years. As of moment of writing, no unicorn relying on prompt tuning exists (companies that rely on being LLM platform are not themselves reliant on prompt tuning, and companies just using LLM as autocompletion API I wouldn't count as well, specifically copilot as codex predates GPT 3.5).
