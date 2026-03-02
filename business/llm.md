@@ -60,6 +60,7 @@ Save time in (inefficient) process, not creating value.
 If you understand, you can use it (part of plan) to acheive your goals. LLM has shallow understanding, not deep, and cannot use it at will / flexible according to a goal.
 
 Therefore, in coding, it doesn't really use patterns well, but rather it repeats patterns (like fizz buzz enterprise), without considering whether or not it is the right call.
+Even if it generates lots of comments, it's not simple enough because it likes to repeat itself and doesn't really make use of abstractions (why would it? it has such good memory!)
 
 ## Unicorn where?
 
