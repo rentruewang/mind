@@ -6,7 +6,10 @@ Humans go back to the roots of the problem (a more basic world model)
 
 Understand = can use it to plan
 
-Creativity = taking a familiar object and reimagine it
+Creativity = taking a familiar object and reimagine it.
+In other words, take what you currently have, and **plan** out a smart way to use those.
+It would be creative if its never before seen, but point is that it needs to be good.
+If bad, it would be **absurd** rather than creative.
 
 We can do something like guided RL, where we do multi step planning (heavy compute), and then knowledge distil into ML model, so the decision is faster.
 
