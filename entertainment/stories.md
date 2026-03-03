@@ -222,11 +222,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Creative fights. Does not repeat himself.
 
-- Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective.
+- Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
-
-- Direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real. Don't get misguided by diaglogue from the characters, but should observe their actions! Observe the details.
 
 - Good delivery. Uses various techniques to not repeat (in words) himself which tires the readers. Know how to use words to direct readers' attentions, and compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). This paired with good one off / recurring characters make the stories very memorable.
 
