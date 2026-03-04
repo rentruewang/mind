@@ -220,7 +220,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap (partial information) is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
 
-- Creative fights. Does not repeat himself.
+- Creative and exciting fights. Does not repeat himself in terms of abilities.
 
 - Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
