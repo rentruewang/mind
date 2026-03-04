@@ -226,7 +226,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
 
-- Good delivery. Uses various techniques / angles to avoid repeating (in words) himself to avoid tiring the readers. Know how to use words to direct readers' attentions . get you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting. Balance of narration and commentary (when necessary). This paired with good one off / recurring characters make the stories very memorable.
+- Good delivery. Uses **varied** techniques / angles to avoid repeating (in words) himself to avoid tiring the readers. Know how to use words to direct readers' attentions . get you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting. Balance of narration and commentary (when necessary). This paired with good one off / recurring characters make the stories very memorable.
 
 ###### Sherlock Holmes
 
