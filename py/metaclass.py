@@ -1,7 +1,21 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
+import contextlib as ctxl
 import copy
-from typing import ClassVar
+from typing import ClassVar, Self
+
+
+@ctxl.contextmanager
+def block(title: str):
+    sep = "-" * 20
+    try:
+        print(sep + " " + title + " " + sep)
+        yield
+    except Exception as e:
+        print("failed with error:", e)
+    finally:
+        print(sep + "-" * (len(title) + 2) + sep)
+        print()
 
 
 class Meta1(type):
@@ -47,8 +61,11 @@ class Meta2(type):
         return inst
 
     def __call__(self, *args, **kwargs):
+        """
+        ``type.__call__`` calls ``__new__`` in subclass, then ``__init__`` on instance.
+        See the ``type_call`` function in cpython.
+        """
         print("meta2.__call__", args, kwargs)
-        # type.__call__ calls __new__ in subclass.
         obj = super().__call__(*args, **kwargs)
         return obj
 
@@ -137,31 +154,56 @@ class Class5(metaclass=Meta5):
         return f"5[{type(self).ARG}](i={self.i},j={self.j})"
 
 
+class StrOk(str):
+    # If we do ``__init__``, ``str.__new__`` will still be the original one.
+    # This means that it has something that we wouldn't want e.g. encoding, errors fields.
+    def __new__(cls, value: str, meta: int) -> Self:
+        inst = str.__new__(cls, value)
+        inst.meta = meta
+        return inst
+
+
+class StrNotOk(str):
+    def __init__(self, value: str, meta: int) -> None:
+        super().__init__(value)
+        self.meta = meta
+
+
 if __name__ == "__main__":
-    c1 = Class1(1, 2.0)
-    print(c1)
-    print()
-    c2 = Class2(1, 2.0)
-    print(c2)
-    print()
 
-    print(Class3[str])
-    print(type(Class3[str]))
-    print()
+    with block("class 1"):
+        c1 = Class1(1, 2.0)
+        print(c1)
 
-    c4 = Class4(1, 2)
-    print(c4)
-    # This modifieds the ARG globally.
-    c4 = Class4[888](2, 3)
-    print(c4)
-    c4 = Class4(3, 4)
-    print(c4)
-    print()
+    with block("class 2"):
+        c2 = Class2(1, 2.0)
+        print(c2)
 
-    c5 = Class5(1, 2)
-    print(c5)
-    c5 = Class5[888](2, 3)
-    print(c5)
-    c5 = Class5(3, 5)
-    print(c5)
-    print()
+    with block("class 3"):
+        print(Class3[str])
+        print(type(Class3[str]))
+
+    with block("class 4"):
+        c4 = Class4(1, 2)
+        print(c4)
+        # This modifieds the ARG globally.
+        c4 = Class4[888](2, 3)
+        print(c4)
+        c4 = Class4(3, 4)
+        print(c4)
+
+    with block("class 5"):
+        c5 = Class5(1, 2)
+        print(c5)
+        c5 = Class5[888](2, 3)
+        print(c5)
+        c5 = Class5(3, 5)
+        print(c5)
+
+    with block("string ok"):
+        # When using new is better
+        str_ok = StrOk("ok", 11)
+        print(str_ok, str_ok.meta)
+
+    with block("string not ok"):
+        str_fail = StrNotOk("fail", meta=11)
