@@ -2,10 +2,10 @@
 # It is not intended for manual editing.
 
 [metadata]
-groups = ["default", "dev", "mdformat"]
+groups = ["default", "dev"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:556273aae65bba4dd99ae2a4e8cdcf2d1e0e00eecd73fe69fa14231794999315"
+content_hash = "sha256:efec8664b7b96025df61791a2102e814856881d7f0621b78711bbbdaca01b29d"
 
 [[metadata.targets]]
 requires_python = "==3.13.*"
