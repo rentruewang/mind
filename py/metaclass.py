@@ -157,6 +157,7 @@ class Class5(metaclass=Meta5):
 class StrOk(str):
     # If we do ``__init__``, ``str.__new__`` will still be the original one.
     # This means that it has something that we wouldn't want e.g. encoding, errors fields.
+    # Now this only applies to builtin types, because ``object.__new__`` ignores *args **kwargs.
     def __new__(cls, value: str, meta: int) -> Self:
         inst = str.__new__(cls, value)
         inst.meta = meta
