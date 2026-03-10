@@ -33,3 +33,26 @@ RL scores how good an instruction sequence is, and can be used to compare 2 traj
 
 Point is, RL can be modelled with interpreter architecture,
 and brain is a very powerful general purpose computer.
+
+## Compilers
+
+Control flow graph: Control flow of scopes (each scope can be represented as its own dict).
+
+Sea of nodes: Data nodes and control flow nodes.
+From the Turing machine abstraction, of course it's data and control nodes! Data = memory access to stack / heap, control flow = changing the program counter.
+
+Starting here -->
+Non optimizing compilers
+
+Maintaining control flow, relaxing within each block -->
+Control flow graph
+
+Relax data and control flow (except returns) -->
+Sea of nodes
+
+Actually: for a single assignment language (perhaps functional), abstract syntax tree nodes + control flow dependencies = sea of nodes (pending further optimization).
+
+Because control flow graph = sea of (block) nodes,
+this means that control flow graph is a representation on the unoptimized IR.
+If you already have the nodes, might as well apply sea of nodes;
+also sea of nodes require some code motion algorithm to reconstruct the original function, which is not convenient.
