@@ -49,3 +49,5 @@ Control flow graph
 
 Relax data and control flow (except returns) -->
 Sea of nodes
+
+Actually: for a single assignment language (perhaps functional), abstract syntax tree nodes + control flow dependencies = sea of nodes (pending further optimization).
