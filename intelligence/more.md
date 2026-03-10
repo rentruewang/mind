@@ -51,3 +51,8 @@ Relax data and control flow (except returns) -->
 Sea of nodes
 
 Actually: for a single assignment language (perhaps functional), abstract syntax tree nodes + control flow dependencies = sea of nodes (pending further optimization).
+
+Because control flow graph = sea of (block) nodes,
+this means that control flow graph is a representation on the unoptimized IR.
+If you already have the nodes, might as well apply sea of nodes;
+also sea of nodes require some code motion algorithm to reconstruct the original function, which is not convenient.
