@@ -40,3 +40,12 @@ Control flow graph: Control flow of scopes (each scope can be represented as its
 
 Sea of nodes: Data nodes and control flow nodes.
 From the Turing machine abstraction, of course it's data and control nodes! Data = memory access to stack / heap, control flow = changing the program counter.
+
+Starting here -->
+Non optimizing compilers
+
+Maintaining control flow, relaxing within each block -->
+Control flow graph
+
+Relax data and control flow (except returns) -->
+Sea of nodes
