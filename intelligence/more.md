@@ -33,3 +33,10 @@ RL scores how good an instruction sequence is, and can be used to compare 2 traj
 
 Point is, RL can be modelled with interpreter architecture,
 and brain is a very powerful general purpose computer.
+
+## Compilers
+
+Control flow graph: Control flow of scopes (each scope can be represented as its own dict).
+
+Sea of nodes: Data nodes and control flow nodes.
+From the Turing machine abstraction, of course it's data and control nodes! Data = memory access to stack / heap, control flow = changing the program counter.
