@@ -79,7 +79,7 @@ As of moment of writing, no unicorn created with prompts exists (companies that 
 
 1. Perhaps because if everyone can do it, no one can do it? (Money is measure of scarcity).
 
-2. Or maybe because, it doesn't do anything new, but rather copy existing libraries well (which doesn't make money).
+2. Or maybe because, it doesn't do anything new, but rather copy existing libraries well (which doesn't make money, as you pay for novel solutions).
 
 ## Why other ML algorithms like table missing values filling is more valuable.
 
