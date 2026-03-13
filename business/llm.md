@@ -66,7 +66,7 @@ Even if it generates lots of comments, it's not simple enough because it likes t
 
 Natural langauge is not accurate. Everyone uses their own dialect, each differing a little. Therefore, it doesn't scale across individuals, teams even less (like when a novel is continued by another author, it doesn't feel the same).
 
-It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it solves only mirrors your command; to do something exactly how you want, you would need to have so much instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code).
+It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it solves only mirrors your command; to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code).
 
 12. Wide problem surface, not deep
 
