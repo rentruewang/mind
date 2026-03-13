@@ -1,6 +1,6 @@
 # 🧠 Mind
 
-[![Code Formatted](https://github.com/rentruewang/snippets/actions/workflows/format.yaml/badge.svg)](https://github.com/rentruewang/snippets/actions/workflows/format.yaml)
+[![Code Formatted](https://github.com/rentruewang/mind/actions/workflows/format.yaml/badge.svg)](https://github.com/rentruewang/mind/actions/workflows/format.yaml)
 
 Simply a site to document what I have thought about before, and snippets from languages I want to work on, as well as some theories / thoughts that I have on the same topic.
 
@@ -14,4 +14,4 @@ It contains concepts and features, in programming languages (that I use), with w
 
 ## Resources for learning those languages?
 
-See the concepts for [Python](./py/README.md), [Modern C++](./cxx/README.md)
+See the concepts for [Python](./py/README.md), [Modern C++](./cpp/README.md)
