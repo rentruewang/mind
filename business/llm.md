@@ -41,7 +41,7 @@ At this time, common patterns in code are all in libraries, which you can trust.
 
 6. Human in the loop
 
-Human in the loop means no automation. It also means LLM doesn't save time on valuable thing, but boilerplate and mundane things. Which is important, but at this stage most of them are solved.
+Human in the loop means **no automation**. It also means LLM doesn't save time on valuable thing, but boilerplate and mundane things. Which is important, but at this stage most of them are solved.
 
 7. Benchmarks
 
@@ -53,7 +53,7 @@ Save time in (inefficient) process, not creating value.
 
 9. No creativity
 
-*I believe creativity comes from planning*.
+*I believe creativity comes from planning and optimization*. LLM is maximum likelihood estimation so it doesn't create, but follows a well worn path (may follow it well).
 
 10. Understanding and usage
 
@@ -62,9 +62,44 @@ If you understand, you can use it (part of plan) to acheive your goals. LLM has 
 Therefore, in coding, it doesn't really use patterns well, but rather it repeats patterns (like fizz buzz enterprise), without considering whether or not it is the right call.
 Even if it generates lots of comments, it's not simple enough because it likes to repeat itself and doesn't really make use of abstractions (why would it? it has such good memory!)
 
+11. Bad at collaboration and specification
+
+Natural langauge is not accurate. Everyone uses their own dialect, each differing a little. Therefore, it doesn't scale across individuals, teams even less (like when a novel is continued by another author, it doesn't feel the same).
+
+It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it solves only mirrors your command; to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code).
+
+12. Wide problem surface, not deep
+
+Since LLM is pitched like AGI, it suffers the same problems as AGI in monetization: it doesn't solve 1 problem 10 times as well, but rather improve **every** problem by a tiny margin. It is difficult to monetize this kind of stuff, as the **value** created is not strong enough (humans are satisficing so may not notice).
+
 ## Unicorn where?
 
-Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years. As of moment of writing, no unicorn relying on prompt tuning exists (companies that rely on being LLM platform are not themselves reliant on prompt tuning, and companies just using LLM as autocompletion API I wouldn't count as well, specifically copilot as codex predates GPT 3.5).
+Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years.
+As of moment of writing, no unicorn created with prompts exists (companies that rely on being LLM platform are not themselves reliant on prompt tuning, and companies just using LLM as autocompletion API I wouldn't count as well, specifically copilot as codex predates GPT 3.5).
+
+1. Perhaps because if everyone can do it, no one can do it? (Money is measure of scarcity).
+
+2. Or maybe because, it doesn't do anything new, but rather copy existing libraries well (which doesn't make money, as you pay for novel solutions).
+
+## Potential avenue
+
+Since human in the loop is necessary, maybe tooling like CAD can be good? Other than that I can't think of anything else. Even CAD is stretching it.
+
+## Why other ML algorithms like table missing values filling is more valuable.
+
+LLM predicts texts.
+
+Texts are used for communication, do not on its own guide your other money generation system (e.g. stock trading, logistics etc).
+Predicting numbers is more valuable at that.
+Texts are more for human reading. Therefore, fundamentally, LLM isn't really positioned to be valuable in business context. But can wow people (what gpt did in 2022).
+
+Maybe you can convert text to numbers to make it valuable. However, for regression tasks, there are simpler and cheaper models. For complicated tasks, texts are a bad form to comvert to numbers, as:
+
+1. Rough value surface: the text meaning can change too much with little change in tokens.
+
+2. Ambiguity: Text cannot be interpreted reliably.
+
+3. Reproducibilty: LLM itself cannot be easily predicted. E.g. on documents, you need to run to see if it works on a specific type of docs (like a sorting algorithm that needs to be run and verified with human eyes to see if it works, would be less useful).
 
 # Frontend vs Backend
 
