@@ -81,6 +81,10 @@ As of moment of writing, no unicorn created with prompts exists (companies that 
 
 2. Or maybe because, it doesn't do anything new, but rather copy existing libraries well (which doesn't make money, as you pay for novel solutions).
 
+## Potential avenue
+
+Since human in the loop is necessary, maybe tooling like CAD can be good? Other than that I can't think of anything else. Even CAD is stretching it.
+
 ## Why other ML algorithms like table missing values filling is more valuable.
 
 LLM predicts texts.
