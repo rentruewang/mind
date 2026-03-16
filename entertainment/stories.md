@@ -242,9 +242,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
 
+- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
+
 ###### JOJO
 
 - Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+
+- Histrionic characters by being self centered ("I told you so" kind), and being proud.
 
 ###### Attack on Titan 1-3
 
