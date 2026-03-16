@@ -246,7 +246,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### JOJO
 
-- Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+- Very creative and strong exaggeration. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
 
 - Histrionic characters by being self centered ("I told you so" kind), and being proud.
 
