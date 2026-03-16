@@ -246,7 +246,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### JOJO
 
-- Very creative and strong exaggeration. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+- Very creative. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts).
+
+- Good characters through showing how characters interact with their world.
+
+- Strong exaggeration and honestly a little crazy.
 
 - Good atmosphere building.
 
