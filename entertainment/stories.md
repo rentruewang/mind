@@ -248,6 +248,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Very creative and strong exaggeration. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
 
+- Good atmosphere building.
+
 - Histrionic characters by being self centered ("I told you so" kind), and being proud.
 
 ###### Attack on Titan 1-3
