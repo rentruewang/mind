@@ -1,5 +1,6 @@
 /// Copyright (c) RenChu Wang - All Rights Reserved
 
+#include <initializer_list>
 #include <iostream>
 #include <memory>
 #include <string>
@@ -59,23 +60,25 @@ struct TreeNode {
 };
 
 struct NodeX : public TreeNode {
+    NodeX(int data) : TreeNode({}), data(data) {}
     int data;
 };
 
 struct NodeY : public TreeNode {
+    NodeY(string data) : TreeNode({}), data(data) {}
     string data;
 };
 
 struct TreeVisitor {
     void operator()(const NodeX& n) {
-        cout << "X size =" << n.children.size() << " data (int) = " << n.data
-             << endl;
+        cout << "X [" << n.children.size() << "] (int) = " << n.data << endl;
     }
     void operator()(const NodeY& n) {
-        cout << "X size =" << n.children.size() << " data (string) = " << n.data
-             << endl;
+        cout << "Y [" << n.children.size() << "] (string) = " << n.data << endl;
     }
 };
+
+using NodeXY = variant<NodeX, NodeY>;
 
 int main() {
     vector<NodeInherit> nodes_i = {NodeA{}, NodeB{}, NodeC{}, NodeA{}};
@@ -92,4 +95,12 @@ int main() {
     }
 
     cout << endl;
+    auto nx = make_shared<NodeX>(1);
+    auto ny = make_shared<NodeY>("hi");
+    ny->children.push_back(nx);
+
+    vector<NodeXY> xy = {*nx, *ny};
+    for (NodeXY& n : xy) {
+        visit(TreeVisitor{}, n);
+    }
 }

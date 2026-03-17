@@ -24,6 +24,10 @@ class SomeClass {
     T name_;
 };
 
+struct BasicStruct {
+    int data;
+};
+struct SingleStruct : BasicStruct {};
 struct SomeStruct {
     int datai;
     float dataf;
@@ -33,6 +37,7 @@ struct SomeStructVec {
     float dataf;
     vector<int> vec;
 };
+
 int main() {
     print("First experiment: 12345");
     {
@@ -57,6 +62,10 @@ int main() {
 
     print("Doesn't work.");
     {
+        // This doesn't work. Cannot convert int -> SingleStruct directly.
+        // Need to define constructor manually.
+        // auto ptr0 = make_unique<SingleStruct>(1);
+
         // Does work.
         auto ptr1 = make_unique<SomeStruct>(1, 2);
 
