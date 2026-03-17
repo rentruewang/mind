@@ -64,6 +64,7 @@ struct TreeVisitor {
 
 // We can use visitor pattern to make tree nodes that are very different,
 // only sharing the part where we define parents / children.
+// E.g. AST nodes are different, file vs folder are different.
 struct TreeNode {
     vector<shared_ptr<TreeNode>> children;
     virtual void accept(TreeVisitor&) = 0;
