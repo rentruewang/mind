@@ -33,3 +33,11 @@ One case where tactics affects strategy is it dictates how good each step can be
 ### Active vs Reactive
 
 In a 1v1 game, active means focusing on your own game tree (maximizing your own), where reactive aims to minimize oppoent's scores.
+
+### Flexible vs Non-Flexible playstyle
+
+Hot paths in game state tree (game script) spread out vs very focused on specific paths.
+
+Reactive playstyles usually pairs well with flexible playstyle.
+Active playstyles usually are less flexible.
+Simply put, if you can maximize your play, yet having many opportunities, your faction might be OP.
