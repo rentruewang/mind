@@ -250,9 +250,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good characters through showing how characters interact with their world.
 
-- Strong exaggeration, very extreme, mood swings, and honestly a little crazy.
+- Strong exaggeration, very extreme, and honestly a little crazy.
 
-- Good atmosphere building.
+- Good atmosphere building, mood swings.
 
 - Histrionic characters by being self centered ("I told you so" kind), and being proud / arrogant.
 
