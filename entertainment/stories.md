@@ -254,7 +254,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good atmosphere building.
 
-- Histrionic characters by being self centered ("I told you so" kind), and being proud.
+- Histrionic characters by being self centered ("I told you so" kind), and being proud / arrogant.
 
 ###### Attack on Titan 1-3
 
@@ -262,7 +262,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Web / light novels
 
-- Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+- Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning. Often times like to be funny by throwing logic out of the window.
 
 ### Literary fictions
 
