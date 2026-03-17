@@ -23,6 +23,15 @@ class SomeClass {
     T name_;
 };
 
+struct SomeStruct {
+    int datai;
+    float dataf;
+};
+struct SomeStructVec {
+    int datai;
+    float dataf;
+    vector<int> vec;
+};
 int main() {
     print("First experiment: 12345");
     {
@@ -43,5 +52,14 @@ int main() {
         sc = SomeClass<int>(3);
         sc.name() = 5;
         print(4);
+    }
+
+    print("Doesn't work.");
+    {
+        // Does work.
+        auto ptr1 = make_unique<SomeStruct>(1, 2);
+
+        // Having initializer list doesn't work.
+        // auto ptr2 = make_unique<SomeStructVec>(1, 2, {});
     }
 }

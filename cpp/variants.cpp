@@ -1,56 +1,95 @@
 /// Copyright (c) RenChu Wang - All Rights Reserved
 
 #include <iostream>
+#include <memory>
+#include <string>
 #include <variant>
 #include <vector>
 
 using namespace std;
 
 /// Inheritance Base
-struct node_base {};
+struct NodeBase {};
 /// Inheritance A
-struct node_a : public node_base {};
+struct NodeA : public NodeBase {};
 /// Inheritance B
-struct node_b : public node_base {};
+struct NodeB : public NodeBase {
+    int a;
+};
 /// Inheritance C
-struct node_c : public node_base {};
+struct NodeC : public NodeBase {
+    string g;
+};
 
 /// No inheritance D
-struct node_d {};
+struct NodeD {};
 /// No inheritance E
-struct node_e {};
+struct NodeE {
+    int a;
+};
 /// No inheritance F
-struct node_f {};
+struct NodeF {
+    string g;
+};
 
-using node_inherit = variant<node_a, node_b, node_c>;
-using node_no_inherit = variant<node_d, node_e, node_f>;
+// Note that the types can be very different, inherit or not!
+using NodeInherit = variant<NodeA, NodeB, NodeC>;
+using NodeNoInherit = variant<NodeD, NodeE, NodeF>;
 
 /// Visitor can be reused!
-struct visitor {
+struct Visitor {
     // For inheritance.
-    void operator()(const node_a&) { cout << "NodeA" << endl; }
-    void operator()(const node_b&) { cout << "NodeB" << endl; }
-    void operator()(const node_base&) { cout << "NodeBase" << endl; }
+    void operator()(const NodeA&) { cout << "NodeA" << endl; }
+    void operator()(const NodeB&) { cout << "NodeB" << endl; }
+    void operator()(const NodeBase&) { cout << "NodeBase" << endl; }
 
     // For non inheritance.
-    void operator()(const node_d&) { cout << "NodeD" << endl; }
-    void operator()(const node_e&) { cout << "NodeE" << endl; }
+    void operator()(const NodeD&) { cout << "NodeD" << endl; }
+    void operator()(const NodeE&) { cout << "NodeE" << endl; }
 
     // Even if NodeF is not present in the list, you cannot omit it.
-    void operator()(const node_f&) { cout << "NodeF" << endl; }
+    // Error: `std::visit` requires the visitor to be exhaustive.
+    void operator()(const NodeF&) { cout << "NodeF" << endl; }
+};
+
+// We can use visitor pattern to make tree nodes that are very different,
+// only sharing the part where we define parents / children.
+struct TreeNode {
+    vector<shared_ptr<TreeNode>> children;
+};
+
+struct NodeX : public TreeNode {
+    int data;
+};
+
+struct NodeY : public TreeNode {
+    string data;
+};
+
+struct TreeVisitor {
+    void operator()(const NodeX& n) {
+        cout << "X size =" << n.children.size() << " data (int) = " << n.data
+             << endl;
+    }
+    void operator()(const NodeY& n) {
+        cout << "X size =" << n.children.size() << " data (string) = " << n.data
+             << endl;
+    }
 };
 
 int main() {
-    vector<node_inherit> nodes_i = {node_a{}, node_b{}, node_c{}, node_a{}};
+    vector<NodeInherit> nodes_i = {NodeA{}, NodeB{}, NodeC{}, NodeA{}};
 
-    for (node_inherit& node : nodes_i) {
-        visit(visitor{}, node);
+    for (NodeInherit& node : nodes_i) {
+        visit(Visitor{}, node);
     }
 
     cout << endl;
-    vector<node_no_inherit> nodes_ni = {node_d{}, node_e{}};
+    vector<NodeNoInherit> nodes_ni = {NodeD{}, NodeE{}};
 
-    for (node_no_inherit& node : nodes_ni) {
-        visit(visitor{}, node);
+    for (NodeNoInherit& node : nodes_ni) {
+        visit(Visitor{}, node);
     }
+
+    cout << endl;
 }
