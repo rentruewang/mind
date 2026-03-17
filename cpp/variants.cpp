@@ -1,5 +1,6 @@
 /// Copyright (c) RenChu Wang - All Rights Reserved
 
+#include <functional>
 #include <initializer_list>
 #include <iostream>
 #include <memory>
@@ -53,30 +54,39 @@ struct Visitor {
     void operator()(const NodeF&) { cout << "NodeF" << endl; }
 };
 
+struct NodeX;
+struct NodeY;
+
+struct TreeVisitor {
+    void operator()(const NodeX&);
+    void operator()(const NodeY&);
+};
+
 // We can use visitor pattern to make tree nodes that are very different,
 // only sharing the part where we define parents / children.
 struct TreeNode {
     vector<shared_ptr<TreeNode>> children;
+    virtual void accept(TreeVisitor&) = 0;
 };
 
 struct NodeX : public TreeNode {
-    NodeX(int data) : TreeNode({}), data(data) {}
+    NodeX(int data) : TreeNode(), data(data) {}
     int data;
+    void accept(TreeVisitor& tv) override { tv(*this); }
 };
 
 struct NodeY : public TreeNode {
-    NodeY(string data) : TreeNode({}), data(data) {}
+    NodeY(string data) : TreeNode(), data(data) {}
     string data;
+    void accept(TreeVisitor& tv) override { tv(*this); }
 };
 
-struct TreeVisitor {
-    void operator()(const NodeX& n) {
-        cout << "X [" << n.children.size() << "] (int) = " << n.data << endl;
-    }
-    void operator()(const NodeY& n) {
-        cout << "Y [" << n.children.size() << "] (string) = " << n.data << endl;
-    }
-};
+void TreeVisitor::operator()(const NodeX& n) {
+    cout << "X [" << n.children.size() << "] (int) = " << n.data << endl;
+}
+void TreeVisitor::operator()(const NodeY& n) {
+    cout << "Y [" << n.children.size() << "] (string) = " << n.data << endl;
+}
 
 using NodeXY = variant<NodeX, NodeY>;
 
@@ -99,8 +109,19 @@ int main() {
     auto ny = make_shared<NodeY>("hi");
     ny->children.push_back(nx);
 
+    // Using variants (need to define variant).
     vector<NodeXY> xy = {*nx, *ny};
     for (NodeXY& n : xy) {
         visit(TreeVisitor{}, n);
+    }
+
+    // Using visitor (need to define accept + base class).
+    vector<reference_wrapper<TreeNode>> tn = {*nx, *ny};
+
+    // Can't do this, TreeNode is abstract.
+    // vector<TreeNode> tn = {*nx, *ny};
+    for (TreeNode& n : tn) {
+        TreeVisitor tv;
+        n.accept(tv);
     }
 }
