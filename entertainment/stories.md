@@ -250,7 +250,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good characters through showing how characters interact with their world.
 
-- Strong exaggeration and honestly a little crazy.
+- Strong exaggeration, very extreme, mood swings, and honestly a little crazy.
 
 - Good atmosphere building.
 
