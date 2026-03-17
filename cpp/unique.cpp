@@ -1,5 +1,6 @@
 /// Copyright (c) RenChu Wang - All Rights Reserved
 
+#include <initializer_list>
 #include <iostream>
 #include <memory>
 
@@ -61,5 +62,8 @@ int main() {
 
         // Having initializer list doesn't work.
         // auto ptr2 = make_unique<SomeStructVec>(1, 2, {});
+        // Perhaps:
+        // https://stackoverflow.com/questions/11820981/stdshared-ptr-and-initializer-lists
+        auto ptr3 = make_unique<SomeStructVec>(1, 2, initializer_list<int>{});
     }
 }
