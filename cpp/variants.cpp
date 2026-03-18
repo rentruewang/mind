@@ -35,6 +35,13 @@ struct NodeF {
 };
 
 // Note that the types can be very different, inherit or not!
+//
+// Note that `variant`s implement `match` like construct in more functional
+// langauges, and since variants themselves use the visitor pattern (see
+// below), and since visitor is simply a trick to avoid adding dispatch
+// functions, this means that match == variant == visitor == normal virtual
+// functions, in terms of power. Think of it this way, `match` is exhaustive, so
+// it is equivalent to a method that is defined on all subclases.
 using NodeInherit = variant<NodeA, NodeB, NodeC>;
 using NodeNoInherit = variant<NodeD, NodeE, NodeF>;
 
