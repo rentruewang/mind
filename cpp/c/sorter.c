@@ -14,29 +14,29 @@
 #define LEFT_CHILD(I) ((I) << 1) + 1
 #define RIGHT_CHILD(I) ((I) << 1) + 2
 
-// Comparator is used to abstract away the comparison function.
-// If returns conceptually, s0 - s1.
-// @param s0: The first int instance.
-// @param s1: The second int instance.
-// @return A positive integer if s0 > s1,
-// negative integer if s0 < s1, 0 if s0 == s1.
+/// Comparator is used to abstract away the comparison function.
+/// If returns conceptually, s0 - s1.
+/// @param s0: The first int instance.
+/// @param s1: The second int instance.
+/// @return A positive integer if s0 > s1,
+/// negative integer if s0 < s1, 0 if s0 == s1.
 typedef int (*comparator)(int s0, int s1);
 
-// Sorter is used to abstract away the sorting method.
-// It takes in an array, its size, and a Comparator.
-// @param array: The array to sort.
-// @param size: The length of the array.
-// @param cmp: The comparator function.
-// @return 0 if completed successfully. 1 otherwise.
+/// Sorter is used to abstract away the sorting method.
+/// It takes in an array, its size, and a Comparator.
+/// @param array: The array to sort.
+/// @param size: The length of the array.
+/// @param cmp: The comparator function.
+/// @return 0 if completed successfully. 1 otherwise.
 typedef void (*sorter)(int* array, int size, comparator cmp);
 
-// Merge sort.
+/// Merge sort.
 void merge_sort(int* array, int size, comparator cmp);
 
-// Heap sort.
+/// Heap sort.
 void heap_sort(int* array, int size, comparator cmp);
 
-// Insertion sort.
+/// Insertion sort.
 void insertion_sort(int* array, int size, comparator cmp);
 
 static void merge(int* array, int half, int end, comparator cmp);
