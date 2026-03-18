@@ -226,9 +226,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
 
-- Good delivery. Uses **varied** techniques / angles to avoid repeating (in words) himself to avoid tiring the readers (as well as good pacing, distrubtion of demanding and light paragraphs). Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting.
+- Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distrubtion of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed + urgent + tight pacing, and sub = abbreviate + relaxed + loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting.
 
-- Balance: Balance of narration and commentary / explanation (when necessary). Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason). **Attention** based (pull info when needed). This paired with good one off / recurring characters make the stories very memorable.
+- Approachability: Balance of narration and commentary / explanation (when necessary). Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason). **Attention** based (pull info when needed). This paired with good one off / recurring characters make the stories very memorable. Sometimes a summarization / recap by character mouth or narrator to sum up events.
 
 ###### Sherlock Holmes
 
