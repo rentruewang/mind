@@ -23,3 +23,11 @@ I believe that starting a company isn't too risky... The risky part is in ignora
 I believe there are 2 kinds of founders, old (experienced, middle aged, exploitative) and young (inexperienced, bold, young). Lots of young founders, encouraged by the US system of education, focusing on something extremely narrow, and would succeed because of their passion. Old founders usually locked down a market, probably pretty good at the field already, before starting a new company.
 
 Young = bolder, old = steadier.
+
+## Wide vs focused
+
+Going wide = bigger market, more usecases
+
+Going focused (niche) = smaller market, more tailored, need to extract more.
+
+Before starting a company you need to assess, `audience * value produced` as the total market.
