@@ -36,7 +36,7 @@ class Class1(metaclass=Meta1):
         print("c1.new 3", type(inst), inst)
         return inst
 
-    # This would be called before ``__init__``.
+    # This would be called before `__init__`.
     def _init(self, i, j):
         self.i = i
         self.j = j
@@ -53,7 +53,7 @@ class Class1(metaclass=Meta1):
 
 
 class Meta2(type):
-    # This would be called first, when ``Class2`` is defined.
+    # This would be called first, when `Class2` is defined.
     def __new__(cls, *args, **kwargs):
         print("meta2.new", args, kwargs)
         inst = type.__new__(cls, *args, **kwargs)
@@ -62,8 +62,8 @@ class Meta2(type):
 
     def __call__(self, *args, **kwargs):
         """
-        ``type.__call__`` calls ``__new__`` in subclass, then ``__init__`` on instance.
-        See the ``type_call`` function in cpython.
+        `type.__call__` calls `__new__` in subclass, then `__init__` on instance.
+        See the `type_call` function in cpython.
         """
         print("meta2.__call__", args, kwargs)
         obj = super().__call__(*args, **kwargs)
@@ -155,9 +155,9 @@ class Class5(metaclass=Meta5):
 
 
 class StrOk(str):
-    # If we do ``__init__``, ``str.__new__`` will still be the original one.
+    # If we do `__init__`, `str.__new__` will still be the original one.
     # This means that it has something that we wouldn't want e.g. encoding, errors fields.
-    # Now this only applies to builtin types, because ``object.__new__`` ignores *args **kwargs.
+    # Now this only applies to builtin types, because `object.__new__` ignores *args **kwargs.
     def __new__(cls, value: str, meta: int) -> Self:
         inst = str.__new__(cls, value)
         inst.meta = meta
