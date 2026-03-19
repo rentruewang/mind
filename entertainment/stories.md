@@ -116,7 +116,7 @@ A character in the book makes a decision, you get to observe how good it is (how
 
 This requires very a lot of memory s.t. characters behave like themselves.
 
-Having *conflicts, tension, and stakes*. Without conflicts, it would just be a linear story. This makes the stories exciting (decision has meanings).
+Having *conflicts, tension, and stakes*. Without conflicts, it would just be a linear story. This makes the stories exciting (decision has meanings). Without stakes, it's someone else's story.
 
 Climax and conflicts: Exploiting multiple plot lines' decision points.
 
