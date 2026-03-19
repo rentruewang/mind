@@ -23,10 +23,10 @@ int main() {
     nm = NormalMember{4};
 
     ConstMember cm{9};
-    // const_member& const_member::operator=(const_member&&)’ is implicitly
+    // ConstMember& ConstMember::operator=(ConstMember&&)’ is implicitly
     // deleted because the default definition would be ill-formed
     //
     // operator= is deleted because of const member.
     //
-    //  cm = const_member{100};
+    //  cm = ConstMember{100};
 }
