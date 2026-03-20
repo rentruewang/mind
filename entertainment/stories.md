@@ -248,7 +248,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Very bizzare.
 
-- Very creative. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts), and wide options (many possibilities).
+- Very creative. Sometimes quite random. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts), and wide options (many possibilities).
 
 - Good characters through showing how they interact with their world.
 
