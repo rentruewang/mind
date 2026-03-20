@@ -252,11 +252,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Strong exaggeration, very extreme, and honestly a little crazy.
 
-- Good atmosphere building, mood swings. Good cathartic moments.
+- Good atmosphere building, mood swings. Good cathartic moments. Appeals to emotion well.
 
 - Histrionic characters by being self centered ("I told you so" / "You are nothing to me" kind), and being proud / arrogant.
 
-- Theatrical characters / dialogue / reactions / plot / scenarios.
+- Theatrical characters / dialogue / reactions / plot / scenarios. Crazy memorable characters.
 
 - Humorous at the right parts while keeping you stunned.
 
