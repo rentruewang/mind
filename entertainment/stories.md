@@ -248,13 +248,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Very creative. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts), and wide options (many possibilities).
 
-- Good characters through showing how characters interact with their world.
+- Good characters through showing how they interact with their world.
 
 - Strong exaggeration, very extreme, and honestly a little crazy.
 
 - Good atmosphere building, mood swings.
 
-- Histrionic characters by being self centered ("I told you so" kind), and being proud / arrogant.
+- Histrionic characters by being self centered ("I told you so" / "You are nothing to me" kind), and being proud / arrogant.
 
 ###### Attack on Titan 1-3
 
