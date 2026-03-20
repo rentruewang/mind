@@ -216,7 +216,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet memorable characters even for one off characters.
 
-- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies, yet the plots flows are driven by characters' motivations.
+- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies, yet the plots flows are driven by characters' motivations. Yet, good cathartic moments and keep the readers hooked.
+
 
 - Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap (partial information) is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
 
