@@ -16,7 +16,7 @@ and [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness)
 
 With all these information, one can conclude that anything that is computable must be able to be compiled (transformed) to an algorithm running on a Turing machine, where compiling means transforming between different language / instruction set.
 
-Csondiering that
+Considering that
 
 > A related concept is that of Turing equivalence – two computers P and Q are called equivalent if P can simulate Q and Q can simulate P. The Church–Turing thesis conjectures that any function whose values can be computed by an algorithm can be computed by a Turing machine, and therefore that if any real-world computer can simulate a Turing machine, it is Turing equivalent to a Turing machine. A universal Turing machine can be used to simulate any Turing machine and by extension the purely computational aspects of any possible real-world computer.
 

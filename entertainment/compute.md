@@ -32,7 +32,7 @@ One case where tactics affects strategy is it dictates how good each step can be
 
 ### Active vs Reactive
 
-In a 1v1 game, active means focusing on your own game tree (maximizing your own), where reactive aims to minimize oppoent's scores.
+In a 1v1 game, active means focusing on your own game tree (maximizing your own), where reactive aims to minimize opponent's scores.
 
 ### Flexible vs Non-Flexible playstyle
 

@@ -57,7 +57,7 @@ Save time in (inefficient) process, not creating value.
 
 10. Understanding and usage
 
-If you understand, you can use it (part of plan) to acheive your goals. LLM has shallow understanding, not deep, and cannot use it at will / flexible according to a goal.
+If you understand, you can use it (part of plan) to achieve your goals. LLM has shallow understanding, not deep, and cannot use it at will / flexible according to a goal.
 
 Therefore, in coding, it doesn't really use patterns well, but rather it repeats patterns (like fizz buzz enterprise), without considering whether or not it is the right call.
 Even if it generates lots of comments, it's not simple enough because it likes to repeat itself and doesn't really make use of abstractions (why would it? it has such good memory!)
@@ -93,7 +93,7 @@ Texts are used for communication, do not on its own guide your other money gener
 Predicting numbers is more valuable at that.
 Texts are more for human reading. Therefore, fundamentally, LLM isn't really positioned to be valuable in business context. But can wow people (what gpt did in 2022).
 
-Maybe you can convert text to numbers to make it valuable. However, for regression tasks, there are simpler and cheaper models. For complicated tasks, texts are a bad form to comvert to numbers, as:
+Maybe you can convert text to numbers to make it valuable. However, for regression tasks, there are simpler and cheaper models. For complicated tasks, texts are a bad form to convert to numbers, as:
 
 1. Rough value surface: the text meaning can change too much with little change in tokens.
 

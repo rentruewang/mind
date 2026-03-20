@@ -34,7 +34,7 @@ Something new (creative, surprising)
 
 Writing = ability to describe with ease, and to convey what's going on to the reader (info density).
 
-Good writing = efforless, disappears into the background (I think it serves the plot, not the other way around).
+Good writing = effortless, disappears into the background (I think it serves the plot, not the other way around).
 
 Engaging (keeps you thinking, suspense).
 
@@ -88,7 +88,7 @@ Actions have meanings, where they affect outcome.
 
 We can study connections with ablation study; remove one component and observe the difference.
 
-Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal of a chapter in a loose plot may not even be noticible in plot.
+Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal of a chapter in a loose plot may not even be noticeable in plot.
 
 ### Engaging stories (human mechanism)
 
@@ -104,7 +104,7 @@ Stories should have good pace and keep the readers engaged. Quick pace may be ov
 
 #### Exploration
 
-**Unexpected, but reasonable**. New aspect revealed, new potention uncovered.
+**Unexpected, but reasonable**. New aspect revealed, new potential uncovered.
 
 Good stories keeps you guessing due to having lots of options, just like real life.
 
@@ -150,7 +150,7 @@ How many people to write?
 
 Too many: Attention is split, no time to feel attached, taxing.
 
-Too few: As novels already depict fewer people than in real life, it would be unnatural and predictable and too simple if ther are too few people involved.
+Too few: As novels already depict fewer people than in real life, it would be unnatural and predictable and too simple if there are too few people involved.
 
 Since people drive events, too few events can be generated.
 
@@ -208,7 +208,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Spring & Autumn Brushwork: Plant clues deep and many and scattered (using details to drive hidden plot lines, you have to find them by connecting clues over great distances). Uses characters' hidden motivations to connect to different parts, and deceive readers' attention by focusing on parts he wants you to focus on, making re-reading possible. (e.g. don't get fooled by (maybe unreliable) narrator's viewpoint, some characters behave differently from how they are written, use similar but subtly different events to reveal details, etc). His stories are very consistent (to the details), and sometimes use inconsistencies to reveal lies, some characters know too much or not reacting to things (you need to analyze characters viewpoint not god). Portraits as A but appears to be B if you dive deeper.
 
-- Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent).
+- Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). But, unnecessary details are filtered out, which makes the pacing quicker. The dialogue / actions of characters all move the plot forward (not the case in his earliest work).
 
 - Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots). The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly.
 
@@ -227,7 +227,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
 
-- Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distrubtion of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed + urgent + tight pacing, and sub = abbreviate + relaxed + loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting. Does trim down on unecessary information making density high (this was not present in his earliest works).
+- Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distribution of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed + urgent + tight pacing, and sub = abbreviate + relaxed + loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting. Does trim down on unnecessary information making density high (this was not present in his earliest works).
 
 - Approachability: Balance of narration and commentary / explanation (when necessary). Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason). **Attention** based (pull info when needed). This paired with good one off / recurring characters make the stories very memorable. Sometimes a summarization / recap by character mouth or narrator to sum up events. Using **mirror neurons** to simply and make more engaging storytelling, by show the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
 
@@ -274,7 +274,7 @@ https://www.reddit.com/r/writing/comments/pkxhxd/really_though_what_is_literary_
 >
 > In short, the kind of people who see all fantasy or sci fi or horror as "commercial fiction" don't actually know anything about it so they aren't in any place to comment on its artistic merits.
 >
-> Somebody says fantasy isn't literatary, it'll just sit there being literature, and they'll be wrong. They're not worth worrying much about.
+> Somebody says fantasy isn't literatacy, it'll just sit there being literature, and they'll be wrong. They're not worth worrying much about.
 >
 > Fantasy is one of the oldest types of story there is. Beowulf is fantasy, all the old greek stories like the Iliad and the Odyssey are fantasy, the oldest works of fiction we know of are fantasy. The idea that fantasy and other genres can only be "commercial fiction" not worthy of serious analysis is nonsense
 >

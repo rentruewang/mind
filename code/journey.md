@@ -12,7 +12,7 @@ Started caring about readability in 2021 -> Huffman and brief.
 
 ### Open source in 2021
 
-Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects. (You don't pay for what you don't use, the simpler the better, in maintainance and performance)
+Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects. (You don't pay for what you don't use, the simpler the better, in maintainence and performance)
 Functions start being as short as possible (not yet as abstract and DRY as possible).
 Being readable and short implicit constraints on simplicity.
 

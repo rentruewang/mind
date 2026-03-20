@@ -28,13 +28,13 @@ Usage: high performance computing, desktop UI, games, improve Python performance
 
 Java:
 
-Java is my intro to data structures and algorithms, and is a very simple clean language (language itself, not the culture). But, I hate its tooling. Very difficult to get around and very cluncky.
+Java is my intro to data structures and algorithms, and is a very simple clean language (language itself, not the culture). But, I hate its tooling. Very difficult to get around and very clunky.
 
 Rust:
 
-I like the language. But the community isn't too likable (lots of cocky but ignorant people). Furthermore, since it will never replace C++ because it has no killer application, while being mostly overlapping in the same domain and style (both are kitchen sink languges), and as there exists very few pure rust libraries, incompatibility with C++ means it could not leverage the existing sea of libraries.
+I like the language. But the community isn't too likable (lots of cocky but ignorant people). Furthermore, since it will never replace C++ because it has no killer application, while being mostly overlapping in the same domain and style (both are kitchen sink languages), and as there exists very few pure rust libraries, incompatibility with C++ means it could not leverage the existing sea of libraries.
 
-> Programming in rust bogged down to thinkig about language features rather than solving problems.
+> Programming in rust bogged down to thinking about language features rather than solving problems.
 
 Would it become big in the future? No, because only people who have learned about C++ would love rust. It won't be a successful language as C++ imo. Also too FP like, not C like, to be popular. Most languages that are popular look like C, also FP has its own issues [(sum types)](./fpoop.md).
 
