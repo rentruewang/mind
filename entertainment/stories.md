@@ -252,9 +252,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Strong exaggeration, very extreme, and honestly a little crazy.
 
-- Good atmosphere building, mood swings.
+- Good atmosphere building, mood swings. Good cathartic moments.
 
 - Histrionic characters by being self centered ("I told you so" / "You are nothing to me" kind), and being proud / arrogant.
+
+- Theatrical characters / dialogue / reactions / plot / scenarios.
+
+- Humorous at the right parts while keeping you stunned.
 
 ###### Attack on Titan 1-3
 
