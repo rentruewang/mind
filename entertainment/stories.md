@@ -252,7 +252,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good characters through showing how they interact with their world.
 
-- Strong exaggeration, very extreme, and honestly a little crazy.
+- Strong exaggeration, very extreme, and honestly a little crazy. Crazy in terms of character intentions and actions and possibilities.
 
 - Good atmosphere building, mood swings. Good cathartic moments. Appeals to emotion well.
 
