@@ -264,6 +264,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Sometimes have the flaw of characters having information of God, but it helps making the pace fast (and s.t. we can see more of Araki's creativity by seeing more events / sequences of moves in fights).
 
+- Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
+
 ###### Attack on Titan 1-3
 
 - Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
