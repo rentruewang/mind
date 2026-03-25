@@ -36,7 +36,9 @@ Maybe I focus too much on simplicity and terseness, not necessarily approachabil
 
 ### 2026
 
-Practicality: New mindset. _Write now, design later_. Uses github's squash and merge (coding with less focus on perfection, can always squash later). Happy to merge less than perfect changes, so long as it keeps the progress flowing (personal project ofc, in work there are external pressure). I realized that focusing endlessly on perfection is just not going to cut it, with my limited time and many goals to hit.
+Practicality: New mindset. _Write now, design later_. Start concrete, and **evolve** more and more abstract. I realized that focusing endlessly on perfect design / implementation is just not going to cut it, with my limited time and many goals to hit.
+
+Uses github's squash and merge (coding with less focus on perfection, can always squash later). Happy to merge less than perfect changes, so long as it keeps the progress flowing (personal project ofc, in work there are external pressure).
 
 I think this is a pushback from previous years where I was very stressed out designing perfect plans when writing new code. No more (still do it to some extent but try not to).
 
