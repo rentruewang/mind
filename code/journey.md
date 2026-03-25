@@ -42,7 +42,7 @@ I think this is a pushback from previous years where I was very stressed out des
 
 Tho, my skills have improved, and I write with decent modularity and elegance in my designs by default, making the refactors down the road a little easier and managable.
 
-[Trying to be the stoneager](https://www.reddit.com/r/rustjerk/comments/wey6dy/im_in_this_photo_and_i_dont_like_it/), moving from overthiking, elegant elitist and simplistic, modular boilater.
+[Trying to be the stoneager](https://www.reddit.com/r/rustjerk/comments/wey6dy/im_in_this_photo_and_i_dont_like_it/), moving from simplified, elegant elitist and overthinking, modular boilater.
 
 ## Platform type code I read
 
