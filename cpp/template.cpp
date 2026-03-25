@@ -6,7 +6,9 @@
 using namespace std;
 
 template <typename T>
-concept Comparable = requires(T a, T b) { a < b; };
+concept Comparable = requires(T a, T b) {
+    { a < b } -> std::same_as<bool>;
+};
 
 template <Comparable T>
 T larger(T a, T b) {
@@ -14,8 +16,10 @@ T larger(T a, T b) {
     return result;
 }
 
-template <Comparable T>
-bool operator<<(T a, T b) {
+template <typename T>
+bool operator<<(T a, T b)
+    requires Comparable<T>
+{
     return a < b;
 }
 
@@ -60,5 +64,5 @@ int main() {
     // because 'AnotherContainer<std::string>' does not satisfy 'Comparable'
     // auto res = larger<AnotherContainer<string>>({"a"}, {"b"});
 
-    s return 0;
+    return 0;
 }
