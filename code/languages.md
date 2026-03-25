@@ -40,7 +40,7 @@ Would it become big in the future? No, because only people who have learned abou
 
 Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that. There are also `trait`s all over the place, making it difficult to trace where the functions come from.
 
-[Also](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/) [this](https://www.reddit.com/r/rustjerk/comments/wey6dy/im_in_this_photo_and_i_dont_like_it/).
+[Also this](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/).
 
 Go:
 
