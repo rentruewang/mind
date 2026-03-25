@@ -32,7 +32,13 @@ Work also makes me prioritize and work with a deadline. Makes me minimize work a
 
 Also I never was able to spend time on coding for this long, which made my made some good progress about programming principles.
 
-Maybe I focus too much on simplicity and terseness, not necessarily approachability and maintainability.
+Maybe I focus too much on simplicity and terseness, not necessarily approachability and maintainability (perhaps too abstract).
+
+### 2026
+
+Practicality: New mindset. Write now, design later. Uses github's squash and merge (coding with less focus on perfection, can always squash later). Happy to merge less than perfect changes, so long as it keeps the progress flowing (personal project ofc, in work there are external pressure). I realized that focusing endlessly on perfection is just not going to cut it, with my limited time and many goals to hit.
+
+Tho, my skills have improved, and I write with decent modularity and elegance in my designs by default.
 
 ## Platform type code I read
 
