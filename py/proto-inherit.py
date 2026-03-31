@@ -1,14 +1,14 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import abc
-from typing import Protocol
+import typing
 
 
 class SuperProtocol:
-    # If Protocol is one of __bases__,
+    # If typing.Protocol is one of __bases__,
     # the __init__ would be set automatically,
     # one that doesn't call super()
-    __init_subclass__ = Protocol.__init_subclass__
+    __init_subclass__ = typing.Protocol.__init_subclass__
 
 
 class BaseClass:
@@ -16,7 +16,7 @@ class BaseClass:
         print("init of base is called")
 
 
-class QuackNoInit(Protocol):
+class QuackNoInit(typing.Protocol):
     def quack(self):
         print("i am a duck")
 
@@ -54,7 +54,7 @@ class MultiInherit(QuackMixin, BaseClass):
         print("i inherit so much")
 
 
-class A(Protocol):
+class A(typing.Protocol):
     @abc.abstractmethod
     def __init__(self) -> None:
         print("A.__init__")

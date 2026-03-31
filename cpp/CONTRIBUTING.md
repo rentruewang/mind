@@ -2,7 +2,8 @@
 
 ## Code style
 
-01. Use ISO Cpp's code style (`snake_case_everything`).
+00. Try to mimick the surrounding code.
+01. Use python's style (`ClassName`, `function_name`, `var_name`, `CONSTANT`).
 02. Except for private member variable, (`suffix_with_underscore_`).
 03. Use `clang-format` (`BasedOnStyle: Chromium; IndentWidth: 4; IncludeBlocks: Regroup`).
 04. Use `=` initialization only for pointer / reference types.

@@ -1,11 +1,11 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
-from typing import Any
+import typing
 
 
 class Super1:
     @classmethod
-    def __init_subclass__(cls, **kwargs: Any) -> None:
+    def __init_subclass__(cls, **kwargs: typing.Any) -> None:
         print(cls, kwargs)
 
 

@@ -1,11 +1,11 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
+import abc
 import typing
-from abc import ABC, abstractmethod
 
 
-class A(ABC):
-    @abstractmethod
+class A(abc.ABC):
+    @abc.abstractmethod
     def f(self, a):
         pass
 

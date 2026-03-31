@@ -2,11 +2,10 @@
 
 import abc
 import typing
-from typing import Protocol
 
 
 @typing.runtime_checkable
-class Proto(Protocol):
+class Proto(typing.Protocol):
     member: int
 
     @property

@@ -1,7 +1,6 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import abc
-from abc import ABC
 
 
 class Base:
@@ -28,7 +27,7 @@ class StaticDerived(Base):
         print("static derived")
 
 
-class Abstract(ABC):
+class Abstract(abc.ABC):
     @abc.abstractmethod
     def __init__(self) -> None:
         super().__init__()

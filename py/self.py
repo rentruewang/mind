@@ -1,18 +1,18 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import abc
-from collections.abc import Sequence
-from typing import Protocol, TypeVar
+import typing
+from collections import abc as cabc
 
-T = TypeVar("T", bound="HasChildren", covariant=True)
+T = typing.TypeVar("T", bound="HasChildren", covariant=True)
 
 
-class HasChildren(Protocol[T]):
+class HasChildren(typing.Protocol[T]):
     @abc.abstractmethod
-    def children(self) -> Sequence[T]: ...
+    def children(self) -> cabc.Sequence[T]: ...
 
 
 class HasSelfAsChildren(HasChildren["HasSelfAsChildren"]):
     # It does autocomplete. Seems fine.
-    def children(self) -> Sequence["HasSelfAsChildren"]:
+    def children(self) -> cabc.Sequence["HasSelfAsChildren"]:
         return []

@@ -1,7 +1,7 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import time
-from multiprocessing.pool import ThreadPool
+from multiprocessing import pool
 
 
 def print_periodically(num: int) -> None:
@@ -11,8 +11,8 @@ def print_periodically(num: int) -> None:
 
 
 if __name__ == "__main__":
-    pool = ThreadPool(2)
-    pool.map_async(print_periodically, range(2))
+    p = pool.ThreadPool(2)
+    p.map_async(print_periodically, range(2))
 
     print("here")
     time.sleep(10)
