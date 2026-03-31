@@ -1,7 +1,7 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import dataclasses as dcls
-from collections.abc import Callable
+from collections import abc as cabc
 
 
 @dcls.dataclass(frozen=True)
@@ -24,7 +24,7 @@ class HasMethods:
 
     e = lambda self: print(self)
     f = print
-    g: Callable = lambda self: print(self)
+    g: cabc.Callable = lambda self: print(self)
 
 
 if __name__ == "__main__":

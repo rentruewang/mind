@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import abc
-from typing import Generic, Protocol, TypeVar
+import typing
 
 # Java is THE OOP language, so let's see how it handles generics and inheritance.
 # https://docs.oracle.com/javase/tutorial/java/generics/inheritance.html
@@ -17,37 +17,37 @@ def g_ng():
         def f(self, i: int) -> int:
             return i
 
-    Cov = TypeVar("Cov", covariant=True, bound=int)
-    Cont = TypeVar("Cont", contravariant=True, bound=int)
+    Cov = typing.TypeVar("Cov", covariant=True, bound=int)
+    Cont = typing.TypeVar("Cont", contravariant=True, bound=int)
 
     # error: Cannot use a covariant type variable as a parameter
-    # class Generic1(NonGeneric, Generic[Cov]):
+    # class Generic1(NonGeneric, typing.Generic[Cov]):
     #     def f(self, i: Cov) -> int:
     #         return i
 
     # error: Argument 1 of "f" is incompatible with supertype "NonGeneric";
     # supertype defines the argument type as "int"
-    # class Generic2(NonGeneric, Generic[Cont]):
+    # class Generic2(NonGeneric, typing.Generic[Cont]):
     #     def f(self, i: Cont) -> int:
     #         return i
 
-    class Generic3(NonGeneric, Generic[Cov]):
+    class Generic3(NonGeneric, typing.Generic[Cov]):
         def f(self, i: int) -> Cov:
             raise ValueError
 
     # error: Cannot use a contravariant type variable as return type
-    # class Generic4(NonGeneric, Generic[Cont]):
+    # class Generic4(NonGeneric, typing.Generic[Cont]):
     #     def f(self, i: int) -> Cont:
     #         raise ValueError
 
     # error: Incompatible return value type (got "Cont", expected "Cov")
-    # class Generic5(NonGeneric, Generic[Cov, Cont]):
+    # class Generic5(NonGeneric, typing.Generic[Cov, Cont]):
     #     def f(self, i: Cont) -> Cov:
     #         return i
 
     # error: Argument 1 of "f" is incompatible with supertype "NonGeneric";
     # supertype defines the argument type as "int"
-    # class Generic6(NonGeneric, Generic[Cov, Cont]):
+    # class Generic6(NonGeneric, typing.Generic[Cov, Cont]):
     #     def f(self, i: Cont) -> Cov:
     #         raise ValueError
 
@@ -61,10 +61,10 @@ def ng_g():
     class SubClass(BaseClass):
         pass
 
-    Cov = TypeVar("Cov", covariant=True, bound=BaseClass)
-    Cont = TypeVar("Cont", contravariant=True, bound=BaseClass)
+    Cov = typing.TypeVar("Cov", covariant=True, bound=BaseClass)
+    Cont = typing.TypeVar("Cont", contravariant=True, bound=BaseClass)
 
-    class GenericBase(Generic[Cont, Cov]):
+    class GenericBase(typing.Generic[Cont, Cov]):
         def f(self, i: Cont) -> Cov:
             raise ValueError
 
@@ -95,13 +95,13 @@ def g_g():
     class SubClass(BaseClass):
         pass
 
-    Cov = TypeVar("Cov", covariant=True, bound=BaseClass)
-    Cont = TypeVar("Cont", contravariant=True, bound=BaseClass)
+    Cov = typing.TypeVar("Cov", covariant=True, bound=BaseClass)
+    Cont = typing.TypeVar("Cont", contravariant=True, bound=BaseClass)
 
-    SubCov = TypeVar("SubCov", covariant=True, bound=SubClass)
-    SubCont = TypeVar("SubCont", contravariant=True, bound=SubClass)
+    SubCov = typing.TypeVar("SubCov", covariant=True, bound=SubClass)
+    SubCont = typing.TypeVar("SubCont", contravariant=True, bound=SubClass)
 
-    class GenericBase(Protocol[Cov, Cont]):
+    class GenericBase(typing.Protocol[Cov, Cont]):
         @abc.abstractmethod
         def cov(self) -> Cov: ...
 
@@ -379,7 +379,7 @@ def codependent():
     # just use a visitor pattern that "modifies and adds" specific functionality.
     # So SubA1 would do `b.accept(self)`,
     # and SubB1 would do `specific_sub_b1` inside its own visit.
-    class ProtoA(Protocol):
+    class ProtoA(typing.Protocol):
         def accept(self, b: ProtoB) -> None:
             b.visit(a=self)
 
@@ -389,7 +389,7 @@ def codependent():
         @abc.abstractmethod
         def visit(self, b: ProtoB) -> None: ...
 
-    class ProtoB(Protocol):
+    class ProtoB(typing.Protocol):
         def accept(self, a: ProtoA) -> None:
             a.visit(b=self)
 
@@ -464,14 +464,14 @@ def codependent_generic():
     # Using generic to solve this.
     # I think I noticed this is possible by first thinking how `typing.Self` is implemented,
     # then expanded horizons by reading the source code of spark.
-    _B = TypeVar("_B", bound="B")
-    _A = TypeVar("_A", bound="A")
+    _B = typing.TypeVar("_B", bound="B")
+    _A = typing.TypeVar("_A", bound="A")
 
-    class A(Generic[_B]):
+    class A(typing.Generic[_B]):
         def attack(self, b: _B) -> None:
             print(self, "attacking", b)
 
-    class B(Generic("_A")):
+    class B(typing.Generic("_A")):
         def defend(self, a: "_A") -> None:
             print(self, "defending", a)
 

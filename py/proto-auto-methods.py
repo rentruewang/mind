@@ -1,12 +1,12 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import abc
-from typing import Protocol
+import typing
 
 # https://peps.python.org/pep-0544/#explicitly-declaring-implementation
 
 
-class SomeDefaults(Protocol):
+class SomeDefaults(typing.Protocol):
     @abc.abstractmethod
     def function(self):
         pass

@@ -2,7 +2,7 @@
 
 import json
 import typing
-from collections.abc import Mapping
+from collections import abc as cabc
 
 
 class SomeClass:
@@ -38,7 +38,7 @@ class SomeClass:
     def __setattr__(self, name, value):
         self[name] = value
 
-    def __eq__(self, other: Mapping) -> bool:
+    def __eq__(self, other: cabc.Mapping) -> bool:
         return {**self} == {**other}
 
     def keys(self):

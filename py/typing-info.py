@@ -1,9 +1,9 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
-from collections.abc import Callable
-from typing import ParamSpec, TypeVar
+import typing
+from collections import abc as cabc
 
-Real = TypeVar("Real", int, float)
+Real = typing.TypeVar("Real", int, float)
 
 
 def f(n: float):
@@ -14,18 +14,18 @@ def fnum(a: Real, b: Real) -> None:
     print(a, b, a + b)
 
 
-AnyStr = TypeVar("AnyStr", str, bytes)
+AnyStr = typing.TypeVar("AnyStr", str, bytes)
 
 
 def fstr(a: AnyStr, b: AnyStr) -> None:
     print(a, b, a + b)
 
 
-P = ParamSpec("P")
-R = TypeVar("R")
+P = typing.ParamSpec("P")
+R = typing.TypeVar("R")
 
 
-def print_before_and_after(function: Callable[P, R]) -> Callable[P, R]:
+def print_before_and_after(function: cabc.Callable[P, R]) -> cabc.Callable[P, R]:
     def _function(*args: P.args, **kwargs: P.kwargs) -> R:
         print("function:", function)
         print(args, kwargs)

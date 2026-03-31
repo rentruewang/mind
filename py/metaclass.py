@@ -2,7 +2,7 @@
 
 import contextlib as ctxl
 import copy
-from typing import ClassVar, Self
+import typing
 
 
 @ctxl.contextmanager
@@ -106,7 +106,7 @@ class Meta4(type):
 
 
 class Class4(metaclass=Meta4):
-    ARG: ClassVar[int] = 999
+    ARG: typing.ClassVar[int] = 999
 
     def __new__(cls, *args, **kwargs):
         print("class4.new 1")
@@ -137,7 +137,7 @@ class Meta5(type):
 
 
 class Class5(metaclass=Meta5):
-    ARG: ClassVar[int] = 999
+    ARG: typing.ClassVar[int] = 999
 
     def __new__(cls, *args, **kwargs):
         print("class5.new 1")
@@ -158,7 +158,7 @@ class StrOk(str):
     # If we do `__init__`, `str.__new__` will still be the original one.
     # This means that it has something that we wouldn't want e.g. encoding, errors fields.
     # Now this only applies to builtin types, because `object.__new__` ignores *args **kwargs.
-    def __new__(cls, value: str, meta: int) -> Self:
+    def __new__(cls, value: str, meta: int) -> typing.Self:
         inst = str.__new__(cls, value)
         inst.meta = meta
         return inst

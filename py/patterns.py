@@ -1,7 +1,7 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import typing
-from collections.abc import Sequence
+from collections import abc as cabc
 
 
 def match_something(something: typing.Any) -> None:
@@ -21,7 +21,7 @@ def match_something(something: typing.Any) -> None:
             print("default", something)
 
 
-def match_start(seq: Sequence[int]):
+def match_start(seq: cabc.Sequence[int]):
     match seq:
         case (*others, end):
             print(end, others)
@@ -29,7 +29,7 @@ def match_start(seq: Sequence[int]):
             print("hi")
 
 
-def match_end(seq: Sequence[int]):
+def match_end(seq: cabc.Sequence[int]):
     match seq:
         case [start, *others]:
             print(start, others)
