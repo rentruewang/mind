@@ -1,8 +1,8 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
 import json
+import typing
 from collections.abc import Mapping
-from typing import Any
 
 
 class SomeClass:
@@ -14,7 +14,7 @@ class SomeClass:
 
     __slots__ = "field", "extra"
 
-    def __init__(self, field: int, extra: dict[str, Any] | None = None):
+    def __init__(self, field: int, extra: dict[str, typing.Any] | None = None):
         self.field = field
         self.extra = extra or {}
 
@@ -22,7 +22,7 @@ class SomeClass:
         return json.dumps(self.__dict__, sort_keys=True, default=vars)
 
     @property
-    def __dict__(self) -> dict[str, Any]:
+    def __dict__(self) -> dict[str, typing.Any]:
         return {"field": self.field, **self.extra}
 
     def __hash__(self):

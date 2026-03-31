@@ -2,8 +2,8 @@
 
 import dataclasses as dcls
 import functools
-from types import MethodType
-from typing import Any
+import types
+import typing
 
 # Basically, what happens for bound methods is that their descriptors are called.
 # See python `typeobject.c` `lookup_maybe_method`.
@@ -28,10 +28,10 @@ class SomeCallableWithDescriptor:
 
 @dcls.dataclass
 class C1:
-    def method(*args: Any, **kwargs: Any) -> None:
+    def method(*args: typing.Any, **kwargs: typing.Any) -> None:
         print("c1 method", args, kwargs)
 
-    def __call__(*args: Any, **kwargs: Any) -> None:
+    def __call__(*args: typing.Any, **kwargs: typing.Any) -> None:
         print("c1 call", args, kwargs)
 
 
@@ -66,10 +66,14 @@ if __name__ == "__main__":
     c4 = C4()
 
     # This will not work because magic methods are called on the classes.
-    c4.__call__ = MethodType(lambda *args, **kwargs: print("c4 call", args, kwargs), c4)
-    c4.method = MethodType(lambda *args, **kwargs: print("c4 method", args, kwargs), c4)
-    c4.sc = MethodType(SomeCallable(), c4)
-    c4.scwd = MethodType(SomeCallableWithDescriptor(), c4)
+    c4.__call__ = types.MethodType(
+        lambda *args, **kwargs: print("c4 call", args, kwargs), c4
+    )
+    c4.method = types.MethodType(
+        lambda *args, **kwargs: print("c4 method", args, kwargs), c4
+    )
+    c4.sc = types.MethodType(SomeCallable(), c4)
+    c4.scwd = types.MethodType(SomeCallableWithDescriptor(), c4)
 
     c1.method("a", "b", c="c")
     c1("a", "b", c="c")

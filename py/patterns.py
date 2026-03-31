@@ -1,10 +1,10 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
+import typing
 from collections.abc import Sequence
-from typing import Any
 
 
-def match_something(something: Any) -> None:
+def match_something(something: typing.Any) -> None:
     match something:
         case ["s", "o", *remains]:
             print("This is reachable", something, remains)

@@ -1,6 +1,6 @@
 # Copyright (c) RenChu Wang - All Rights Reserved
 
-from types import MethodType
+import types
 
 
 class I:
@@ -19,7 +19,7 @@ class I:
 class PatchI1:
     def __init__(self, i):
         self.i = i
-        self.i.method = MethodType(self.string, self.i)
+        self.i.method = types.MethodType(self.string, self.i)
 
     def string(self, iself):
         return f"Injected 1({iself.i})"
@@ -28,7 +28,7 @@ class PatchI1:
 class PatchI2:
     def __init__(self, i):
         self.i = i
-        self.i.method = MethodType(lambda self: f"Injected 2({self.i})", self.i)
+        self.i.method = types.MethodType(lambda self: f"Injected 2({self.i})", self.i)
 
 
 class PatchI3:
@@ -36,7 +36,7 @@ class PatchI3:
         self.i = i
         # This does not work because python does not look up magic methods on the instances.
         # See: https://stackoverflow.com/a/10376655
-        self.i.__str__ = MethodType(lambda self: f"Injected 3({self.i})", self.i)
+        self.i.__str__ = types.MethodType(lambda self: f"Injected 3({self.i})", self.i)
 
 
 if __name__ == "__main__":
