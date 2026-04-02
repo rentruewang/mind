@@ -34,7 +34,7 @@ Something new (creative, surprising)
 
 Writing = ability to describe with ease, and to convey what's going on to the reader (info density).
 
-Good writing = efforless, disappears into the background (I think it serves the plot, not the other way around).
+Good writing = effortless, disappears into the background (I think it serves the plot, not the other way around).
 
 Engaging (keeps you thinking, suspense).
 
@@ -88,7 +88,7 @@ Actions have meanings, where they affect outcome.
 
 We can study connections with ablation study; remove one component and observe the difference.
 
-Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal of a chapter in a loose plot may not even be noticible in plot.
+Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal of a chapter in a loose plot may not even be noticeable in plot.
 
 ### Engaging stories (human mechanism)
 
@@ -104,7 +104,7 @@ Stories should have good pace and keep the readers engaged. Quick pace may be ov
 
 #### Exploration
 
-**Unexpected, but reasonable**. New aspect revealed, new potention uncovered.
+**Unexpected, but reasonable**. New aspect revealed, new potential uncovered.
 
 Good stories keeps you guessing due to having lots of options, just like real life.
 
@@ -150,7 +150,7 @@ How many people to write?
 
 Too many: Attention is split, no time to feel attached, taxing.
 
-Too few: As novels already depict fewer people than in real life, it would be unnatural and predictable and too simple if ther are too few people involved.
+Too few: As novels already depict fewer people than in real life, it would be unnatural and predictable and too simple if there are too few people involved.
 
 Since people drive events, too few events can be generated.
 
@@ -204,19 +204,19 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show how the characters' characters, and change in emotional states. Lots of attention to details. Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading does'nt feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show how the characters' characters, and change in emotional states. Lots of attention to details. Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Spring & Autumn Brushwork: Plant clues deep and many and scattered (using details to drive hidden plot lines, you have to find them by connecting clues over great distances). Uses characters' hidden motivations to connect to different parts, and deceive readers' attention by focusing on parts he wants you to focus on, making re-reading possible. (e.g. don't get fooled by (maybe unreliable) narrator's viewpoint, some characters behave differently from how they are written, use similar but subtly different events to reveal details, etc). His stories are very consistent (to the details), and sometimes use inconsistencies to reveal lies, some characters know too much or not reacting to things (you need to analyze characters viewpoint not god). Portraits as A but appears to be B if you dive deeper.
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent).
 
-- Characters make "natural" decisions, driving plots (not the other way around). They are driven by their own unique motivations (not external plots). The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly.
+- Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots). The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly.
 
-- Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
+- Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after. Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet memorable characters even for one off characters.
+- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet memorable characters even for one off characters. Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
 
-- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies, yet the plots flows are driven by characters' motivations.
+- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies, yet the plots flows are driven by characters' motivations. Yet, good cathartic moments and keep the readers hooked.
 
 - Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap (partial information) is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
 
@@ -224,11 +224,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good at writing things as a whole: writing scenes showing characters' mental states and upbringing, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; His writing is scenic / stage like, it's easy to picture; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
-- Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy).
+- Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Depicts scenes that reflects characters' mental states. Gets you invested, but each plot thread maintains their own integrity (non messy). Immersion (uses character view s.t. it doesn't feel linear). Use some events at the start to get you curious, and keep the story going with a thread. Using _meaningful_ events (danger / conflict that affects the MC) to get you hooked. Knows how you think, making it as if you are living out the fantasy.
 
-- Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distrubtion of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed + urgent + tight pacing, and sub = abbreviate + relaxed + loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting.
+- Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distribution of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed / urgent / tight pacing, and sub = abbreviate / relaxed / loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Good emphasis and contrasting. Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
 
-- Approachability: Balance of narration and commentary / explanation (when necessary). Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason). **Attention** based (pull info when needed). This paired with good one off / recurring characters make the stories very memorable. Sometimes a summarization / recap by character mouth or narrator to sum up events.
+- Approachability: Balance of narration and commentary / explanation (when necessary). Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason). **Attention** based (pull info when needed). This paired with good one off / recurring characters make the stories very memorable. Sometimes a summarization / recap by character mouth or narrator to sum up events. Using **mirror neurons** to simply and make more engaging storytelling, by show the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
 
 ###### Sherlock Holmes
 
@@ -273,7 +273,7 @@ https://www.reddit.com/r/writing/comments/pkxhxd/really_though_what_is_literary_
 >
 > In short, the kind of people who see all fantasy or sci fi or horror as "commercial fiction" don't actually know anything about it so they aren't in any place to comment on its artistic merits.
 >
-> Somebody says fantasy isn't literatary, it'll just sit there being literature, and they'll be wrong. They're not worth worrying much about.
+> Somebody says fantasy isn't literatacy, it'll just sit there being literature, and they'll be wrong. They're not worth worrying much about.
 >
 > Fantasy is one of the oldest types of story there is. Beowulf is fantasy, all the old greek stories like the Iliad and the Odyssey are fantasy, the oldest works of fiction we know of are fantasy. The idea that fantasy and other genres can only be "commercial fiction" not worthy of serious analysis is nonsense
 >
