@@ -242,9 +242,29 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
 
+- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
+
 ###### JOJO
 
-- Very creative. Maybe too creative (mainly in fighting). Good characters through showing how characters interact with their world.
+- Very bizzare.
+
+- Very creative. Sometimes quite random. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts), and wide options (many possibilities).
+
+- Good characters through showing how they interact with their world.
+
+- Strong exaggeration, very extreme, and honestly a little crazy. Crazy in terms of character intentions and actions and possibilities.
+
+- Good atmosphere building, mood swings. Good cathartic moments. Appeals to emotion well.
+
+- Histrionic characters by being self centered ("I told you so" / "You are nothing to me" kind), and being proud / arrogant.
+
+- Theatrical characters / dialogue / reactions / plot / scenarios. Crazy memorable characters.
+
+- Humorous at the right parts while keeping you stunned.
+
+- Sometimes have the flaw of characters having information of God, but it helps making the pace fast (and s.t. we can see more of Araki's creativity by seeing more events / sequences of moves in fights).
+
+- Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
 ###### Attack on Titan 1-3
 
@@ -252,7 +272,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Web / light novels
 
-- Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects). Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+- Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
+
+- Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+
+- Often times like to be funny by throwing logic out of the window.
 
 ### Literary fictions
 
