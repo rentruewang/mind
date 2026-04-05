@@ -11,6 +11,6 @@
 6. `__init__` should use `from .module import *` and modules should define an `__all__`, under the import section.
 7. Try to add type hints as little as you can, while maintaining as high coverage as you can (use LSP).
 
-[^1]: My reference.
+[^1]: E.g. some libraries have a lot of functionalities (e.g. `torch`), it's common to do `from torch import nn, optim...`. `import as` would result in many lines.
 [^2]: Example: Always `from our.module import func, Class`, not `module.func, module.Class`. This reduces clutter, ensure no duplicae names on 1st party objects, and is more in line with my C++ style.
 [^3]: Example: `torch.Tensor` not `from torch import Tensor`.
