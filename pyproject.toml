@@ -20,8 +20,6 @@ dev = [
     "black>=25.1.0",
     "isort>=6.0.1",
     "mypy>=1.16.0",
-    "mdformat>=1.0.0",
-    "mdformat-gfm>=1.0.0",
 ]
 
 
