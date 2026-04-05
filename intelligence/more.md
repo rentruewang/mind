@@ -56,3 +56,5 @@ Because control flow graph = sea of (block) nodes,
 this means that control flow graph is a representation on the unoptimized IR.
 If you already have the nodes, might as well apply sea of nodes;
 also sea of nodes require some code motion algorithm to reconstruct the original function, which is not convenient.
+
+AST: In an imperative language, later nodes (the nodes more "right" in the AST) _can_ have implicit data dependencies on the nodes on previous nodes (more "left" in the AST). This corresponds to the fact that data depdencies are DAG by nature.

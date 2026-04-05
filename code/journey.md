@@ -32,7 +32,19 @@ Work also makes me prioritize and work with a deadline. Makes me minimize work a
 
 Also I never was able to spend time on coding for this long, which made my made some good progress about programming principles.
 
-Maybe I focus too much on simplicity and terseness, not necessarily approachability and maintainability.
+Maybe I focus too much on simplicity and terseness, not necessarily approachability and maintainability (perhaps too abstract).
+
+### 2026
+
+Practicality: New mindset. _Write now, design later_. Start concrete, and **evolve** more and more abstract, knowing that the designs **will change**. I realized that focusing early on, endlessly, on perfect design / implementation is just not going to cut it, with my limited time and many goals to hit.
+
+Uses github's squash and merge (coding with less focus on perfection, can always squash later). Happy to merge less than perfect changes, so long as it keeps the progress flowing (personal project ofc, in work there are external pressure). Sometimes I deliberately push imcomplete code (at the time of pushing already know it will be scrapped next PR), just so the 2 changes can be made simpler.
+
+I think this is a pushback from previous years where I was very stressed out designing perfect plans when writing new code. No more (still do it to some extent but try not to). In some of the code I even made code **less abstract** s.t. it's easier to work with (in that case for better code autocomplete)!
+
+Tho, my skills have improved, and I write with decent modularity and elegance in my designs by default, making the refactors down the road a little easier and managable.
+
+[Trying to be the stoneager](https://www.reddit.com/r/rustjerk/comments/wey6dy/im_in_this_photo_and_i_dont_like_it/), moving from simplified, elegant elitist and overthinking, modular boilater.
 
 ## Platform type code I read
 

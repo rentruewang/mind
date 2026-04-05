@@ -40,6 +40,8 @@ Would it become big in the future? No, because only people who have learned abou
 
 Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that. There are also `trait`s all over the place, making it difficult to trace where the functions come from.
 
+[Also this](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/).
+
 Go:
 
 I love the language, but simply have no use for it. It shines in building web backends / goroutines, but is outclassed by python / c++ in other areas, in terms of availability of tools / libraries and features.
