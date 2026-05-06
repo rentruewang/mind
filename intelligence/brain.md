@@ -1,3 +1,5 @@
+## Planning
+
 mental notes = Point of recall
 Doesn't need to replay the entire event, just the relevant part leading to the conclusion
 
