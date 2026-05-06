@@ -96,6 +96,10 @@ It also doesn't really do what you want it to do. Think of it this way: since LL
 
 Since LLM is pitched like AGI, it suffers the same problems as AGI in monetization: it doesn't solve 1 problem 10 times as well, but rather improve **every** problem by a tiny margin. It is difficult to monetize this kind of stuff, as the **value** created is not strong enough (humans are satisficing so may not notice).
 
+13. Anecdotes
+
+> Unfortunately the reality of LLM-based contributions has been mostly negative for us, from an increase in background noise due to worthless drive-by PRs full of hallucinations (that wouldn’t even compile, let alone pass CI), to insane 10 thousand line long first time PRs. In-between we also received plenty of PRs that looked fine on the surface, some of which explicitly claimed to not have made use of LLMs, but where follow-up discussions immediately made it clear that the author was sneakily consulting an LLM and regurgitating its mistake-filled replies to us.
+
 ## Unicorn where?
 
 Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years.
@@ -145,6 +149,11 @@ In 1960s, when people started doing AI, they do planning / games / tree search /
 Today, deep learning (including LLM) captures more of an animal intelligence. Impressive yes, but there is a gap between reasoning and animal intelligence.
 
 Precisly this is the reason reasoning models won't work, it's like asking a dog to learn calculus by memorizing!
+
+Familiar = can use to plan.
+
+LLM cannot plan, therefore they cannot understand.
+
 
 ## Black box
 
