@@ -154,7 +154,6 @@ Familiar = can use to plan.
 
 LLM cannot plan, therefore they cannot understand.
 
-
 ## Black box
 
 A system with objective function is controllable (control the goal, goal oriented).
