@@ -12,6 +12,12 @@ Llm is used as a blackbox.
 Declarative approach on llm (give answers and find prompts).
 Very good at natural language and personalization.
 
+## What it does great
+
+Solves the "framgentation" of AI (you have a unified interface to solutions to text / image etc).
+
+Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
+
 ## Why not going to be successful
 
 1. Use in B2C?
@@ -28,6 +34,8 @@ Not reproducible enough, which is not compatible with businesses, by definition,
 
 Prompt tuning has a low skill ceiling. Everything you can do I can do too, and vice versa. So you cannot capture value as once value is found, it's spread out.
 
+1 man unicorn is not possible, precisly because if everyone can do it, it lacks scarcity, and is thus worthless.
+
 4. No path forward
 
 A most common thing to hear is "In 5 years llm would....", but no one actually has a path as to how that would be achieved.
@@ -38,6 +46,10 @@ Llm = maximum likelihood estimation, no creativity / innovation can happen becau
 
 Not good at maintaining and editing. Good for one time use. Either way, requires heavy human in the loop.
 At this time, common patterns in code are all in libraries, which you can trust.
+
+LLM also are bad at generating something new, not just because of lack of optimization, but also it hasn't trained (by definition) on unseen ideas.
+
+Since software is a winner take all industry (especially open source), rebuilding the wheel doesn't really make sense, or create value.
 
 6. Human in the loop
 
@@ -66,7 +78,7 @@ Even if it generates lots of comments, it's not simple enough because it likes t
 
 Natural langauge is not accurate. Everyone uses their own dialect, each differing a little. Therefore, it doesn't scale across individuals, teams even less (like when a novel is continued by another author, it doesn't feel the same).
 
-It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it solves only mirrors your command; to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code).
+It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it solves only mirrors your command; to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code). Only as accurate as you describe it to be.
 
 12. Wide problem surface, not deep
 
