@@ -34,6 +34,9 @@ One case where tactics affects strategy is it dictates how good each step can be
 
 In a 1v1 game, active means focusing on your own game tree (maximizing your own), where reactive aims to minimize opponent's scores.
 
+Defense is reactive in nature, offense is active in its nature. However, reactive attack can still be possible (waiting for opportunity)
+This is in terms of unit tho, you can be aggressive on e.g. eco / tech.
+
 ### Flexible vs Non-Flexible playstyle
 
 Hot paths in game state tree (game script) spread out vs very focused on specific paths.

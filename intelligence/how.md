@@ -57,6 +57,8 @@ This is possible because humans mind work in sequential, so bigger events can al
 - Usage of memory is apparent in refactors and re-implementing, where the contract (external states) are unchanged.
 - There are no Singleton problems. If there is one, then you cannot explain, only memorize.
 - Face recognition is one such instance of feeling (computation) based abstraction.
+- People who memorize everything cannot write good program, because their brain never develop abstraction, due to how good their memorization is.
+- Code without good abstraction is bad code, as it is too low level and too many details to reason.
 
 ### What Turing said
 
