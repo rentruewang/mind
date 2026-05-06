@@ -113,7 +113,7 @@ Maybe you can convert text to numbers to make it valuable. However, for regressi
 
 3. Reproducibilty: LLM itself cannot be easily predicted. E.g. on documents, you need to run to see if it works on a specific type of docs (like a sorting algorithm that needs to be run and verified with human eyes to see if it works, would be less useful).
 
-# Frontend vs Backend
+## Frontend vs Backend
 
 Good frontend (API) = simple -> easy to copy
 
@@ -125,3 +125,11 @@ SQL frontend too uniform so they have lots of alternative implementations.
 LLM frontend: just text.
 LLM backend: just model.
 No wonder it's so easy to copy!
+
+## Not AGI!
+
+In 1960s, when people started doing AI, they do planning / games / tree search / symbolic computation, which resulted in today's computers. They are goal oriented.
+
+Today, deep learning (including LLM) captures more of an animal intelligence. Impressive yes, but there is a gap between reasoning and animal intelligence.
+
+Precisly this is the reason reasoning models won't work, it's like asking a dog to learn calculus by memorizing!
