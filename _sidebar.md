@@ -17,6 +17,6 @@
   - [Starcraft](./entertainment/starcraft.md)
   - [Stories](./entertainment/stories.md)
 - Business
-  - [LLM](./business/llm.md)
+  - [Machine Learning](./business/ml.md)
   - [Apps](./business/apps.md)
   - [Starting](./business/founding.md)

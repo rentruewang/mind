@@ -26,15 +26,23 @@ Not really useful or entertaining on its on. Search is good, summarization is go
 
 Students might want to pay, but they are the ones with the least money.
 
-2. Use in B2B?
+In B2C, users don't care about specifics, so LLM is quite good in use cases like drawing, plotting, writing emails, but these activities don't make money.
+
+Right now the cost of running vs paying is 10x (for $200 plan, compute spends $2000+). Most people aren't willing to pay that.
+
+1. Use in B2B?
 
 Not reproducible enough, which is not compatible with businesses, by definition, reproducible processes. Good at experimenting / prototypes does not mean good at engineering / production.
+
+Unreliable.
 
 3. No technical moat
 
 Prompt tuning has a low skill ceiling. Everything you can do I can do too, and vice versa. So you cannot capture value as once value is found, it's spread out.
 
 1 man unicorn is not possible, precisly because if everyone can do it, it lacks scarcity, and is thus worthless.
+
+Low skill level, cannot build too much that the model itself cannot.
 
 4. No path forward
 
@@ -51,9 +59,13 @@ LLM also are bad at generating something new, not just because of lack of optimi
 
 Since software is a winner take all industry (especially open source), rebuilding the wheel doesn't really make sense, or create value.
 
-6. Human in the loop
+6. Unreliable (fundamental problem of LLM)
+
+**Being unreliable is its fundamental problem**. This means you cannot trust its result, even if it has 90% accuracy, you do not know which part goes wrong, which means it requires human in the loop.
 
 Human in the loop means **no automation**. It also means LLM doesn't save time on valuable thing, but boilerplate and mundane things. Which is important, but at this stage most of them are solved.
+
+Usage of LLM are basically patches to its fundamental problem (unreliable), and is exponentially more expensive.
 
 7. Benchmarks
 
@@ -133,3 +145,14 @@ In 1960s, when people started doing AI, they do planning / games / tree search /
 Today, deep learning (including LLM) captures more of an animal intelligence. Impressive yes, but there is a gap between reasoning and animal intelligence.
 
 Precisly this is the reason reasoning models won't work, it's like asking a dog to learn calculus by memorizing!
+
+## Black box
+
+A system with objective function is controllable (control the goal, goal oriented).
+It itself does not need to be a white box for it to work flawless, as the goal converges / collapses the behavior of the system.
+
+Creativity is a byproduct of optimization (randomization is the most surprising, but we don't call it creative. It needs to be good to be creative, which is an optimization problem).
+
+Usually, smaller models do not need tuning for the most part, and are very stable. Big models would.
+
+These are the reasons LLMs are very difficult to control, and a better alternative might be simple to achieve.
