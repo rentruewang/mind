@@ -107,3 +107,14 @@ I think this is done in neurons in the following way
 activate circuits (retrieve): retrieve, assemble, verify
 aggregation (hierarchy processing): simplify, aggregate, simulate
 update (memory): update
+
+## Hippocampus
+
+There is a guy named Henry who had his hippocampus cut off, and cannot form new semantic knowledge.
+
+Working memory: Short term. In his case this is alright.
+Procedural memory: Examplar memory. In his case this is fine, but he cannot recall exactly how.
+Semantic / declarative memory: Things you can explain. This part is severly impaired.
+
+I think this example shows that declarative memory is higher level than the other kinds of memories,
+meaning that semantic memories are generalizations / abstractions over examplars.
