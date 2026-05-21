@@ -6,11 +6,15 @@ LLM is really good at enhancing existing workflows, making them more user friend
 
 My criticisms below are more against people thinking that it can "move fast and break things" while in reality it is more like "break nothing, make it better", which tbh makes it hard for startup to build businesses around, as "it" is way too diverse.
 
+It's based on inefficiencies of text (the next token prediction having a pattern is proof that it can be further compressed).
+Now for more efficient forms of tokens, e.g. math equations, it may not learn as well, because pretty much all symbols can be combined together and form meaningful "sentences".
+
 ## Current use
 
 Llm is used as a blackbox.
 Declarative approach on llm (give answers and find prompts).
 Very good at natural language and personalization.
+Pretraining is popular because right now training is hard.
 
 ## What it does great
 
@@ -153,6 +157,8 @@ Precisly this is the reason reasoning models won't work, it's like asking a dog 
 Familiar = can use to plan.
 
 LLM cannot plan, therefore they cannot understand.
+
+It stores data yes, but it doesn't perform planning, so it doesn't compute like a human.
 
 ## Black box
 
