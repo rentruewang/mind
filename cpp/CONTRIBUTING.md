@@ -14,4 +14,5 @@
 9.  Use `///` for documentation strings.
 10. Try avoiding polluting the global namespace (`using` statements).
 11. If there is a collision e.g. between `std` and ours, only do `using` on ours.
-12. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
+12. Use `.hpp` `.cpp` for files names, when possible.
+13. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
