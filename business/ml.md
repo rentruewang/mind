@@ -94,9 +94,9 @@ Even if it generates lots of comments, it's not simple enough because it likes t
 
 Natural langauge is not accurate. Everyone uses their own dialect, each differing a little. Therefore, it doesn't scale across individuals, teams even less (like when a novel is continued by another author, it doesn't feel the same).
 
-It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it solves only mirrors your command; to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code). Only as accurate as you describe it to be.
+It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it does is at best how complicated your command is (it is at best a 1 to 1 function); to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code). Only as accurate as you describe it to be.
 
-12. Wide problem surface, not deep
+1.  Wide problem surface, not deep
 
 Since LLM is pitched like AGI, it suffers the same problems as AGI in monetization: it doesn't solve 1 problem 10 times as well, but rather improve **every** problem by a tiny margin. It is difficult to monetize this kind of stuff, as the **value** created is not strong enough (humans are satisficing so may not notice).
 
