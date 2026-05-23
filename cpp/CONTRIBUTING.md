@@ -12,6 +12,6 @@
 07. Never omit braces after `if` / `else` / `while` / `for`.
 08. Except for side effects (empty body). In which case put a `;` as the body.
 09. Use `///` for documentation strings.
-10. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
-11. Try avoiding polluting the global namespace (`using` statements).
-12. If there is a collision e.g. between `std` and ours, only do `using` on ours.
+10. Try avoiding polluting the global namespace (`using` statements).
+11. If there is a collision e.g. between `std` and ours, only do `using` on ours.
+12. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
