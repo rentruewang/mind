@@ -14,6 +14,7 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 Llm is used as a blackbox.
 Declarative approach on llm (give answers and find prompts).
 Very good at natural language and personalization.
+Generally good as a catch all service / info summarization for normies.
 Pretraining is popular because right now training is hard.
 
 ## What it does great
