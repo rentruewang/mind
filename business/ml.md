@@ -1,4 +1,4 @@
-# LLM
+## LLM
 
 ### Note
 
@@ -9,7 +9,7 @@ My criticisms below are more against people thinking that it can "move fast and 
 It's based on inefficiencies of text (the next token prediction having a pattern is proof that it can be further compressed).
 Now for more efficient forms of tokens, e.g. math equations, it may not learn as well, because pretty much all symbols can be combined together and form meaningful "sentences".
 
-## Current use
+### Current use
 
 Llm is used as a blackbox.
 Declarative approach on llm (give answers and find prompts).
@@ -17,13 +17,13 @@ Very good at natural language and personalization.
 Generally good as a catch all service / info summarization for normies.
 Pretraining is popular because right now training is hard.
 
-## What it does great
+### What it does great
 
 Solves the "framgentation" of AI (you have a unified interface to solutions to text / image etc).
 
 Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
 
-## Why not going to be successful
+### Why I don't like
 
 1. Use in B2C?
 
@@ -64,6 +64,8 @@ LLM also are bad at generating something new, not just because of lack of optimi
 
 Since software is a winner take all industry (especially open source), rebuilding the wheel doesn't really make sense, or create value.
 
+Defining feature of coding is about thinking like a computer, thinking only the necessary things (simplify) and make the process effective, vibe coder who can do that will be able to code as well.
+
 6. Unreliable (fundamental problem of LLM)
 
 **Being unreliable is its fundamental problem**. This means you cannot trust its result, even if it has 90% accuracy, you do not know which part goes wrong, which means it requires human in the loop.
@@ -83,6 +85,8 @@ Save time in (inefficient) process, not creating value.
 9. No creativity
 
 *I believe creativity comes from planning and optimization*. LLM is maximum likelihood estimation so it doesn't create, but follows a well worn path (may follow it well).
+
+Their planning steps are also not tied to a real signal, and this shouldn't work too well.
 
 10. Understanding and usage
 

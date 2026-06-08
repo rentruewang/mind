@@ -39,3 +39,17 @@ Designing → Wholistic and breaking down problems
 ## Rewrites
 
 Rewrite (architecture) is only when business problems change, because architecture is usually derived from business problems and no one uses a harder than necessary architecture.
+
+## Push vs pull
+
+Pulling is when downstream queries upstream in an iterator fashion, pushing is in reverse, when upstream calls callbacks to update downstream (inverted control flow).
+
+Pulling is lazy, but events aren't lazy, so they are usually push based.
+
+Pushing is more memory efficient for fan outs (upstream calls users in a loop).
+Pulling model in this case would require memoization (when do you free the output? how many users?). Pushing just use a temporary variable in the loop.
+
+Pulling is more memory efficient for fan ins (downstream request data).
+Pushing model in this case would require a buffer to store the results.
+
+Pushing better models stages (because of the fan-in buffer), and pulling better models batches (because you can free the memos).

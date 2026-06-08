@@ -25,6 +25,8 @@ Even transmitting a packet counts as computation, because it's changing state (l
 
 To produce maximally modular code, the component itself is kept small (more specific, more use in places), and the contract options large / interface less demanding (more abstract, accepts more items). This gets reflected in function signature (see covariance and contravariance of input / output).
 
+Modularity facilitate high level planning.
+
 ## How modeling works
 
 Hardware program: you find a set of physical constructs with mathematical property, like adder, and work from there.
