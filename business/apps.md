@@ -43,6 +43,8 @@ Because of customer caring or not
 
 OSS makes money by being a valuable derivative market.
 
+OSS kills the opponent (if you're the market leader).
+
 ## OSS Monetization
 
 In the generalized sense,

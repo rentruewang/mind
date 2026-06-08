@@ -37,6 +37,8 @@ In a 1v1 game, active means focusing on your own game tree (maximizing your own)
 Defense is reactive in nature, offense is active in its nature. However, reactive attack can still be possible (waiting for opportunity)
 This is in terms of unit tho, you can be aggressive on e.g. eco / tech.
 
+Offense = disrupt opponent (in tech / eco / units), defense = focus on self.
+
 ### Flexible vs Non-Flexible playstyle
 
 Hot paths in game state tree (game script) spread out vs very focused on specific paths.
