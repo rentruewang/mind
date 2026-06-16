@@ -37,7 +37,7 @@ When being faced a problem, humans:
 - Humans would simulate between different hot paths to find a solution
 - In each path, a problem is broken down and assembled
 - Rather than math / programming, natural languages probably capture more how humans think.
-- Viterbi algorithm in neural wiring probably
+- Viterbi algorithm in neural wiring probably (what fires together wires together)
 - More of a composing solution thing than breaking things down thing
 
 This is possible because humans mind work in sequential, so bigger events can always be broken down
