@@ -6,6 +6,12 @@
 using namespace std;
 
 template <typename T>
+concept HasAdd = requires(T a, T b, int c) {
+    { a + b } -> std::same_as<T>;
+    { a + c } -> std::same_as<T>;
+};
+
+template <typename T>
 concept Comparable = requires(T a, T b) {
     { a < b } -> std::same_as<bool>;
 };
@@ -39,6 +45,41 @@ class Container {
     T value_;
 };
 
+template <HasAdd T>
+void operator+=(T& left, const T& right) {
+    left = left + right;
+}
+
+class MyInt0 {
+   public:
+    MyInt0(int val) : val_(val) {}
+    MyInt0 operator+(MyInt0 i) { return MyInt0(val_ + i.val_); }
+    MyInt0 operator+(int i) { return MyInt0(val_ + i); }
+    int value() const { return val_; }
+
+   private:
+    int val_;
+};
+
+class MyInt1 {
+   public:
+    MyInt1(int val) : val_(val) {}
+    MyInt1 operator+(MyInt1 i) { return MyInt1(val_ + i.val_); }
+    int value() const { return val_; }
+
+   private:
+    int val_;
+};
+
+class MyInt2 {
+   public:
+    explicit MyInt2(int val) : val_(val) {}
+    MyInt2 operator+(MyInt2 i) { return MyInt2(val_ + i.val_); }
+    int value() const { return val_; }
+
+   private:
+    int val_;
+};
 template <typename T>
 class AnotherContainer {
    public:
@@ -64,5 +105,34 @@ int main() {
     // because 'AnotherContainer<std::string>' does not satisfy 'Comparable'
     // auto res = larger<AnotherContainer<string>>({"a"}, {"b"});
 
+    cout << "\n\n\n";
+
+    // Is MyInt0 += automatically supplied?
+    MyInt0 mi0{3};
+    if constexpr (HasAdd<MyInt0>) {
+        // Yes
+        cout << "My int 0 is HasAdd\n";
+        cout << "+= for my int 0\n";
+        mi0 += mi0;
+        cout << "Result value: " << mi0.value() << "\n";
+    } else {
+        cout << "My int 0 is not HasAdd\n";
+    }
+
+    MyInt1 mi1{3};
+    if constexpr (HasAdd<MyInt1>) {
+        // Yes, because of auto conversion from int -> MyInt1.
+        cout << "My int 1 is HasAdd\n";
+    } else {
+        cout << "My int 1 is not HasAdd\n";
+    }
+
+    MyInt2 mi2{3};
+    if constexpr (HasAdd<MyInt2>) {
+        cout << "My int 2 is HasAdd\n";
+    } else {
+        // No
+        cout << "My int 2 is not HasAdd\n";
+    }
     return 0;
 }
