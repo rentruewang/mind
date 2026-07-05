@@ -130,6 +130,17 @@ Reveal the world little by little from details and characters' behaviors, makes 
 
 Their decisions have to move you: you need to feel attached, and there are stakes.
 
+#### Narration
+
+What the story is made out of:
+
+1. Scene
+2. Dialogue
+3. Actions
+4. Mental activity
+5. Biased narration (from a character's viewpoint)
+6. Unbiased narration (from a neutral viewpoint)
+
 ### Entities management
 
 Regarding entities management, there are 2 types: people and events.
@@ -200,13 +211,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), good pacing, good writing, realistic characters, nonlinear and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), _good pacing_, good writing, _balanced narration_, realistic characters, nonlinear and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show how the characters' characters, and change in emotional states. Lots of attention to details. Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Spring & Autumn Brushwork: Plant clues deep and many and scattered and detailed (using details to drive hidden plot lines, you have to find them by connecting clues over great distances). Uses characters' hidden motivations to connect to different parts, and deceive readers' attention by focusing on parts he wants you to focus on, making re-reading possible. (e.g. don't get fooled by (maybe unreliable) narrator's viewpoint, some characters behave differently from how they are written, use similar but subtly different events to reveal details, make you resonate with the protagonist even when protagonist is the bad guy, etc). His stories are very consistent (to the details), and sometimes use inconsistencies to reveal lies, some characters know too much or not reacting to things (you need to analyze characters viewpoint not god). Portraits as A but appears to be B if you dive deeper.
+- Spring & Autumn Brushwork: Plant clues deep and many and scattered and detailed (using details to drive hidden plot lines, you have to find them by connecting clues over great distances). Uses characters' **hidden motivations** to connect to different parts, and deceive readers' attention by focusing on / emphasize parts he wants you to focus on, making re-reading possible. (e.g. don't get fooled by (maybe unreliable) narrator's viewpoint, some characters behave differently from how they are written, use similar but subtly different events to reveal details, make you resonate with the protagonist even when protagonist is the bad guy, etc). His stories are very consistent (to the details), and sometimes use inconsistencies to reveal lies, some characters know too much or not reacting to things (you need to analyze characters viewpoint not god). Portraits as A but appears to be B if you dive deeper.
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
