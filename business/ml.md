@@ -76,7 +76,9 @@ Usage of LLM are basically patches to its fundamental problem (unreliable), and 
 
 7. Benchmarks
 
-How, then, are they so good at benchmarks? They cheated. Training testing set leak. As it's at best going to be an average 50% human, it simply doesn't solve problems that are PhD level like so many LLM provider claims.
+How, then, are they so good at benchmarks? They cheated. Training testing set leak. As it's at best going to be an average PR 50 human, it simply doesn't solve problems that are PhD level like so many LLM provider claims.
+
+Therefore, it feels bad when you're good, but good when you're bad (e.g. PM's main job is not coding, so it's good for them).
 
 8. Saving cost
 
@@ -84,9 +86,11 @@ Save time in (inefficient) process, not creating value.
 
 9. No creativity
 
-*I believe creativity comes from planning and optimization*. LLM is maximum likelihood estimation so it doesn't create, but follows a well worn path (may follow it well).
+_I believe creativity comes from planning and optimization_. LLM is maximum likelihood estimation so it doesn't create, but follows a well worn path (may follow it well).
 
 Their planning steps are also not tied to a real signal, and this shouldn't work too well.
+
+Same reason that vibe coded projects are nothing of value, because the same project has been done thousands of times.
 
 10. Understanding and usage
 
@@ -169,6 +173,8 @@ It stores data yes, but it doesn't perform planning, so it doesn't compute like 
 
 A system with objective function is controllable (control the goal, goal oriented).
 It itself does not need to be a white box for it to work flawless, as the goal converges / collapses the behavior of the system.
+
+Creativity = surprise + good. Surprise that is bad is not creative (e.g. randomness), good that is not surprising can't be called creative either.
 
 Creativity is a byproduct of optimization (randomization is the most surprising, but we don't call it creative. It needs to be good to be creative, which is an optimization problem).
 
