@@ -46,3 +46,15 @@ Hot paths in game state tree (game script) spread out vs very focused on specifi
 Reactive playstyles usually pairs well with flexible playstyle.
 Active playstyles usually are less flexible.
 Simply put, if you can maximize your play, yet having many opportunities, your faction might be OP.
+
+### Map generation
+
+Randomness in map generation would affect the entire strategy (like in Civ), whereas a fixed map but randomized damage wouldn't (Sc2), because you can do worst case analysis.
+
+### Power spike
+
+Timing attack = power spike (you outscale at a time period).
+
+Harassment = no power spike (you will be outscaled).
+
+If no timing exists, you have to build advantage gradually by harassment.

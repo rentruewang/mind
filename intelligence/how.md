@@ -37,7 +37,7 @@ When being faced a problem, humans:
 - Humans would simulate between different hot paths to find a solution
 - In each path, a problem is broken down and assembled
 - Rather than math / programming, natural languages probably capture more how humans think.
-- Viterbi algorithm in neural wiring probably (what fires together wires together)
+- Viterbi algorithm (activating hot paths) in neural wiring probably (what fires together wires together)
 - More of a composing solution thing than breaking things down thing
 
 This is possible because humans mind work in sequential, so bigger events can always be broken down
@@ -64,7 +64,7 @@ This is possible because humans mind work in sequential, so bigger events can al
 
 On Wikipedia:
 
-*"State" in the context of Turing machines should be clarified as to which is being described: the current instruction, or the list of symbols on the tape together with the current instruction, or the list of symbols on the tape together with the current instruction placed to the left of the scanned symbol or to the right of the scanned symbol.*
+_"State" in the context of Turing machines should be clarified as to which is being described: the current instruction, or the list of symbols on the tape together with the current instruction, or the list of symbols on the tape together with the current instruction placed to the left of the scanned symbol or to the right of the scanned symbol._
 
 - "State" in the context of Turing machines should be clarified as to which is being described: the current instruction, or the list of symbols on the tape together with the current instruction, or the list of symbols on the tape together with the current instruction placed to the left of the scanned symbol or to the right of the scanned symbol.
 
