@@ -11,11 +11,12 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 ### Current use
 
-Llm is used as a blackbox.
-Declarative approach on llm (give answers and find prompts).
-Very good at natural language and personalization.
-Generally good as a catch all service / info summarization for normies.
-Pretraining is popular because right now training is hard.
+1. LLM is used as a blackbox.
+2. LLM is rugged, hard to compute `dy / dx` where `y` is the output and `x` is the input (not repeatable even for similar inputs).
+3. Declarative approach on llm (give answers and find prompts).
+4. Very good at natural language and personalization.
+5. Generally good as a catch all service / info summarization for normies.
+6. Pretraining is popular because right now training is hard.
 
 ### What it does great
 
