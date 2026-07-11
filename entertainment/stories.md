@@ -219,10 +219,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
-  2. You can analyze a character by _contrasting_, *contradicting*, and *common sense*.
+  2. You can analyze a character by _contrasting_, _contradicting_, and _common sense_.
   3. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration.
   4. You must think in a character's shoes. You may reveal **hidden motivation / context** after digging in deep into a character's avaiable information and how they make decisions (infer info not in the book).
-
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
