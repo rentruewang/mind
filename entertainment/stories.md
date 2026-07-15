@@ -219,7 +219,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
-  2. Details can be 1 word short, or in what is omitted (not just what they did, but what they did not do).
+  2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but what they did not do).
   3. _Deduct_ implicit info to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
   4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration (which makes you empathetic, but don't get fooled).
   5. Partial information (don't include global info in character's function input).
