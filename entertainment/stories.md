@@ -219,9 +219,15 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
-  2. You can analyze a character by _contrasting_, _contradicting_, and _common sense_.
-  3. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration (which makes you empathetic).
-  4. You must think in a character's shoes. You may reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and how they make decisions (infer info not in the book).
+  2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
+  3. _Deduct_ implicit info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
+  4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
+  5. Partial information (don't include global info in character's function input).
+  6. **You must think in a character's shoes**, think of the options they can take. Importance to you != to character.
+  7. Use _contrasting_ on real events outcome (compute "advantage" and disregard "baseline" to reveal delta), filter by similar events.
+  8. Use _contradicting_ on real events outcome (shows that their must be extra factors at play), filter by character.
+  9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
+  10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
