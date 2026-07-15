@@ -227,7 +227,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   7. Use _contrasting_ on real events outcome (compute "advantage" and disregard "baseline" to reveal delta), filter by similar events.
   8. Use _contradicting_ on real events outcome (shows that their must be extra factors at play), filter by character.
   9. Use _common sense_ to infer events' input contexts (or get fooled by the excuses / first person view).
-  10. You need to filter events by characters (to reveal state change) / pairs of characters (to reveal relations).
+  10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
