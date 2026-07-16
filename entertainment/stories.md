@@ -224,7 +224,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
   5. Partial information (don't include global info in character's function input).
   6. **You must think in a character's shoes**, think of the options they can take. Importance to you != to character.
-  7. Use _contrasting_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta), filter by similar events.
+  7. Use _contrasting_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
   8. Use _contradicting_ on outcomes (shows that their must be extra factors at play), filter by character.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
