@@ -26,11 +26,11 @@ Usage: high performance computing, desktop UI, games, improve Python performance
 
 ## Languages I have written in the past, and why I stopped loving them
 
-Java:
+###### Java
 
 Java is my intro to data structures and algorithms, and is a very simple clean language (language itself, not the culture). But, I hate its tooling. Very difficult to get around and very clunky.
 
-Rust:
+###### Rust
 
 I like the language. But the community isn't too likable (lots of cocky but ignorant people). Furthermore, since it will never replace C++ because it has no killer application, while being mostly overlapping in the same domain and style (both are kitchen sink languages), and as there exists very few pure rust libraries, incompatibility with C++ means it could not leverage the existing sea of libraries.
 
@@ -40,13 +40,13 @@ Would it become big in the future? No, because only people who have learned abou
 
 Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that. There are also `trait`s all over the place, making it difficult to trace where the functions come from.
 
-[Also this](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/).
+[Also this](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/) and [my comment on impedance mismatch](https://www.reddit.com/r/rust/comments/1uxgvqc/comment/oxww1pu/).
 
-Go:
+###### Go
 
 I love the language, but simply have no use for it. It shines in building web backends / goroutines, but is outclassed by python / c++ in other areas, in terms of availability of tools / libraries and features.
 
-JS/TS:
+###### JS/TS
 
 My first PR was actually for TS, and the language is nice. But I don't enjoy doing frontend, and there are better alternatives for backend.
 
