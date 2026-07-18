@@ -10,6 +10,10 @@ Now, it doesn't sound rude if you also bring yourself down ("who doesn't like mo
 
 ## Verbal irony and sarcasm
 
+- Deduction
+- Theory of mind (the speaker is *intentionally* wrong).
+- Context
+
 ### Irony (contradiction)
 
 Irony: indirect + contradiction
