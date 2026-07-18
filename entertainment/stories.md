@@ -100,7 +100,7 @@ Pull model / lazy evaluation. If a story follows natural order of the way attend
 
 Don't show the world at once, from the god viewpoint (too plain and straight forward) makes the story boring. But rather, follow the characters' attentions. Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
 
-Stories should have good pace and keep the readers engaged. Quick pace may be overwhelming, slow pace may be underwhelming.
+Stories should have good pace (arrange the infos / reveal in what order?) and keep the readers engaged. Quick pace may be overwhelming, slow pace may be underwhelming.
 
 #### Exploration
 
@@ -220,12 +220,12 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
-  3. _Deduct_ implicit info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
+  3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
   4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
   5. Partial information (don't include global info in character's function input).
   6. **You must think in a character's shoes**, think of the options they can take. Importance to you != to character.
-  7. Use _contrasting_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
-  8. Use _contradicting_ on outcomes (shows that their must be extra factors at play), filter by character.
+  7. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
+  8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
