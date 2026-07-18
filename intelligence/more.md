@@ -2,11 +2,36 @@
 
 This is completely BS. If people learn poorly by memorizing then sure. But if by learning you also extrapolate, no way this is true, considering that humans approach things in a hierarchical manner.
 
-## Why rhetorical questions are annoying
+## Why rhetorical questions (irony) are annoying
 
 They imply the listener "needs to be reminded", belittling the listener.
 
 Now, it doesn't sound rude if you also bring yourself down ("who doesn't like money" -> shows signs of own weakness), but overall it can be annoying when you are reminding the other people the obvious ("don't you know...?", this is more annoying when you already know).
+
+## Sarcasm
+
+Sarcasm is an indirect (multi-step) comment that renders its target inconsistent.
+
+Per incongruity theory:
+> Rediculous: inconsistent (incongruity theory) + stupid.
+
+Requires: Irony (contradiction).
+
+e.g. "I'm poor." "Nice shoes."
+    -> not poor
+    -> lying
+
+e.g. "You're early"
+    -> Situation: late
+    -> No
+
+Requires: you deduct what I say until reaching a negative state.
+
+e.g. "I would explain this to you, but I don't have enough crayons."
+    -> you are not smarter than a child
+    -> you are stupid
+    -> you cannot understand
+
 
 ## Interpreters
 
