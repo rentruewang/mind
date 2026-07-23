@@ -11,7 +11,7 @@
 6. `__init__` should use `from .module import *` and modules should define an `__all__`, under the import section.
 7. Try to add type hints as little as you can, while maintaining as high coverage as you can (use LSP).
 8. Prefer 1 word (plural except abbreviations) for the modules to be imported. Imports are long enough.
-9. Avoid global state, unless tied to a scope (context managers), which is naturally global.
+9. Avoid global state, unless using it leans to cleaner code (e.g. tied to a scope like context managers, or global resource like network / device).
 
 [^1]: E.g. some libraries have a lot of functionalities (e.g. `torch`), it's common to do `from torch import nn, optim...`. `import as` would result in many lines.
 
