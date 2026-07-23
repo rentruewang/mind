@@ -18,8 +18,8 @@ Prefer context managers (in C++ RAII guard) to manage scope-related setups.
 > moving it into an invalid state.
 > 
 > 2. Tying to a scope means it doesn't work with variables inside a scope,
-> who would get cleaned up in a normal, non context managing scope.
-> So, it is tied to non-local state.
+> who would get cleaned up in a normal, non context managing scope
+> Since there must be other factors at play,it is tied to non-local state.
 
 ## Python code style
 
