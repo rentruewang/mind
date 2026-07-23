@@ -2,9 +2,10 @@
 
 ## Shared code style
 
+Try to mimick the surrounding code.
+
 ## Python code style
 
-0. Try to mimick the surrounding code.
 1. Mainly use PEP 484.
 2. All module imports, if not top level, use `from a import b [as c]` (no `import a.b [as c]`)[^1].
 3. All 1st party (in tree) objects should not be qualified [^2]
@@ -17,20 +18,19 @@
 
 ## C++ code style
 
-1. Try to mimick the surrounding code.
-2. Use python's style (`ClassName`, `function_name`, `var_name`, `CONSTANT`).
-3. Except for private member variable, (`suffix_with_underscore_`).
-4. Use `clang-format` (`BasedOnStyle: Chromium; IndentWidth: 4; IncludeBlocks: Regroup`).
-5. Use `=` initialization only for pointer / reference types.
-6. Use `{}` universal initialization for everything else.
-7. Except when ambiguous, then use `()` normal initialization.
-8. Never omit braces after `if` / `else` / `while` / `for`.
-9. Except for side effects (empty body). In which case put a `;` as the body.
-10. Use `///` for documentation strings.
-11. Try avoiding polluting the global namespace (`using` statements).
-12. If there is a collision e.g. between `std` and ours, only do `using` on ours.
-13. Use `.hpp` `.cpp` for files names, when possible.
-14. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
+1. Use python's style (`ClassName`, `function_name`, `var_name`, `CONSTANT`).
+2. Except for private member variable, (`suffix_with_underscore_`).
+3. Use `clang-format` (`BasedOnStyle: Chromium; IndentWidth: 4; IncludeBlocks: Regroup`).
+4. Use `=` initialization only for pointer / reference types.
+5. Use `{}` universal initialization for everything else.
+6. Except when ambiguous, then use `()` normal initialization.
+7. Never omit braces after `if` / `else` / `while` / `for`.
+8.  Except for side effects (empty body). In which case put a `;` as the body.
+9.  Use `///` for documentation strings.
+10. Try avoiding polluting the global namespace (`using` statements).
+11. If there is a collision e.g. between `std` and ours, only do `using` on ours.
+12. Use `.hpp` `.cpp` for files names, when possible.
+13. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
 
 
 [^1]: E.g. some libraries have a lot of functionalities (e.g. `torch`), it's common to do `from torch import nn, optim...`. `import as` would result in many lines.
