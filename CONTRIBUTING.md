@@ -4,6 +4,10 @@
 
 Try to mimick the surrounding code.
 
+Prefer context managers (in C++ RAII guard) to manage scope-related setups.
+
+> Context managers are fundamentally mutating non-local state. Why?
+
 ## Python code style
 
 1. Mainly use PEP 484.
