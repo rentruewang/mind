@@ -18,3 +18,5 @@
 [^2]: Example: Always `from our.module import func, Class`, not `module.func, module.Class`. This reduces clutter, ensure no duplicae names on 1st party objects, and is more in line with my C++ style.
 
 [^3]: Example: `torch.Tensor` not `from torch import Tensor`.
+
+[^4]: See global state section.

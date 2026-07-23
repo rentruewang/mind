@@ -15,4 +15,7 @@
 10. Try avoiding polluting the global namespace (`using` statements).
 11. If there is a collision e.g. between `std` and ours, only do `using` on ours.
 12. Use `.hpp` `.cpp` for files names, when possible.
-13. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
+13. Avoid global variable unless it leads to better code [^1].
+14. Follow [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines).
+
+[^1]: See global state section.
