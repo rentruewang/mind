@@ -7,7 +7,8 @@ Try to mimick the surrounding code.
 Prefer context managers (in C++ RAII guard) to manage scope-related setups.
 
 > Context managers are fundamentally mutating non-local state (context). Why?
-> Because it's tied to a scope. It allows you to do some operation, only in a certain scope.
+> Because it's tied to a scope.
+> And it allows you to do some operation, only in a certain scope.
 >
 > 1. It must be mutating state. Why?
 > Immutability has no concept of time (functional programming),
