@@ -1,10 +1,35 @@
 # Classical music
 
-Development = take a melody (like a story character), then transform / vary it. This makes a "thread".
+### Development 
+
+Development = take a melody (like a story character), then transform / vary it.
+
+Your brain makes a "connection".
+
+This makes a "thread".
+
+#### Transformation / connection types:
+
+##### No transformation
+
+Simply repeating.
+
+##### Tranforming the notes itself
+
+e.g. Repeat on different pitches (the most simple ones, variations!)
+
+e.g. more notes, less notes
+
+##### Your brain makes connection (the melody is purely in working memory)
+
+2 themes can connect together by complimenting each other in counterpoint (you brain repeats the previous theme, coupled with the next it sounds even better), aka thematic recall.
+
+---
 
 Progression is based on development, leading towards a climax.
 
 E.g. Chopin is better at small pieces because he doesn't develop too much (his ballades have more development).
+
 
 ## Climax
 
