@@ -20,7 +20,7 @@ e.g. Repeat on different pitches (the most simple ones, variations!)
 
 e.g. more notes, less notes
 
-##### Your brain makes connection
+##### Your brain makes connection (the melody is purely in working memory)
 
 2 themes can connect together by complimenting each other in counterpoint (you brain repeats the previous theme, coupled with the next it sounds even better), aka thematic recall.
 
