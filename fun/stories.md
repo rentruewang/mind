@@ -191,7 +191,7 @@ Main character should evolve, and side characters should react (both avoid being
 
 _A convergence point (time) of a lot of previous threads (subplots / characters), or diverge into many points._ To sum up, _the part that is tightly connected to other plot lines_. Densely packed with info.
 
-Tension (that are built up) breaks in an explosive way, or a major turning point.
+Tension (that are built up) breaks in an explosive way, or a major turning point (info revealed).
 
 A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High stakes (between character / events you care about).
 
@@ -211,7 +211,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), realistic characters, nonlinear and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), realistic characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
 
@@ -235,7 +235,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after. Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic yet memorable characters even for one off sidecast (distinguished with just a few strokes). Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
+- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes). Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
 
 - Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies and nature, yet the plots flows are driven by characters' motivations. Yet, good cathartic moments and keep the readers hooked.
 
@@ -296,6 +296,17 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 ###### Attack on Titan 1-3
 
 - Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
+###### Memento
+
+Linear, modular story, single threaded (in chronological order).
+Characters are secondary, serving the plots.
+
+But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad). 
+Structurally some twists are non-twists if in chrnological order.
+
+Structured in a way to put the big twist at the end.
+Since that twist introduces all the other problems in the story, doing this explains the story.
 
 ###### Web / light novels
 
