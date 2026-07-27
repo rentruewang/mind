@@ -299,7 +299,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Memento
 
-Linear, modular story, single threaded (in chronological order). Characters are secondary.
+Linear, modular story, single threaded (in chronological order).
+Characters are secondary, serving the plots.
 
 But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad). 
 Structurally some twists are non-twists if in chrnological order.
