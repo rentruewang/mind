@@ -8,12 +8,15 @@ Development = take a melody (like a story character), then transform / vary it. 
 
 ##### Tranforming the notes itself
 
-Repeat on different pitches (the most simple ones, variations!)
+e.g. Repeat on different pitches (the most simple ones, variations!)
+
+e.g. more notes, less notes
 
 ##### Your brain makes connection
 
 2 themes can connect together by complimenting each other in counterpoint (you brain repeats the previous theme, coupled with the next it sounds even better), aka thematic recall.
 
+##### Others?
 
 ---
 
