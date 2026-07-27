@@ -300,8 +300,10 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 ###### Memento
 
 Modular story, single threaded (in chronological order). Characters are secondary.
-Structurally the twist 
-But, watchers spend a big amount of brain power to piece together information and to 
+
+But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad). 
+Structurally the some twists are non-twists if in chrnological order.
+Structured in a way to put the big twist at the end to explain the story.
 
 ###### Web / light novels
 
