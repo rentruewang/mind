@@ -302,8 +302,10 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 Modular story, single threaded (in chronological order). Characters are secondary.
 
 But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad). 
-Structurally the some twists are non-twists if in chrnological order.
-Structured in a way to put the big twist at the end to explain the story.
+Structurally some twists are non-twists if in chrnological order.
+
+Structured in a way to put the big twist at the end.
+Since that twist introduces all the other problems in the story, doing this explains the story.
 
 ###### Web / light novels
 
