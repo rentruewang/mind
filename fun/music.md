@@ -2,9 +2,17 @@
 
 ### Development 
 
-Development = take a melody (like a story character), then transform / vary it. This makes a "thread".
+Development = take a melody (like a story character), then transform / vary it.
 
-#### Transformation example:
+Your brain makes a "connection".
+
+This makes a "thread".
+
+#### Transformation / connection types:
+
+##### No transformation
+
+Simply repeating.
 
 ##### Tranforming the notes itself
 
