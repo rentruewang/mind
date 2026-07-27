@@ -24,8 +24,6 @@ e.g. more notes, less notes
 
 2 themes can connect together by complimenting each other in counterpoint (you brain repeats the previous theme, coupled with the next it sounds even better), aka thematic recall.
 
-##### Others?
-
 ---
 
 Progression is based on development, leading towards a climax.
