@@ -189,7 +189,7 @@ Main character should evolve, and side characters should react (both avoid being
 
 **By definition, the most emotional part.**
 
-_A convergence point of a lot of previous threads, or diverge into many points._ To sum up, _the part that is tightly connected to other plot lines_. Densely packed with info.
+_A convergence point (time) of a lot of previous threads (subplots / characters), or diverge into many points._ To sum up, _the part that is tightly connected to other plot lines_. Densely packed with info.
 
 Tension (that are built up) breaks in an explosive way, or a major turning point.
 

@@ -35,3 +35,10 @@ e.g. "I would explain this to you, but I don't have enough crayons."
 -> you are not smarter than a child
 -> you are stupid
 -> you cannot understand
+
+## Lying without telling lies
+
+1. Sampling bias.
+   If a topic is 75% true, 25% false, I can simply sample more from the 25% than then 75%.
+2. If the topic is TRUE, I can project it onto something similar but not equivalent.
+   After several such transformations, I can use analogies to drive it towards FALSE.
