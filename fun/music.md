@@ -1,6 +1,10 @@
 # Classical music
 
-Development = take a melody, then transform it. This makes a "thread".
+Development = take a melody (like a story character), then transform / vary it. This makes a "thread".
+
+Progression is based on development, leading towards a climax.
+
+E.g. Chopin is better at small pieces because he doesn't develop too much.
 
 ## Climax
 
