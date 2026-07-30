@@ -19,11 +19,17 @@ New memory means new understanding and different world tree, means new outcome
 
 Humans can do symbolic condition in search, the symbolic part can be substituted with enumeration in memory, during simulation.
 
-Humor is caused by expectation and violation of it.
-
 Parrots and babies have small vocabulary,
 but we say that they understand because they can use the vocabularies to plan,
 and understand the transitions between different states of minds (world models).
+
+##### Humor
+
+Humor is caused by expectation and violation / mismatch of it.
+
+It's generated from difference between reality and what your brain predicts.
+
+Not necessarily "wrong". Things you don't think about is now presented to you is also a surprise.
 
 ## RL
 
