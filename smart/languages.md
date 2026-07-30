@@ -36,7 +36,15 @@ e.g. "I would explain this to you, but I don't have enough crayons."
 -> you are stupid
 -> you cannot understand
 
-## Lying without telling lies
+## Lying
+
+### Telling lies
+
+Must be self consistent (to other person's POV).
+
+You use what your opponent knows and fill in the void in a consistent way.
+
+### Without telling lies
 
 1. Sampling bias.
    If a topic is 75% true, 25% false, I can simply sample more from the 25% than then 75%.
