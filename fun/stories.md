@@ -221,14 +221,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
   3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
-  4. Don't take dialogue at their face value. Characters may be sarcastic or saying things due to info at hand.
-  5. Omit inferrable information / emphasize the parts and excuses he wants you to focus on (sampling bias) / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
-  6. Partial information (don't include global info in each character's function input).
-  7. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character.
-  8. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
-  9. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
-  10. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
-  11. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
+  4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on (sampling bias) / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
+  5. Partial information (don't include global info in each character's function input).
+  6. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character. Don't take dialogue at their face value (sarcasm or misjudgment due to partial info).
+  7. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
+  8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
+  9.  Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
+  10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
