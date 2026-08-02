@@ -53,8 +53,8 @@ Randomness in map generation would affect the entire strategy (like in Civ), whe
 
 ### Power spike
 
-Timing attack = power spike (you outscale at a time period).
+Timing attack (sharp) = power spike (you outscale at a time period).
 
-Harassment = small, persistent advantage, but need to grind to get advantage bigger or get outscaled.
+Harassment (persistent) = small, persistent advantage, but need to grind to get advantage bigger or get outscaled.
 
 If no timing exists, you have to build advantage gradually by harassment.
