@@ -55,6 +55,6 @@ Randomness in map generation would affect the entire strategy (like in Civ), whe
 
 Timing attack = power spike (you outscale at a time period).
 
-Harassment = no power spike (you will be outscaled).
+Harassment = small, persistent advantage, but need to grind to get advantage bigger or get outscaled.
 
 If no timing exists, you have to build advantage gradually by harassment.
