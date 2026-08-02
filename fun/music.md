@@ -1,6 +1,6 @@
 # Classical music
 
-### Development 
+### Development
 
 Development = take a melody (like a story character), then transform / vary it.
 
@@ -29,7 +29,6 @@ e.g. more notes, less notes
 Progression is based on development, leading towards a climax.
 
 E.g. Chopin is better at small pieces because he doesn't develop too much (his ballades have more development).
-
 
 ## Climax
 

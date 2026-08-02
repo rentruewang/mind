@@ -211,19 +211,19 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots, but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), realistic characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), realistic characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues. Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
   3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
-  4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
-  5. Partial information (don't include global info in character's function input).
-  6. **You must think in a character's shoes**, think of the options they can take. Importance to you != to character.
+  4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on (sampling bias) / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
+  5. Partial information (don't include global info in each character's function input).
+  6. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character. Don't take dialogue at their face value (sarcasm or misjudgment due to partial info).
   7. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
   8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
@@ -302,7 +302,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 Linear, modular story, single threaded (in chronological order).
 Characters are secondary, serving the plots.
 
-But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad). 
+But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
 Structurally some twists are non-twists if in chrnological order.
 
 Structured in a way to put the big twist at the end.
