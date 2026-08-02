@@ -217,13 +217,13 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Spring & Autumn Brushwork: Hide subtlety in (many) details.
+- Spring & Autumn Brushwork: Hide subtlety in (many) details. 
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
   3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
   4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
   5. Partial information (don't include global info in character's function input).
-  6. **You must think in a character's shoes**, think of the options they can take. Importance to you != to character.
+  6. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character.
   7. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
   8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
