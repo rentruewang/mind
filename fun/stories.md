@@ -217,7 +217,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Spring & Autumn Brushwork: Hide subtlety in (many) details. 
+- Spring & Autumn Brushwork: Hide subtlety in (many) details. (Disregard his sampling bias). 
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
   3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
