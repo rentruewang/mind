@@ -11,3 +11,9 @@ Think in terms of what they know (Carnegie how to win friends and influence peop
 When explaining stuff, present them with final results.
 
 You can go against the tides by prefixing saying "I agree with you, but...". Way better received.
+
+## Think in terms of medium
+
+Think of how the user sees your content.
+
+For example, on reddit, when they suddenly bump another comment (which echos your comment) to the top, you need to add something else, otherwise, other users won't think of your comment as novel even if it did come earlier.
