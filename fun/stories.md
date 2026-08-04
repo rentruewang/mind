@@ -209,7 +209,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 #### most of these I consumed more than 1 times or having consumed the entire collection.
 
-###### Jin Yong (God)
+###### Jin Yong (**God**)
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), realistic characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
