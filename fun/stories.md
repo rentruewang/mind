@@ -122,13 +122,17 @@ Climax and conflicts: Exploiting multiple plot lines' decision points.
 
 Right place, right time, right character: This coupled with chain effect makes the plot interesting yet realistic. Characters shouldn't be overly lucky. Some luck is OK.
 
-#### Immersion
+#### Immersion & Realism
 
 **Show, don't tell.**
 
 Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
 
 Their decisions have to move you: you need to feel attached, and there are stakes.
+
+Realistic: Consistent with the world you built.
+
+This allows readers to get emotionally invested.
 
 #### Narration
 
@@ -211,7 +215,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong (**God**)
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), realistic characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
 
@@ -247,7 +251,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good at writing things as a whole: Depicts scenes that reflects characters' emotions and the nature and upbringing of a character, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; His writing is scenic / stage like, it's easy to picture; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
-- Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. Gets you invested, but each plot thread maintains their own integrity (non messy). Immersion (uses character view s.t. it doesn't feel linear). Use some events at the start to get you curious, and keep the story going with a thread. Using _meaningful_ events (danger / conflict that affects the MC) to get you hooked. Knows how you think, making it as if you are living out the fantasy.
+- Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. **Realism**, gets you _emotionally invested_, but each plot thread maintains their own integrity (non messy, easy to follow). **Immersion** (uses character view s.t. it doesn't feel linear). Use some events at the start to get you curious, and keep the story going with a thread. Using _meaningful_ events (danger / conflict that affects the MC) to get you hooked. Knows how you think, making it as if you are living out the fantasy.
 
 - Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distribution of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed / urgent / tight pacing, and sub = abbreviate / relaxed / loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
 
