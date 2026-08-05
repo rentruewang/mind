@@ -124,13 +124,13 @@ Right place, right time, right character: This coupled with chain effect makes t
 
 #### Immersion & Realism
 
-**Show, don't tell.**
+**Show, don't tell.** (following some underlying logic).
 
 Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
 
 Their decisions have to move you: you need to feel attached, and there are stakes.
 
-Realistic: Consistent with the world you built.
+Realistic: Consistent with the world you built (underlying logic).
 
 This allows readers to get emotionally invested.
 
