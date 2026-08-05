@@ -124,7 +124,9 @@ Right place, right time, right character: This coupled with chain effect makes t
 
 #### Immersion & Realism
 
-**Show, don't tell.** (following some underlying logic).
+##### Show, don't tell. (delivery)
+
+##### Following some underlying logic. (world building)
 
 Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
 
