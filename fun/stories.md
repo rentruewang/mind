@@ -319,7 +319,7 @@ Less unique characters (especially side line characters).
 
 Lower info density than JY.
 
-Less attention to detail (like the minuate emotion / plan change on a small scale, well within a paragraph).
+Less attention to detail (like the minuate emotion / plan change).
 
 No hidden / background plotlines (all get revealed), less clues and details (in action), because the thoughts are revealed more liberally.
 
