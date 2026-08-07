@@ -269,11 +269,27 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong (**God**)
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together),
+  but distributed world building),
+  _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling.
 
-- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
+- **Full of very dense information**. **Very many connections.** Realistic scenes.
+  Seamless transition of scenes. Keeps you guessing and on the edge of your seat.
+  Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states. Lots of attention to details (characters have minuate plans that can change within sentences). Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
+- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic.
+  Characters don't act in a single obvious way, but much more complex based on their situation.
+  This allows potential branching of the story line, the hidden motivation, or hidden lines.
+  Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. 
+  Complicated enough that you can explain in the ways you prefer.
+
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states.
+  Lots of attention to details (characters have minuate plans that can change within sentences).
+  Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions).
+  Lots of things happening simultaneously.
+  Characters don't just do "what is needed for this chapter", but act like a human with real interest.
+  Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
+  This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
