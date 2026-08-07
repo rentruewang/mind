@@ -335,7 +335,7 @@ Worse pacing (especially in "down time").
 
 More details in scene setting.
 
-More info dump type plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed drop the back story.
+More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
