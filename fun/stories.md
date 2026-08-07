@@ -335,6 +335,8 @@ Worse pacing (especially in "down time").
 
 More details in scene setting.
 
+More info dump type plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed drop the back story.
+
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
 The plot does not follow a single thread like JY (who is more camera like).
@@ -348,6 +350,7 @@ Tells more than JY (JY is more camera / stage play like):
     - Traits (JY uses action / monologue to reveal)
     - Intention ("He said deliberately" instead of "He paused in thoughts... and said...")
     - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
+    - Back story.
     - Relationship (part of backstory).
 
 ###### Memento
