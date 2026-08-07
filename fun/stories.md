@@ -343,7 +343,7 @@ More reliable narration compared to JY (his _neutral_ narration is always right)
 
 The plot does not follow a single thread like JY (more camera like).
 
-Less good at _dramatizing events_.
+Less good at _dramatizing events_. More plot device.
 e.g. instead of Catelyn trying to state what is right,
 she should directly argue, then, finally, after all else failed, state what she thinks is right.
 
