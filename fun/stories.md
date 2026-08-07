@@ -327,13 +327,14 @@ Less unique characters (especially side line characters).
 
 Lower info density than JY.
 
-Less attention to detail (like the minuate emotion / plan change).
+Less attention to detail to actions / relationships (like the minuate emotion / plan change).
+More details in scene setting. 
 
 No hidden / background plotlines (all get revealed), less clues and details (in action), because the thoughts are revealed more liberally.
 
 Worse pacing (especially in "down time").
 
-More details in scene setting.
+Likes to use "sarcasm" / "philosophical debate" to portrait a character as smart. In that case it's very much like Gu Long.
 
 More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
@@ -344,6 +345,8 @@ The plot does not follow a single thread like JY (who is more camera like).
 Less good at _dramatizing events_. More plot device.
 e.g. instead of Catelyn trying to state what is right,
 she should directly argue, then, finally, after all else failed, state what she thinks is right.
+
+Non-POV is completely silent (JY will use monologue from time to time).
 
 Tells more than JY (JY is more camera / stage play like):
 
