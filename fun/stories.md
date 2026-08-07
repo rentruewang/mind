@@ -260,8 +260,10 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 - Creative and exciting fights. Does not repeat himself in terms of abilities.
 
 - Each monologue / dialogue is easy to distinguish.
-  Because each word reflects how each character thinks, and each think in an unique way, making each personality distinct.
+  Because each word reflects how each character thinks and process events,
+  and each think in an unique way, and each personality is distinct.
   Does not repeat himself in terms of character mind.
+  E.g. a slow character monologues in a slow way, and a vulgar one is vulgar.
 
 - Good at writing things as a whole: Depicts scenes that reflects characters' emotions and the nature and upbringing of a character, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; His writing is scenic / stage like, it's easy to picture; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
