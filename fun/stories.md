@@ -346,7 +346,7 @@ she should directly argue, then, finally, after all else failed, state what she 
 Tells more than JY (JY is more camera / stage play like):
 
     - Traits (JY uses action / monologue to reveal)
-    - Behaviors ("He said deliberately" instead of "He paused for... and said...")
+    - Behaviors ("He said deliberately" instead of "He paused in thoughts... and said...")
     - POV thoughts (where JY uses monologue).
     - Relationship (part of backstory).
 
