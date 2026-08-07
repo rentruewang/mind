@@ -221,9 +221,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
-- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
+- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
@@ -233,7 +233,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   5. Partial information (don't include global info in each character's function input).
   6. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character. Don't take dialogue at their face value (sarcasm or misjudgment due to partial info).
   7. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
-  8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
+  8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character. Treat the story as _no author error_ to reveal.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
@@ -304,6 +304,31 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 ###### Attack on Titan 1-3
 
 - Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
+###### ASOIAF
+
+*Most of the points are in comparison to Jin Yong*
+
+Multiple POV compared to the 1 main camera JY has.
+
+Likes to front load you with information / back story.
+
+Has more logical and political motives and transitions.
+
+Less unique characters (especially side line characters).
+
+Lower info density than JY.
+
+No hidden / background plotlines (all get revealed), less clues and details (in action), more details in scene setting.
+
+Tells more than JY (JY is more camera / stage play like).
+
+- Traits
+- Behaviors ("He said deliberately" instead of "He paused for... and said...")
+- POV thoughts
+- Relationship ("He eve)
+- "Tells" you charachter traits / behavior (e.g. "He said deliberately"), where JY "shows" you (more camera / stage play like, e.g. "He paused, and said").
+- Directly tells you what the POV is thinking / relationships (JY uses monologue instead, which has bias etc, same function), but no others ()
 
 ###### Memento
 
