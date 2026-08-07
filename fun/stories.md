@@ -277,7 +277,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic.
-  Characters don't act in a single obvious way, but much more complex based on their situation.
+  Characters don't act in a single obvious way, but much more complex based on their situation (multi dimensional / faceted).
   This allows potential branching of the story line, the hidden motivation, or hidden lines.
   Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
   Complicated enough that you can explain in the ways you prefer.
