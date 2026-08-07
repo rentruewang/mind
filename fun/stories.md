@@ -88,7 +88,8 @@ Clues are cross component link.
 
 The more the merrier.
 
-If multiple peoples fate are connected together, things happening at one place cannot be _modular_, affecting only itself. Each story / plot line will not be self contained, but far reaching in terms of effect.
+If multiple peoples fate are connected together, things happening at one place cannot be _modular_, affecting only itself.
+Each story / plot line will not be self contained, but far reaching in terms of effect.
 
 Lots of clues that get picked up later, which causes further changes in other characters' behaviors.
 
@@ -96,7 +97,8 @@ Lots of clues that get picked up later, which causes further changes in other ch
 
 The more the merrier.
 
-One scene affects the outcome on a person / plot line heavily. If a person's decisions have meanings, it is highly coupled in temporal dimension.
+One scene affects the outcome on a person / plot line heavily.
+If a person's decisions have meanings, it is highly coupled in temporal dimension.
 
 Chain effect: one thing causes the next.
 
@@ -106,7 +108,10 @@ Actions have meanings, where they affect outcome.
 
 We can study connections with ablation study; remove one component and observe the difference.
 
-Remove 1 scene in a tight plot -> many changes needed elsewhere (leaky: change needed for connected components, sequential: time dependence requires changing the following scenes), whereas a removal of a chapter in a loose plot may not even be noticeable in plot.
+Remove 1 scene in a tight plot -> many changes needed elsewhere
+leaky: change needed for connected components,
+sequential: time dependence requires changing the following scenes,
+whereas a removal of a chapter in a loose plot may not even be noticeable in plot.
 
 ### Engaging stories (human mechanism)
 
@@ -116,7 +121,9 @@ Human brains are a bunch of neurons, so let's discuss with regards to how good s
 
 Pull model / lazy evaluation. If a story follows natural order of the way attending to things, it's easier to consume.
 
-Don't show the world at once, from the god viewpoint (too plain and straight forward) makes the story boring. But rather, follow the characters' attentions. Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
+Don't show the world at once, from the god viewpoint (too plain and straight forward) makes the story boring.
+But rather, follow the characters' attentions.
+Showing the events (from characters) as they become relevant both streamlines the storytelling and is more realistic.
 
 Stories should have good pace (arrange the infos / reveal in what order?) and keep the readers engaged. Quick pace may be overwhelming, slow pace may be underwhelming.
 
@@ -126,7 +133,10 @@ Stories should have good pace (arrange the infos / reveal in what order?) and ke
 
 Good stories keeps you guessing due to having lots of options, just like real life.
 
-Having twists and turns (perhaps caused by conflicts or revealing new info). Without twists, it would be linear, and would be predictable. This also keeps the state of the story complex, and each character would have more flexibility in performing actions (less predictable, more exploration).
+Having twists and turns (perhaps caused by conflicts or revealing new info).
+Without twists, it would be linear, and would be predictable.
+This also keeps the state of the story complex,
+and each character would have more flexibility in performing actions (less predictable, more exploration).
 
 #### Exploitation
 
@@ -201,7 +211,9 @@ Since people drive events, too few events can be generated.
 
 #### Balance
 
-Number of events and number of people should scale with the length of the story. This keeps individual threads simpler and in check (easier for readers to understand), as well as introducing many more various elements to keep readers engaged.
+Number of events and number of people should scale with the length of the story.
+This keeps individual threads simpler and in check (easier for readers to understand),
+as well as introducing many more various elements to keep readers engaged.
 
 If too many events happen to a too small subset of people (non main character), it can feel tiring, soapy, and would be difficult to convince readers of the back and forth change of mindset.
 
@@ -229,7 +241,8 @@ If character knows >= you know: plot (maybe mystery).
 
 **By definition, the most emotional part.**
 
-_A convergence point (time) of a lot of previous threads (subplots / characters), or diverge into many points._ To sum up, _the part that is tightly connected to other plot lines_. Densely packed with info.
+_A convergence point (time) of a lot of previous threads (subplots / characters), or diverge into many points._
+To sum up, _the part that is tightly connected to other plot lines_. Densely packed with info.
 
 Tension (that are built up) breaks in an explosive way, or a major turning point (info revealed).
 
