@@ -346,8 +346,8 @@ she should directly argue, then, finally, after all else failed, state what she 
 Tells more than JY (JY is more camera / stage play like):
 
     - Traits (JY uses action / monologue to reveal)
-    - Intention ("He said deliberately" instead of "He paused in thoughts... and said..."), JY uses "mirror neurons" techniques
-    - POV thoughts (where JY uses monologue).
+    - Intention ("He said deliberately" instead of "He paused in thoughts... and said...")
+    - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
     - Relationship (part of backstory).
 
 ###### Memento
