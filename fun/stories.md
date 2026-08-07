@@ -37,27 +37,34 @@ This helps lessen cognitive load.
 
 ## When stories are good
 
-Unexpected, but reasonable (requires creativity). Amusing = not predictable (creative). This is an optimization problem.
+Unexpected, but reasonable (requires creativity).
+Amusing = not predictable (creative). This is an optimization problem.
 
 Emotion vs logic (good stories make you learn about humans)
 
 Something new (creative, surprising)
 
-Writing = ability to describe with ease, and to convey what's going on to the reader (info density).
+Writing = ability to describe with ease,
+and to convey what's going on to the reader (info density).
 
-Good writing = effortless, disappears into the background (I think it serves the plot, not the other way around).
+Good writing = effortless, disappears into the background
+(I think it serves the plot, not the other way around).
 
 Engaging (keeps you thinking, suspense).
 
-Pacing (too fast: exhausting, no meaningful connection; too slow: dull, boring, non engaging).
+Pacing:
+too fast: exhausting, no meaningful connection;
+too slow: dull, boring, non engaging.
 
-Having threads to connect the plots (s.t. the stories aren't too modular and are connected), and keep the readers engaged and focused.
+Having threads to connect the plots
+(s.t. the stories aren't too modular and are connected),
+and keep the readers engaged and focused.
 
 Relatable characters (make you care)
 
 Mimics how humans acquire information in real life (realism)
 
-Show don't tell (make readers figure out themselves the characters' motivations etc, more realistic, give lots of details so readers can run their own imagination and hence **more immersion**).
+**Show don't tell**
 
 Being too straightforward and linear (no branching) can be too predictable and simple, because it is not how a person's attention shifts.
 
