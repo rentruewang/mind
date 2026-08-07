@@ -201,6 +201,12 @@ Does not have the view of god (reader). This includes: talking "out of character
 
 Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
 
+### Partial information
+
+If you know more than character: dramatic irony.
+
+If character knows >= you know: plot (maybe mystery).
+
 ## Climax
 
 **By definition, the most emotional part.**
@@ -328,11 +334,16 @@ Less unique characters (especially side line characters).
 Lower info density than JY.
 
 Less attention to detail to actions / relationships (like the minuate emotion / plan change).
+
+Some chapter-apart reveals but not as much.
+
 More details in scene setting. 
 
-No hidden / background plotlines (all get revealed), less clues and details (in action), because the thoughts are revealed more liberally.
+No hidden / background plotlines (all get revealed), less clues and details (in actions made), because the thoughts are revealed more liberally.
 
 Worse pacing (especially in "down time").
+
+Characters are more shallow / 1D but good enough (like Gu Long), sometimes they are too "plot-devicey".
 
 Likes to use "sarcasm" / "philosophical debate" to portrait a character as smart. In that case it's very much like Gu Long.
 
