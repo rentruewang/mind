@@ -261,7 +261,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Each monologue / dialogue is easy to distinguish.
   Because each word reflects how each character thinks and process events,
-  and each think in an unique way, and each personality is distinct.
+  and each think in an unique way, as each personality is distinct.
   Does not repeat himself in terms of character mind.
   E.g. a slow character monologues in a slow way, and a vulgar one is vulgar.
 
