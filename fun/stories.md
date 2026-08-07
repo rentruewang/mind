@@ -237,13 +237,18 @@ A lot of times, is a conflict that can be internal (mindset change for main char
 
 ## Show don't tell
 
-When all is laid out, it becomes boring and robotic. (Too simplistic, predictable, non repetitive, "not that deep", pretentious)
+Make readers figure out themselves the characters' motivations etc, more realistic,
+give lots of details so readers can run their own imagination and hence **more immersion**.
+
+When all is laid out, it becomes boring and robotic.
+(Too simplistic, predictable, non repetitive, "not that deep", pretentious)
 
 Immersion, realistic writing: long, complex scenes that resonate with readers
 
 Telling includes "meta" characters, where characters discuss events to let readers know.
 
-This is overdone a lot, and unless what they are telling is so "different" and "creative" (different from the norm of real life), it can and will be boring.
+This is overdone a lot, and unless what they are telling is so "different" and "creative"
+(different from the norm of real life), it can and will be boring.
 
 ## Examples
 
