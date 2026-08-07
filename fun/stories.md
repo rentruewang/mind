@@ -321,6 +321,8 @@ Lower info density than JY.
 
 No hidden / background plotlines (all get revealed), less clues and details (in action), because the thoughts are revealed more liberally.
 
+Worse pacing.
+
 More details in scene setting.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
