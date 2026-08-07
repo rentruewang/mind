@@ -280,7 +280,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 - Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic.
   Characters don't act in a single obvious way, but much more complex based on their situation.
   This allows potential branching of the story line, the hidden motivation, or hidden lines.
-  Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. 
+  Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
   Complicated enough that you can explain in the ways you prefer.
 
 - Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states.
@@ -305,31 +305,66 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
-- Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots). The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict. Lots of fan theories. Realism also comes from being multifaceted (many options). The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly, with interesting and "new" events.
+- Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots).
+  The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict.
+  Lots of fan theories. Realism also comes from being multifaceted (many options).
+  The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly, with interesting and "new" events.
 
-- Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after. Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
+- Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect.
+  With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
+  Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes). Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms). He is so good at dramatization that he makes plot out of thin air (following characters' everychanging thought processes and see it respond to each event is fun and **immersive** enough on its own, when there are no "bigger plots", e.g. when eating).
+- Characters have many many different personalities and flaws and motivations, and are unique.
+  Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters.
+  Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories.
+  Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes).
+  Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
+  He is so good at dramatization that he makes plot out of thin air (following characters' everychanging thought processes and see it respond to each event is fun and **immersive** enough on its own, when there are no "bigger plots", e.g. when eating).
 
-- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies and nature, yet the plots flows are driven by characters' motivations. Yet, good cathartic moments and keep the readers hooked.
+- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take).
+  Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**.
+  Designs plots to showcase a character's tendencies and nature, yet the plots flows are driven by characters' motivations.
+  Yet, good cathartic moments and keep the readers hooked.
 
-- Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time. This means information gap (partial information) is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
+- Often write from 1 main character's viewpoints (quite clean), making it realistic as you learn about the world over a character's partial world view 1 step at a time.
+  This means information gap (partial information) is possible, which creates interesting situations, and make the world much more deep and realistic (keeps you guessing, creating suspense).
 
 - Creative and exciting fights. Does not repeat himself in terms of abilities.
 
-- Each monologue / dialogue is easy to distinguish. Because each word reflects how each character thinks and process events, and each think in an unique way, as each personality is distinct (reveal motives and personalities). Does not repeat himself in terms of character mind. E.g. a slow character monologues in a slow way, and a vulgar one is vulgar.
+- Each monologue / dialogue is easy to distinguish.
+  Because each word reflects how each character thinks and process events, and each think in an unique way, as each personality is distinct (reveal motives and personalities).
+  Does not repeat himself in terms of character mind.
+  E.g. a slow character monologues in a slow way, and a vulgar one is vulgar.
 
-- Good at writing things as a whole: Depicts scenes that reflects characters' emotions and the nature and upbringing of a character, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; His writing is scenic / stage like, it's easy to picture; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
+- Good at writing things as a whole:
+  Depicts scenes that reflects characters' emotions and the nature and upbringing of a character, writing reactions shows characters' tendencies, habits, and temper.
+  Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction.
+  Very objective.
+  Good at writing objects; His writing is scenic / stage like, it's easy to picture;
+  direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
 - Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. **Realism**, gets you _emotionally invested_, but each plot thread maintains their own integrity (non messy, easy to follow). **Immersion** (uses character view s.t. it doesn't feel linear). Use some events at the start to get you curious, and keep the story going with a thread. Using _meaningful_ events (danger / conflict that affects the MC) to get you hooked. Knows how you think, making it as if you are living out the fantasy.
 
-- Good pacing / delivery. Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distribution of demanding (main) and light (sub) sentences / paragraphs). Very good mix of main / sub parts, where main = detailed / urgent / tight pacing, and sub = abbreviate / relaxed / loose pacing. Know how to use words to direct readers' attentions. Gets you curious. Compress info s.t. fewest words have the largest impact. Filter out useless information (s.t. emphasis is not lost). Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
+- Good pacing / delivery.
+  Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distribution of demanding (main) and light (sub) sentences / paragraphs).
+  Very good mix of main / sub parts, where main = detailed / urgent / tight pacing, and sub = abbreviate / relaxed / loose pacing.
+  Know how to use words to direct readers' attentions. Gets you curious.
+  Compress info s.t. fewest words have the largest impact.
+  Filter out useless information (s.t. emphasis is not lost).
+  Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
 
 - Using contrasting (similar input, different output), contradiction (same input, different output), and common sense (hidden context) to showcase personality (here treated as a deterministic function), to reveal tendencies, hidden motivations etc.
 
-- Approachability: Balance of narration and commentary / explanation (when necessary). Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason). On each level, the logic is consistent, motivations realistic, so it's easy to memorize.
+- Approachability:
+  Balance of narration and commentary / explanation (when necessary).
+  Explanation + deliberate omissions make the story good at all levels (light readers can read the explanation, heavy readers can find out the conflicts / inconsistencies / analyze motives that isn't the "surface" reason).
+  On each level, the logic is consistent, motivations realistic, so it's easy to memorize.
 
-- **Attention** based (pull info when needed). This paired with good one off / recurring characters make the stories very memorable. Sometimes a summarization / recap by character mouth or narrator to sum up events. Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking. Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
+- **Attention** based (pull info when needed).
+  This paired with good one off / recurring characters make the stories very memorable.
+  Sometimes a summarization / recap by character mouth or narrator to sum up events.
+  Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
+  Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
 
 ###### Sherlock Holmes
 
