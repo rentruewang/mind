@@ -307,28 +307,32 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### ASOIAF
 
-*Most of the points are in comparison to Jin Yong*
+_Most of the points are in comparison to Jin Yong_
 
 Multiple POV compared to the 1 main camera JY has.
 
-Likes to front load you with information / back story.
+Likes to front load you with information / back story. A character is tied to its bloodline, whereas in JY is usually not the case (sometimes bloodline discovery is part of the plot).
 
-Has more logical and political motives and transitions.
+Has more logical and political motives and transitions, less luck involved.
 
 Less unique characters (especially side line characters).
 
 Lower info density than JY.
 
-No hidden / background plotlines (all get revealed), less clues and details (in action), more details in scene setting.
+No hidden / background plotlines (all get revealed), less clues and details (in action), because the thoughts are revealed more liberally.
 
-Tells more than JY (JY is more camera / stage play like).
+More details in scene setting.
 
-- Traits
-- Behaviors ("He said deliberately" instead of "He paused for... and said...")
-- POV thoughts
-- Relationship ("He eve)
-- "Tells" you charachter traits / behavior (e.g. "He said deliberately"), where JY "shows" you (more camera / stage play like, e.g. "He paused, and said").
-- Directly tells you what the POV is thinking / relationships (JY uses monologue instead, which has bias etc, same function), but no others ()
+More reliable narration compared to JY (his _neutral_ narration is always right).
+
+The plot does not follow a single thread like JY (more camera like).
+
+Tells more than JY (JY is more camera / stage play like):
+
+    - Traits (JY uses action / monologue to reveal)
+    - Behaviors ("He said deliberately" instead of "He paused for... and said...")
+    - POV thoughts (where JY uses monologue).
+    - Relationship (part of backstory).
 
 ###### Memento
 
