@@ -126,6 +126,14 @@ Right place, right time, right character: This coupled with chain effect makes t
 
 ##### Show, don't tell. (delivery)
 
+Show = concrete
+
+Tell = abstract
+
+**Show, don't tell means to give readers a concrete example rather than an abstract account of events.**
+
+**Dramatization** means to reveal information from creating an event. So it's show don't tell again.
+
 ##### Following some underlying logic. (world building)
 
 Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
@@ -251,7 +259,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Creative and exciting fights. Does not repeat himself in terms of abilities.
 
-- Each dialogue is easy to distinguish. Does not repeat himself in terms of character mind.
+- Each monologue / dialogue is easy to distinguish.
+  Because each word reflects how each character thinks, and each think in an unique way, making each personality distinct.
+  Does not repeat himself in terms of character mind.
 
 - Good at writing things as a whole: Depicts scenes that reflects characters' emotions and the nature and upbringing of a character, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; His writing is scenic / stage like, it's easy to picture; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
@@ -330,6 +340,10 @@ More details in scene setting.
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
 The plot does not follow a single thread like JY (more camera like).
+
+Less good at _dramatizing events_.
+e.g. instead of Catelyn trying to state what is right,
+she should directly argue, then, finally, after all else failed, state what she thinks is right.
 
 Tells more than JY (JY is more camera / stage play like):
 
