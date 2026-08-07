@@ -267,8 +267,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong (**God**)
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together),
-  but distributed world building),
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building),
   _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling.
 
 - **Full of very dense information**. **Very many connections.** Realistic scenes.
