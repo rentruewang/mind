@@ -126,6 +126,14 @@ Right place, right time, right character: This coupled with chain effect makes t
 
 ##### Show, don't tell. (delivery)
 
+Show = concrete
+
+Tell = abstract
+
+**Show, don't tell means to give readers a concrete example rather than an abstract account of events.**
+
+**Dramatization** means to reveal information from creating an event. So it's show don't tell again.
+
 ##### Following some underlying logic. (world building)
 
 Reveal the world little by little from details and characters' behaviors, makes it more more realistic rather than forced.
@@ -193,6 +201,12 @@ Does not have the view of god (reader). This includes: talking "out of character
 
 Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
 
+### Partial information
+
+If you know more than character: dramatic irony.
+
+If character knows >= you know: plot (maybe mystery).
+
 ## Climax
 
 **By definition, the most emotional part.**
@@ -219,11 +233,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ###### Jin Yong (**God**)
 
-- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
+- Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building), _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling. **Full of very dense information**. **Very many connections.** Realistic scenes. Seamless transition of scenes. Keeps you guessing and on the edge of your seat. Overall just feels **real**. He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
-- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied characterization to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
+- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic. Characters don't act in a single obvious way, but much more complex based on their situation. This allows potential branching of the story line, the hidden motivation, or hidden lines. Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told. Complicated enough that you can explain in the ways you prefer.
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes show the characters' characters / reactions, and changes in emotional states. Lots of attention to details. Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states. Lots of attention to details (characters have minuate plans that can change within sentences). Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions). Lots of things happening. Characters don't just do "what is needed for this chapter", but act like a human with real interest. Re-reading doesn't feel boring due to having lots of details (that look insignificant at first). This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
@@ -233,7 +247,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   5. Partial information (don't include global info in each character's function input).
   6. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character. Don't take dialogue at their face value (sarcasm or misjudgment due to partial info).
   7. Use _contrast_ on outcomes (compute "advantage" and disregard "baseline" to reveal delta in rewards), filter by similar events.
-  8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character.
+  8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character. Treat the story as _no author error_ to reveal.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
@@ -243,7 +257,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect. With ablation study, it shows that the plot is tight and one removal of a scene can change everything after. Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
 
-- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes). Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
+- Characters have many many different personalities and flaws and motivations, and are unique. Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters. Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories. Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes). Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms). He is so good at dramatization that he makes plot out of thin air (following characters' everychanging thought processes and see it respond to each event is fun and **immersive** enough on its own, when there are no "bigger plots", e.g. when eating).
 
 - Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take). Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**. Designs plots to showcase a character's tendencies and nature, yet the plots flows are driven by characters' motivations. Yet, good cathartic moments and keep the readers hooked.
 
@@ -251,7 +265,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Creative and exciting fights. Does not repeat himself in terms of abilities.
 
-- Each dialogue is easy to distinguish. Does not repeat himself in terms of character mind.
+- Each monologue / dialogue is easy to distinguish. Because each word reflects how each character thinks and process events, and each think in an unique way, as each personality is distinct (reveal motives and personalities). Does not repeat himself in terms of character mind. E.g. a slow character monologues in a slow way, and a vulgar one is vulgar.
 
 - Good at writing things as a whole: Depicts scenes that reflects characters' emotions and the nature and upbringing of a character, writing reactions shows characters' tendencies, habits, and temper. Everything is inter-connected. Picturesque, vivid, and atmospheric scene depiction. Very objective. Good at writing objects; His writing is scenic / stage like, it's easy to picture; direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
@@ -304,6 +318,54 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 ###### Attack on Titan 1-3
 
 - Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
+###### ASOIAF
+
+_Most of the points are in comparison to Jin Yong_
+
+Multiple POV compared to the 1 main camera JY has.
+
+Likes to front load you with information / back story. A character is tied to its bloodline, whereas in JY is usually not the case (sometimes bloodline discovery is part of the plot).
+
+Has more logical and political motives and transitions, less luck involved.
+
+Less unique characters (especially side line characters).
+
+Lower info density than JY.
+
+Less attention to detail to actions / relationships (like the minuate emotion / plan change).
+
+Some chapter-apart reveals but not as much.
+
+More details in scene setting.
+
+No hidden / background plotlines (all get revealed), less clues and details (in actions made), because the thoughts are revealed more liberally.
+
+Worse pacing (especially in "down time").
+
+Characters are more shallow / 1D but good enough (like Gu Long), sometimes they are too "plot-devicey".
+
+Likes to use "sarcasm" / "philosophical debate" to portrait a character as smart. In that case it's very much like Gu Long.
+
+More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
+
+More reliable narration compared to JY (his _neutral_ narration is always right).
+
+The plot does not follow a single thread like JY (who is more camera like).
+
+Less good at _dramatizing events_. More plot device.
+e.g. instead of Catelyn trying to state what is right,
+she should directly argue, then, finally, after all else failed, state what she thinks is right.
+
+Non-POV is completely silent (JY will use monologue from time to time).
+
+Tells more than JY (JY is more camera / stage play like):
+
+    - Traits (JY uses action / monologue to reveal)
+    - Intention ("He said deliberately" instead of "He paused in thoughts... and said...")
+    - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
+    - Back story.
+    - Relationship (part of backstory).
 
 ###### Memento
 
