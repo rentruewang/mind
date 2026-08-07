@@ -4,7 +4,8 @@
 
 ### Simulation
 
-Generate the game-script tree many ways (initial condition is the characters and their nature). Each node is a decision / event.
+Generate the game-script tree many ways (initial condition is the characters and their nature).
+Each node is a decision / event.
 
 ### Planning
 
@@ -12,17 +13,27 @@ Highlight interesting paths in the game-script tree (plan out the story and the 
 
 ### Assembly
 
-Linearize the tree. Adjust and select important events to present in ways natural to humans (pacing and storytelling).
+Linearize the tree.
+Adjust and select important events to present in ways natural to humans (pacing and storytelling).
 
 ### Delivery
 
-The way words are fed to the reader, is a form of communication (good = clear). Good delivery has good emphasis and is less tiring to read. Shows, don't tell.
+The way words are fed to the reader, is a form of communication (good = clear).
+Good delivery has good emphasis and is less tiring to read. Shows, don't tell.
 
 Emphasis: techniques like contrasting, projection of mental state to environment.
 
-Pacing: Using various techniques, different angles / events to describe the same thing, surprise the readers, while keeping the reader attention (by not being too predictable).
+Pacing:
+Using various techniques,
+different angles / events to describe the same thing,
+surprise the readers,
+while keeping the reader attention (by not being too predictable).
 
-Attention: Enumerating concrete instances to defining behaviors abstractly (e.g. describe in detail about the first few people passing by, and then said there are several groups passing by, which is how the brain works). This helps lessen cognitive load.
+Attention:
+Enumerating concrete instances to defining behaviors abstractly
+(e.g. describe in detail about the first few people passing by,
+and then said there are several groups passing by, which is how the brain works).
+This helps lessen cognitive load.
 
 ## When stories are good
 
