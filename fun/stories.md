@@ -23,11 +23,7 @@ Good delivery has good emphasis and is less tiring to read. Shows, don't tell.
 
 Emphasis: techniques like contrasting, projection of mental state to environment.
 
-Pacing:
-Using various techniques,
-different angles / events to describe the same thing,
-surprise the readers,
-while keeping the reader attention (by not being too predictable).
+Pacing: Using various techniques, different angles / events to describe the same thing, surprise the readers, while keeping the reader attention (by not being too predictable).
 
 Attention:
 Enumerating concrete instances to defining behaviors abstractly
