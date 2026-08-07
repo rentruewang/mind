@@ -337,7 +337,7 @@ Less attention to detail to actions / relationships (like the minuate emotion / 
 
 Some chapter-apart reveals but not as much.
 
-More details in scene setting. 
+More details in scene setting.
 
 No hidden / background plotlines (all get revealed), less clues and details (in actions made), because the thoughts are revealed more liberally.
 
