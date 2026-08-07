@@ -331,13 +331,13 @@ Less attention to detail (like the minuate emotion / plan change).
 
 No hidden / background plotlines (all get revealed), less clues and details (in action), because the thoughts are revealed more liberally.
 
-Worse pacing.
+Worse pacing (especially in "down time").
 
 More details in scene setting.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
-The plot does not follow a single thread like JY (more camera like).
+The plot does not follow a single thread like JY (who is more camera like).
 
 Less good at _dramatizing events_. More plot device.
 e.g. instead of Catelyn trying to state what is right,
