@@ -295,7 +295,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
   Text wise: Lasting a couple of sentences or paragraphs.
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
-  These cause small twists (= surprise reveal) to be made and surprise readers / keep them engaged.
+  These allows small twists (= surprise reveal) to be made and surprise readers / keep them engaged.
   This is also attention based.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
