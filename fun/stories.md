@@ -302,6 +302,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
 
+- Using contrasting (similar input, different output), contradiction (same input, different output), and common sense (hidden context) to showcase personality (here treated as a deterministic function), to reveal tendencies, hidden motivations etc.
+
 - Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
 
 - Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots).
@@ -351,8 +353,6 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Compress info s.t. fewest words have the largest impact.
   Filter out useless information (s.t. emphasis is not lost).
   Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
-
-- Using contrasting (similar input, different output), contradiction (same input, different output), and common sense (hidden context) to showcase personality (here treated as a deterministic function), to reveal tendencies, hidden motivations etc.
 
 - Approachability:
   Balance of narration and commentary / explanation (when necessary).
@@ -430,6 +430,8 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 Worse pacing (especially in "down time").
 
 Characters are more shallow / 1D but good enough (like Gu Long), sometimes they are too "plot-devicey".
+
+Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong").
 
 Likes to use "sarcasm" / "philosophical debate" to portrait a character as smart. In that case it's very much like Gu Long.
 
