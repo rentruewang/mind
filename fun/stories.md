@@ -309,7 +309,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint).
   These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive.
   Lots of small plot lines yet interconnected.
-  Critical, plot deciding information is scattered around and spread out throughout the text.
+  Critical, plot deciding information is scattered around and spread out throughout the text (the plot twist is spread out, making transition natural and smooth).
   Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent).
   He introduces you gently at the start, then progressively all the details match up.
 
@@ -438,7 +438,7 @@ Worse pacing (especially in "down time").
 
 Characters are more shallow / 1D but good enough (like Gu Long), sometimes they are too "plot-devicey".
 
-Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong").
+Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth.
 
 Likes to use "sarcasm" / "philosophical debate" to portrait a character as smart. In that case it's very much like Gu Long.
 
