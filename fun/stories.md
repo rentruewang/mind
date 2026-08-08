@@ -290,12 +290,14 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
   This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Transient, detailed reactions
+- Transient, detailed, unique reactions
   Duration: minuate, transient, in the moment
   Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
   Text wise: Lasting a couple of sentences or paragraphs.
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
   These allows small twists (= surprise reveal) and plot to be made and keep them engaged.
+  Coupled with different characters having different tendencies, this makes it very memorable.
+  Sometimes surprise = same event + different angle = different conclusion. On small transient things tho or else it's different idealogies.
   This is also attention based.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
