@@ -290,7 +290,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
   This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Detailed minds:
+- Transient, detailed reactions
   Duration: minuate, transient, in the moment
   Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
   Text wise: Lasting a couple of sentences or paragraphs.
