@@ -1,6 +1,7 @@
 ## What languages are you interested in working on?
 
-I'm only interested in Python, and Modern C++/C/CUDA. [Any performant system comes down to algorithms and engineering](https://stackoverflow.com/a/4911818), and programming languages is just a small part of engineering (e.g. less than architecture design). These are more than enough to cover my use cases (I do not build too much frontend).
+I'm only interested in Python, and Modern C++/C/CUDA. [Any performant system comes down to algorithms and engineering](https://stackoverflow.com/a/4911818), and programming languages is just a small part of engineering (e.g. less than architecture design).
+These are more than enough to cover my use cases (I do not build too much frontend).
 
 ##### Focus
 
@@ -27,7 +28,11 @@ Usage: high performance computing, desktop UI, games, improve Python performance
 
 ## Since when do languages of a project matter?
 
-**It doesn't**. [Any performant system comes down to algorithms and engineering](https://stackoverflow.com/a/4911818), and programming languages is just a small part of engineering (e.g. less than architecture design). Users care about the end product, rather than how things are written. Still, some languages are better at certain things than others. For me, I would like the minimum possible to be able to do everything I want to do. This is why I use these.
+**It doesn't**. [Any performant system comes down to algorithms and engineering](https://stackoverflow.com/a/4911818), and programming languages is just a small part of engineering (e.g. less than architecture design).
+Users care about the end product, rather than how things are written.
+
+Still, some languages are better at certain things than others.
+For me, I would like the minimum possible to be able to do everything I want to do. This is why I use these.
 
 ## Languages I have written in the past, and why I stopped loving them
 
@@ -37,13 +42,16 @@ Java is my intro to data structures and algorithms, and is a very simple clean l
 
 ##### Rust
 
-I like the language. But the community isn't too likable (lots of cocky but ignorant people). Furthermore, since it will never replace C++ because it has no killer application, while being mostly overlapping in the same domain and style (both are kitchen sink languages), and as there exists very few pure rust libraries, incompatibility with C++ means it could not leverage the existing sea of libraries.
+I like the language. But the community isn't too likable (lots of cocky but ignorant people).
+Furthermore, since it will never replace C++ because it has no killer application, while being mostly overlapping in the same domain and style (both are kitchen sink languages), and as there exists very few pure rust libraries, incompatibility with C++ means it could not leverage the existing sea of libraries.
 
 > Programming in rust bogged down to thinking about language features rather than solving problems.
 
-Would it become big in the future? No, because only people who have learned about C++ would love rust. It won't be a successful language as C++ imo. Also too FP like, not C like, to be popular. Most languages that are popular look like C, also FP has its own issues [(sum types)](./fpoop.md).
+Would it become big in the future? No, because only people who have learned about C++ would love rust.
+It won't be a successful language (mainstream) as C++ imo. Also too FP like, not C like, to be popular. Most languages that are popular look like C, also FP has its own issues [(sum types)](./fpoop.md).
 
-Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that. There are also `trait`s all over the place, making it difficult to trace where the functions come from.
+Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that.
+There are also `trait`s all over the place, making it difficult to trace where the functions come from.
 
 Also it's [incompatible](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/) and [impedance mismatch causes rewriting](https://www.reddit.com/r/rust/comments/1uxgvqc/comment/oxww1pu/).
 
