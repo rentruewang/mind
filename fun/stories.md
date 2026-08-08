@@ -292,7 +292,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Detailed minds:
   Duration: minuate, transient, in the moment
-  Types: Plans, actions, decisions, emotions, reactions, monologue, dialogue
+  Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
   Text wise: Lasting a couple of sentences or paragraphs.
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
 
