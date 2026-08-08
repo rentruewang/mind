@@ -12,7 +12,8 @@ Started caring about readability in 2021 -> Huffman and brief.
 
 ### Open source in 2021
 
-Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects. (You don't pay for what you don't use, the simpler the better, in maintainence and performance)
+Simplicity and readability being increasingly important after koila, in which I designed quite hard and so does all following projects.
+(You don't pay for what you don't use, the simpler the better, in maintainence and performance)
 Functions start being as short as possible (not yet as abstract and DRY as possible).
 Being readable and short implicit constraints on simplicity.
 
@@ -38,9 +39,12 @@ Maybe I focus too much on simplicity and terseness, not necessarily approachabil
 
 Practicality: New mindset. _Write now, design later_. Start concrete, and **evolve** more and more abstract, knowing that the designs **will change**. I realized that focusing early on, endlessly, on perfect design / implementation is just not going to cut it, with my limited time and many goals to hit.
 
-Uses github's squash and merge (coding with less focus on perfection, can always squash later). Happy to merge less than perfect changes, so long as it keeps the progress flowing (personal project ofc, in work there are external pressure). Sometimes I deliberately push imcomplete code (at the time of pushing already know it will be scrapped next PR), just so the 2 changes can be made simpler.
+Uses github's squash and merge (coding with less focus on perfection, can always squash later).
+Happy to merge less than perfect changes, so long as it keeps the progress flowing (personal project ofc, in work there are external pressure).
+Sometimes I deliberately push imcomplete code (at the time of pushing already know it will be scrapped next PR), just so the 2 changes can be made simpler.
 
-I think this is a pushback from previous years where I was very stressed out designing perfect plans when writing new code. No more (still do it to some extent but try not to). In some of the code I even made code **less abstract** s.t. it's easier to work with (in that case for better code autocomplete)!
+I think this is a pushback from previous years where I was very stressed out designing perfect plans when writing new code.
+No more (still do it to some extent but try not to). In some of the code I even made code **less abstract** s.t. it's easier to work with (in that case for better code autocomplete)!
 
 Tho, my skills have improved, and I write with decent modularity and elegance in my designs by default, making the refactors down the road a little easier and managable.
 
