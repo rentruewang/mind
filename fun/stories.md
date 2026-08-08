@@ -283,12 +283,18 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Complicated enough that you can explain in the ways you prefer.
 
 - Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states.
-  Lots of attention to details (characters have minuate plans that can change within sentences).
+  Lots of attention to details.
   Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions).
   Lots of things happening simultaneously.
   Characters don't just do "what is needed for this chapter", but act like a human with real interest.
   Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
   This means that plot density is high (anywhere can have a clue with lasting effects).
+
+- Detailed minds:
+  Duration: minuate, transient, in the moment
+  Types: Plans, actions, decisions, emotions, reactions, monologue, dialogue
+  Text wise: Lasting a couple of sentences or paragraphs.
+  These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
