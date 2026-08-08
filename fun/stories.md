@@ -283,12 +283,22 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Complicated enough that you can explain in the ways you prefer.
 
 - Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states.
-  Lots of attention to details (characters have minuate plans that can change within sentences).
+  Lots of attention to details.
   Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions).
   Lots of things happening simultaneously.
   Characters don't just do "what is needed for this chapter", but act like a human with real interest.
   Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
   This means that plot density is high (anywhere can have a clue with lasting effects).
+
+- Transient, detailed, unique reactions
+  Duration: minuate, transient, in the moment
+  Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
+  Text wise: Lasting a couple of sentences or paragraphs.
+  These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
+  These allows small twists (= surprise reveal) and plot to be made and keep them engaged.
+  Coupled with different characters having different tendencies (angles), this makes it very memorable.
+  Sometimes surprise = same event + different angle = different (new) conclusion = reveal. On small transient things tho or else it's different idealogies.
+  This is also attention based.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues can be scattered over great distances (chapters apart).
@@ -424,7 +434,7 @@ Has more logical and political motives and transitions, less luck involved.
 
 Less unique characters (especially side line characters).
 
-Lower info density than JY.
+Lower info density (more play by play less dramatized) than JY.
 
 Less attention to detail to actions / relationships (like the minuate emotion / plan change).
 
@@ -436,7 +446,9 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 
 Worse pacing (especially in "down time").
 
-Characters are more shallow / 1D but good enough (like Gu Long), sometimes they are too "plot-devicey". More jumping to conclusion about a character (e.g. tyrion is wise).
+Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
+Sometimes they are too "plot-device"-y.
+More jumping to conclusion about a character (e.g. tyrion is wise).
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
