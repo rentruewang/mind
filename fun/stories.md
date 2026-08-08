@@ -304,7 +304,14 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 - Using contrasting (similar input, different output), contradiction (same input, different output), and common sense (hidden context) to showcase personality (here treated as a deterministic function), to reveal tendencies, hidden motivations etc.
 
-- Lots of (insignificant at first) details. Those details through butterfly effect, can have big impacts. This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint). These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive. Lots of small plot lines yet interconnected. Critical, plot deciding information is scattered around and spread out throughout the text. Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent). He introduces you gently at the start, then progressively all the details match up.
+- Lots of (insignificant at first) details.
+  Those details through butterfly effect, can have big impacts.
+  This is due to those details may not be important at first to the MC, but can be important to others (narrative from MC's viewpoint).
+  These details fill and move each single plot lines forward (each nodes in the architecture) making it immersive.
+  Lots of small plot lines yet interconnected.
+  Critical, plot deciding information is scattered around and spread out throughout the text.
+  Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent).
+  He introduces you gently at the start, then progressively all the details match up.
 
 - Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots).
   The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict.
