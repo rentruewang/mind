@@ -457,6 +457,7 @@ Worse pacing (especially in "down time").
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
 Sometimes they are too "plot-device"-y.
 More jumping to conclusion about a character (e.g. tyrion is wise).
+His characters are more 1D than JY, more predictable and having fewer conflicts.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
@@ -481,6 +482,7 @@ Tells more than JY (JY is more camera / stage play like):
     - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
     - Back story.
     - Relationship (part of backstory).
+    - Internal conflicts. His conflicts seems to be told (where you don't see characters making too hard a decision in the moment).
 
 ###### Memento
 
