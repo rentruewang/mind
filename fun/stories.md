@@ -229,6 +229,12 @@ Does not have the view of god (reader). This includes: talking "out of character
 
 Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
 
+### 3D characters
+
+3D = more depth = not flat
+= multi objective / conflicts / layered emotions / motives / faceted / agenda
+= more real, complex
+
 ### Partial information
 
 If you know more than character: dramatic irony.
@@ -431,6 +437,8 @@ Multiple POV compared to the 1 main camera JY has.
 Likes to front load you with information / back story. A character is tied to its bloodline, whereas in JY is usually not the case (sometimes bloodline discovery is part of the plot).
 
 Has more logical and political motives and transitions, less luck involved.
+
+More description about economics and world building.
 
 Less unique characters (especially side line characters).
 
