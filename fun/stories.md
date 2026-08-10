@@ -229,6 +229,12 @@ Does not have the view of god (reader). This includes: talking "out of character
 
 Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
 
+### 3D characters
+
+3D = more depth = not flat
+= multi objective / conflicts / layered emotions / motives / faceted / agenda
+= more real, complex
+
 ### Partial information
 
 If you know more than character: dramatic irony.
@@ -432,6 +438,8 @@ Likes to front load you with information / back story. A character is tied to it
 
 Has more logical and political motives and transitions, less luck involved.
 
+More description about economics and world building.
+
 Less unique characters (especially side line characters).
 
 Lower info density (more play by play less dramatized) than JY.
@@ -448,7 +456,8 @@ Worse pacing (especially in "down time").
 
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
 Sometimes they are too "plot-device"-y.
-More jumping to conclusion about a character (e.g. tyrion is wise).
+His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
+Result: More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple).
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
@@ -473,6 +482,7 @@ Tells more than JY (JY is more camera / stage play like):
     - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
     - Back story.
     - Relationship (part of backstory).
+    - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
 ###### Memento
 
