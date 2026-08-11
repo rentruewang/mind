@@ -221,19 +221,35 @@ As well as being predictable.
 
 Realistic character depiction involves a lot of subtext, requiring readers to be actively involved, and characters cannot be monotonous (3D).
 
+Does not have the view of god (reader). This includes: talking "out of character" to tell the plot, revealing their own mind (in an out of character way) to tell readers what they are thinking.
+
+Main character should evolve / develop, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
+
+### Plot device
+
+I think plot devices stem from bad character writing (not deep).
+
 Each character should be optimizing for their own goals (with their own view, history, experience, and story).
 
 Should not be a plot device (plot would have to be good despite each character making the most "obvious" choice from their own view).
 
-Does not have the view of god (reader). This includes: talking "out of character" to tell the plot, revealing their own mind (in an out of character way) to tell readers what they are thinking.
+Plot device usually stems from flat characters, that characters make a decision that is oversimplified and feels convenient.
 
-Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
+They serve the plot's / main character's need rather than themselve. Or, conflict for the sake of conflict (still serving the plot's needs).
+
+Or changing the minds of characters when it suits them (character behaves inconsistently or not using all of their tools). This still falls under over-simplification.
 
 ### 3D characters
 
 3D = more depth = not flat
 = multi objective / conflicts / layered emotions / motives / faceted / agenda
 = more real, complex
+
+This makes the character subtle and less granular, because it's no longer "black and white", the No. 1 tell of over-simplification.
+
+Note that each objectives and conflict have to have weight / be costly. Or else the decisions are "trivial" not "costly" or "hard".
+
+Decision is deep when cost is high. Each decision is costly because each “aspect" is important
 
 ### Partial information
 
@@ -456,8 +472,14 @@ Worse pacing (especially in "down time").
 
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
 Sometimes they are too "plot-device"-y.
+
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
-Result: More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple).
+
+Result:
+
+- More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple)
+
+- Or plot device-y (less deep characters): [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), where JY characters would change their mind like I said, hiring bandits (Wu Sangui, Zuo Lengchan), while retaining their personality.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
@@ -477,12 +499,12 @@ Non-POV is completely silent (JY will use monologue from time to time).
 
 Tells more than JY (JY is more camera / stage play like):
 
-    - Traits (JY uses action / monologue to reveal)
-    - Intention ("He said deliberately" instead of "He paused in thoughts... and said...")
-    - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
-    - Back story.
-    - Relationship (part of backstory).
-    - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
+- Traits (JY uses action / monologue to reveal)
+- Intention ("He said deliberately" instead of "He paused in thoughts... and said...")
+- POV mind / thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
+- Back story.
+- Relationship (part of backstory).
+- Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
 ###### Memento
 
