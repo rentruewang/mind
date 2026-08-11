@@ -227,7 +227,7 @@ Main character should evolve, and side characters should react (both avoid being
 
 ### Plot device
 
-I think plot devices stem from bad character writing.
+I think plot devices stem from bad character writing (not deep).
 
 Each character should be optimizing for their own goals (with their own view, history, experience, and story).
 
@@ -479,7 +479,7 @@ Result:
 
     More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple)
 
-    Or plot device-y: [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/comments/1vltlyf/spoilers_main_lysa_should_collaborate_with_the/), where JY characters would change their mind like I said, hiring bandits.
+    Or plot device-y (less deep characters): [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/comments/1vltlyf/spoilers_main_lysa_should_collaborate_with_the/), where JY characters would change their mind like I said, hiring bandits (Wu Sangui).
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
