@@ -223,7 +223,7 @@ Realistic character depiction involves a lot of subtext, requiring readers to be
 
 Does not have the view of god (reader). This includes: talking "out of character" to tell the plot, revealing their own mind (in an out of character way) to tell readers what they are thinking.
 
-Main character should evolve, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
+Main character should evolve / develop, and side characters should react (both avoid being monotonous, but evolving side characters may be hard to show, and also we don't know their mental states).
 
 ### Plot device
 
