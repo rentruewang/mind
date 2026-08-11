@@ -249,7 +249,7 @@ This makes the character subtle and less granular, because it's no longer "black
 
 Note that each objectives and conflict have to have weight / be costly. Or else the decisions are "trivial" not "costly" or "hard".
 
-Decision is deep when cost is high. Each decision is costly because each “aspect" is important 
+Decision is deep when cost is high. Each decision is costly because each “aspect" is important
 
 ### Partial information
 
@@ -472,8 +472,14 @@ Worse pacing (especially in "down time").
 
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
 Sometimes they are too "plot-device"-y.
+
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
-Result: More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple).
+
+Result:
+
+    More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple)
+
+    Or plot device-y: [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/comments/1vltlyf/spoilers_main_lysa_should_collaborate_with_the/), where JY characters would change their mind like I said, hiring bandits.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
