@@ -11,7 +11,7 @@ class TestClass:
         return 10
 
 
-class C:
+class DictAttr:
     def __repr__(self):
         return repr(self.__dict__)
 
@@ -32,7 +32,7 @@ if __name__ == "__main__":
     print("t.y=", TestClass().y)
 
     print("---")
-    c = C()
+    c = DictAttr()
     print(c)
     c.a = 4
     print(c)
