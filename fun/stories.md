@@ -479,7 +479,7 @@ Tells more than JY (JY is more camera / stage play like):
 
     - Traits (JY uses action / monologue to reveal)
     - Intention ("He said deliberately" instead of "He paused in thoughts... and said...")
-    - POV thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
+    - POV mind / thoughts (JY uses monologue for POV, and monologue + mirror neurons for others).
     - Back story.
     - Relationship (part of backstory).
     - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
