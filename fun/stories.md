@@ -249,7 +249,7 @@ This makes the character subtle and less granular, because it's no longer "black
 
 Note that each objectives and conflict have to have weight / be costly. Or else the decisions are "trivial" not "costly" or "hard".
 
-Decision is deep when cost is high. Each decision is costly because each “aspect" is important
+Decision is deep when cost (_stakes_) is high. Each decision is costly because each “aspect" is important
 
 ### Partial information
 
@@ -266,7 +266,7 @@ To sum up, _the part that is tightly connected to other plot lines_. Densely pac
 
 Tension (that are built up) breaks in an explosive way, or a major turning point (info revealed).
 
-A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High stakes (between character / events you care about).
+A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High(est) stakes (between character / events you care about).
 
 ## Show don't tell
 
