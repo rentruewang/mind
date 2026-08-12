@@ -1,5 +1,21 @@
 # Stories
 
+## Core idea
+
+Atoms: Characters with traits and tendencies and correlated objectives
+
+Inference: unexpected but reasonable, forming events (lines)
+
+Plot: then, you have the story woven from those lines.
+
+Engagement: Stakes are the dense parts.
+
+Climax: The densest part
+
+Pacing: How it's delivered to readers
+
+Realism: It affects readers' mental
+
 ## How writing happens
 
 ### Simulation
@@ -189,7 +205,10 @@ Regarding entities management, there are 2 types: people and events.
 
 People should drive events, not the other way around (would be too coincidental).
 
-#### Event management (pacing).
+#### Event management / transmission system (pacing).
+
+Pacing = event filtering system. Plot = connections of the events.
+Good pacing = good filter.
 
 How many events to write?
 
@@ -249,7 +268,7 @@ This makes the character subtle and less granular, because it's no longer "black
 
 Note that each objectives and conflict have to have weight / be costly. Or else the decisions are "trivial" not "costly" or "hard".
 
-Decision is deep when cost is high. Each decision is costly because each “aspect" is important
+Decision is deep when cost (_stakes_) is high. Each decision is costly because each “aspect" is important
 
 ### Partial information
 
@@ -266,7 +285,10 @@ To sum up, _the part that is tightly connected to other plot lines_. Densely pac
 
 Tension (that are built up) breaks in an explosive way, or a major turning point (info revealed).
 
-A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High stakes (between character / events you care about).
+A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High(est) stakes (between character / events you care about).
+
+If I define a story as a graph, where events are nodes, edges are consequences.
+Then climax is where the sum of edges is the highest, weighted by reader's perception / attention.
 
 ## Show don't tell
 
