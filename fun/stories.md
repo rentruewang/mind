@@ -524,7 +524,7 @@ Result:
 
 - More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple)
 
-- Or plot device-y (less deep characters): [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), where JY characters would change their mind like I said, hiring bandits (Wu Sangui, Zuo Lengchan), while retaining their personality, or that Ned never considered to tell who Joffery father is, even in the throne room when his hope is lost.
+- Or plot device-y (instrumental / less deep characters / motivations): [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), where JY characters would change their mind like I said, hiring bandits (Wu Sangui, Zuo Lengchan), while retaining their personality, or that Ned never considered to tell who Joffery father is, even in the throne room when his hope is lost.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
