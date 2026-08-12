@@ -1,6 +1,6 @@
 # Stories
 
-## Core
+## Brain
 
 People like stories because it's a simulation (it's like memory) that lets us explore an alternative world / mind of people.
 
