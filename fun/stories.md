@@ -4,7 +4,7 @@
 
 Atoms: Characters with traits and tendencies and correlated objectives
 
-Inference: unexpected but reasonable, forming events (lines) 
+Inference: unexpected but reasonable, forming events (lines)
 
 Plot: then, you have the story woven from those lines.
 
@@ -12,7 +12,9 @@ Engagement: Stakes are the dense parts.
 
 Climax: The densest part
 
-Pacing: How it's delivered to readers 
+Pacing: How it's delivered to readers
+
+Realism: It affects readers' mental
 
 ## How writing happens
 
