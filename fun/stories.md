@@ -12,7 +12,7 @@ Exploitation: It's the "realism" part, that makes you feel attached. You track t
 
 Pacing: Shapes your mind's inference engine allow inference (reasonable), but not too well (unexpected).
 
-So a story is good when it can walk down a unworn path, yet that path turns out to be good.
+So a story is good when it can walk down a unworn path, yet that path turns out to be compelling.
 
 ## Framework
 
