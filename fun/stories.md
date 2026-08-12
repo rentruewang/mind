@@ -1,6 +1,20 @@
 # Stories
 
-## Core idea
+## Core
+
+People like stories because it's a simulation (it's like memory) that lets us explore an alternative world / mind of people.
+
+It satisfies your brain's prediction engine for some action / reward data, for exploration / exploitation with good pacing.
+
+Exploration: Unexpected outcome, new states
+
+Exploitation: It's the "realism" part, that makes you feel attached. You track the character's states and feel like its yours
+
+Pacing: Shapes your mind's inference engine allow inference (reasonable), but not too well (unexpected).
+
+So a story is good when it can walk down a unworn path, yet that path turns out to be good.
+
+## Framework
 
 Atoms: Characters with traits and tendencies and correlated objectives
 
@@ -141,9 +155,13 @@ Showing the events (from characters) as they become relevant both streamlines th
 
 Stories should have good pace (arrange the infos / reveal in what order?) and keep the readers engaged. Quick pace may be overwhelming, slow pace may be underwhelming.
 
-#### Exploration
+#### Exploration & Exploitation
 
 **Unexpected, but reasonable**. New aspect revealed, new potential uncovered.
+
+Reasonable = exploitation
+
+Unexpected = exploration
 
 Good stories keeps you guessing due to having lots of options, just like real life.
 
@@ -152,7 +170,10 @@ Without twists, it would be linear, and would be predictable.
 This also keeps the state of the story complex,
 and each character would have more flexibility in performing actions (less predictable, more exploration).
 
-#### Exploitation
+A good twist survives re-read, because both sides are **reasonable**.
+A cheap one is not reasonable (unearned, hides too much info) or expected (predictable).
+
+#### Action & Reward
 
 A character in the book makes a decision, you get to observe how good it is (how much reward is received).
 
@@ -215,6 +236,8 @@ How many events to write?
 Too many: Too exhausting.
 
 Too few: Too boring, predictable.
+
+Good pacing alternates between fast and slow, s.t. your mind's inference engine won't get too adapted (too slow, nothing to update) or feeling lost (too fast, overwhelmed).
 
 #### People management (scaling)
 
@@ -331,7 +354,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions).
   Lots of things happening simultaneously.
   Characters don't just do "what is needed for this chapter", but act like a human with real interest.
-  Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
+  Re-reading doesn't feel boring due to having lots of details (that look insignificant at first), and both sides feel **reasonable**.
   This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Transient, detailed, unique reactions
