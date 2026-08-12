@@ -10,7 +10,9 @@ Plot: then, you have the story woven from those lines.
 
 Engagement: Stakes are the dense parts.
 
-Climax: The densest part Pacing: How it's delivered to readers 
+Climax: The densest part
+
+Pacing: How it's delivered to readers 
 
 ## How writing happens
 
