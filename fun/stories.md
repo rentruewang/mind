@@ -191,6 +191,8 @@ People should drive events, not the other way around (would be too coincidental)
 
 #### Event management (pacing).
 
+Pacing = event filtering system. Good pacing = good filter.
+
 How many events to write?
 
 Too many: Too exhausting.
@@ -267,6 +269,9 @@ To sum up, _the part that is tightly connected to other plot lines_. Densely pac
 Tension (that are built up) breaks in an explosive way, or a major turning point (info revealed).
 
 A lot of times, is a conflict that can be internal (mindset change for main character, or major shift in opinions), or external (fights). High(est) stakes (between character / events you care about).
+
+If I define a story as a graph, where events are nodes, edges are consequences.
+Then climax is where the sum of edges is the highest, weighted by reader's perception / attention.
 
 ## Show don't tell
 
