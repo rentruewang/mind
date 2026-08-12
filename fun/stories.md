@@ -1,6 +1,20 @@
 # Stories
 
-## Core idea
+## Brain
+
+People like stories because it's a simulation (it's like memory) that lets us explore an alternative world / mind of people.
+
+It satisfies your brain's prediction engine for some action / reward data, for exploration / exploitation with good pacing.
+
+Exploration: Unexpected outcome, new states
+
+Exploitation: It's the "realism" part, that makes you feel attached. You track the character's states and feel like its yours
+
+Pacing: Shapes your mind's inference engine allow inference (reasonable), but not too well (unexpected).
+
+So a story is good when it can walk down a unworn path, yet that path turns out to be compelling.
+
+## Framework
 
 Atoms: Characters with traits and tendencies and correlated objectives
 
@@ -141,9 +155,13 @@ Showing the events (from characters) as they become relevant both streamlines th
 
 Stories should have good pace (arrange the infos / reveal in what order?) and keep the readers engaged. Quick pace may be overwhelming, slow pace may be underwhelming.
 
-#### Exploration
+#### Exploration & Exploitation
 
 **Unexpected, but reasonable**. New aspect revealed, new potential uncovered.
+
+Reasonable = exploitation
+
+Unexpected = exploration
 
 Good stories keeps you guessing due to having lots of options, just like real life.
 
@@ -152,7 +170,10 @@ Without twists, it would be linear, and would be predictable.
 This also keeps the state of the story complex,
 and each character would have more flexibility in performing actions (less predictable, more exploration).
 
-#### Exploitation
+A good twist survives re-read, because both sides are **reasonable**.
+A cheap one is not reasonable (unearned, thin, hides too much info) or expected (predictable).
+
+#### Action & Reward
 
 A character in the book makes a decision, you get to observe how good it is (how much reward is received).
 
@@ -215,6 +236,8 @@ How many events to write?
 Too many: Too exhausting.
 
 Too few: Too boring, predictable.
+
+Good pacing alternates between fast and slow, s.t. your mind's inference engine won't get too adapted (too slow, nothing to update) or feeling lost (too fast, overwhelmed).
 
 #### People management (scaling)
 
@@ -331,7 +354,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions).
   Lots of things happening simultaneously.
   Characters don't just do "what is needed for this chapter", but act like a human with real interest.
-  Re-reading doesn't feel boring due to having lots of details (that look insignificant at first).
+  Re-reading doesn't feel boring due to having lots of details (that look insignificant at first), and both sides feel **reasonable**.
   This means that plot density is high (anywhere can have a clue with lasting effects).
 
 - Transient, detailed, unique reactions
@@ -486,7 +509,7 @@ Less attention to detail to actions / relationships (like the minuate emotion / 
 
 Some chapter-apart reveals but not as much.
 
-More details in scene setting.
+More details in scene setting (objects).
 
 No hidden / background plotlines (all get revealed), less clues and details (in actions made), because the thoughts are revealed more liberally.
 
@@ -497,21 +520,25 @@ Sometimes they are too "plot-device"-y.
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
-Result:
+Case study on characters:
 
-- More jumping to conclusion about a character (e.g. Tyrion being wise is inferred by 1 sentece he said to Jon, too simple)
+- Character mind often jumps from extreme to extreme, no conflict state. E.g. when Jon thinks Tyrion is wise after 2 setences, Jon got convinced by Sam to happily be steward, Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
 
-- Or plot device-y (less deep characters): [Lysa letting Tyrion go (my post)](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), where JY characters would change their mind like I said, hiring bandits (Wu Sangui, Zuo Lengchan), while retaining their personality.
+- Or plot device-y (instrumental): E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid. JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting). The clans should perhaps be poor farmers as well, not anti social crazy people.
+
+- Less deep characters / motivations / thinner plots: Characters should be goal driven, not plot driven. E.g. Ned never considered naming Joffery's father (would cause war), even in the throne room when his men all died (this info = last ditch effort, maybe turn tides). Deeper writing: he named it, but others are either cowards or profit driven. Or he try to name it but thought of his daughters. Motivations sometimes change from paragraphs to paragraphs.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
-Likes to use edgy statments / sarcasm / philosophical debate to portrait a character as smart. In that case it's very much like Gu Long. E.g. littlefinger, imp.
+Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart. In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
 More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
 The plot does not follow a single thread like JY (who is more camera like).
+
+The plot are thinner and less realistic than JY's (perhaps due to having to run many lines).
 
 Less good at _dramatizing events_. More plot device.
 e.g. instead of Catelyn trying to state what is right,
