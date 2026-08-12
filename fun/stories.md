@@ -189,9 +189,10 @@ Regarding entities management, there are 2 types: people and events.
 
 People should drive events, not the other way around (would be too coincidental).
 
-#### Event management (pacing).
+#### Event management / transmission system (pacing).
 
-Pacing = event filtering system. Good pacing = good filter.
+Pacing = event filtering system. Plot = connections of the events.
+Good pacing = good filter.
 
 How many events to write?
 
