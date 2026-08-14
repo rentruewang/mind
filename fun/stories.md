@@ -516,7 +516,7 @@ Case study on characters:
 
 - Less deep characters / motivations / thinner plots: Characters should be goal driven, not plot driven. E.g. Ned never considered naming Joffery's father (would cause war), even in the throne room when his men all died (this info = last ditch effort, maybe turn tides). Deeper writing: he named it, but others are either cowards or profit driven. Or he try to name it but thought of his daughters. Motivations sometimes change from paragraphs to paragraphs.
 
-Less layered relationships. Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced.
+Less layered relationships. Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced. E.g. Tyrion and Tywin, is he a teenager?
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
