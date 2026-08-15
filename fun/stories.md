@@ -396,7 +396,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict.
   Lots of fan theories. Realism also comes from being multifaceted (many options).
   The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly, with interesting and "new" events.
-  Their dialogue is layered (e.g. everything Chen Jinnan said in public),
+  Their dialogue is layered (e.g. everything Chen Jinnan said in public (esp in the haunted house) / Zuo Lengchan's congrats),
   this layering causes high density, and reveal motivations under the hood, allowing for re-read.
 
 - Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect.
