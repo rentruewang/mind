@@ -510,13 +510,13 @@ His characters are more 1D / less depth than JY, (more than Gu Long tho), more p
 
 Case study on characters:
 
-- Character mind often jumps from extreme to extreme, no conflict state. E.g. when Jon thinks Tyrion is wise after 2 setences, Jon got convinced by Sam to happily be steward, Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
+- Character mind often jumps from extreme to extreme, no conflict state. E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty), Jon got convinced by Sam to happily be steward, Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
 
 - Or plot device-y (instrumental): E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid. JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting). The clans should perhaps be poor farmers as well, not anti social crazy people.
 
 - Less deep characters / motivations / thinner plots: Characters should be goal driven, not plot driven. E.g. Ned never considered naming Joffery's father (would cause war), even in the throne room when his men all died (this info = last ditch effort, maybe turn tides). Deeper writing: he named it, but others are either cowards or profit driven. Or he try to name it but thought of his daughters. Motivations sometimes change from paragraphs to paragraphs.
 
-Less layered relationships. Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced. E.g. Tyrion and Tywin, is he a teenager?
+Less layered relationships. Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced. E.g. Tyrion and Tywin, is he a teenager? Lacks incicive dialogues.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
