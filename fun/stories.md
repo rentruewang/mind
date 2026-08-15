@@ -390,10 +390,14 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Those details can also make hidden plot lines as they allow more deduction to happen, if they are consistent (his are very consistent).
   He introduces you gently at the start, then progressively all the details match up.
 
-- Characters make "natural" decisions (not stupid / oversimplified ones), driving plots (not the other way around). They are driven by their own unique motivations (not external plots).
+- Characters make "natural" decisions (not stupid / oversimplified ones),
+  driving plots (not the other way around).
+  They are driven by their own unique motivations (not external plots).
   The plots are not really "unpredictable", but there are too many things and options to predict, s.t. it ends up being difficult to predict.
   Lots of fan theories. Realism also comes from being multifaceted (many options).
   The plot reveals the parts that reader and the characters naturally focuses on very smoothly, not always linearly, with interesting and "new" events.
+  Their dialogue is layered (e.g. everything Chen Jinnan said in public (esp in the haunted house) / Zuo Lengchan's congrats),
+  this layering causes high density, and reveal motivations under the hood, allowing for re-read.
 
 - Actions have consequences amplified, making small decisions causing large impact through chain (butterfly) effect.
   With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
