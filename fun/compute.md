@@ -43,8 +43,9 @@ Offense = disrupt opponent (in tech / eco / units), defense = focus on self.
 
 Hot paths in game state tree (game script) spread out vs very focused on specific paths.
 
-Reactive playstyles usually pairs well with flexible playstyle.
+Reactive playstyles usually pairs well with flexible playstyle (aims to reduce opponent power spike, playing for the future, disadvantage now).
 Active playstyles usually are less flexible.
+
 Simply put, if you can maximize your play, yet having many opportunities, your faction might be OP.
 
 ### Map generation
@@ -53,8 +54,8 @@ Randomness in map generation would affect the entire strategy (like in Civ), whe
 
 ### Power spike
 
-Timing attack (sharp) = power spike (you outscale at a time period).
+Timing attack (sharp, strong) = power spike (you outscale at a time period) = stronger than opponent.
 
-Harassment (persistent) = small, persistent advantage, but need to grind to get advantage bigger or get outscaled.
+Harassment (persistent, fast) = small, persistent advantage = momemtum = faster than opponent, but need to grind to get advantage bigger or get outscaled.
 
 If no timing exists, you have to build advantage gradually by harassment.
