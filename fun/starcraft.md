@@ -29,7 +29,7 @@ To look at positions:
 With 2 armies of similar speed and size
 Concave (Zerg, surround) = less scalable units, hate terrain
 Convex (Terran, death ball, spearhead) = more scalable units, use terrain
-Also, cheap = fast, because even if expensive units are fast, they can't defend anywhere at once.
+Also, cheap, numerous = fast, because even if expensive units are fast, they can't defend anywhere at once.
 
 I compare games to the ones I have played, and the difference to explore new positions
 
