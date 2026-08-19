@@ -368,7 +368,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   This is also attention based.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
-  1. Show you real events, but related clues can be scattered over great distances (chapters apart).
+  1. Show you real events, but related clues (connected e.g. contrast, contradict) can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
   3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
   4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on (sampling bias) / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
@@ -608,3 +608,15 @@ https://www.reddit.com/r/writing/comments/pkxhxd/really_though_what_is_literary_
 > A similar nonsense dichotomy exists in music with the awfully named "art music"
 
 BTW, JRR Tolkien never got a Nobel prize either, despite revolutionize the fantasy genre.
+
+### Deux ex machina
+
+This is a property of the reader, unless readers can prove that no reasonable explanation exists.
+
+There are 3 possibilities:
+
+1. Readers don't understand.
+2. The explanation is not apparant.
+3. The explanation does not exist.
+
+2 is the case where there may be different interpretations, and should keep open mind and accept challenges.
