@@ -494,6 +494,7 @@ Less unique characters (especially side line characters).
 Lower info density (more play by play less dramatized) than JY.
 
 Less beilivable character interactions (feel like a teen's novel, with oversimplified dynamics and what people care about).
+
 Less attention to detail to actions / relationships (like the minuate emotion / plan change).
 
 Some chapter-apart reveals but not as much.
