@@ -485,7 +485,7 @@ Multiple POV compared to the 1 main camera JY has.
 
 Likes to front load you with information / back story. A character is tied to its bloodline, whereas in JY is usually not the case (sometimes bloodline discovery is part of the plot).
 
-Has more logical and political motives and transitions, less luck involved.
+Has more logical and (high level) political motives and transitions, less luck involved.
 
 More description about economics and world building.
 
@@ -493,6 +493,7 @@ Less unique characters (especially side line characters).
 
 Lower info density (more play by play less dramatized) than JY.
 
+Less beilivable character interactions (feel like a teen's novel, with oversimplified dynamics and what people care about).
 Less attention to detail to actions / relationships (like the minuate emotion / plan change).
 
 Some chapter-apart reveals but not as much.
