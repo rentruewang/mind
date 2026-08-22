@@ -448,9 +448,9 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
 
 - Dense information (delivery):
-  Transparent narration, his writing is invisible to readers. Readers can't notice the writing, which is focused on events. This is true except in specific flashback chapters.
+  Transparent narration, his writing is invisible to readers. Readers can't notice the writing, which is focused on events. This is true except in specific flashback chapters (closer to info dump, too emotional).
   Achieved by dense, concrete information and no overdoing emotional embellishment / amplification / lamentation, and show, don't tell. Functional words for story, not showing off writing.
-  Being too emotional is naturally against dense information, because strong emotions are simpler (nuanced emotion is where 1 emotion does not dominate), and using many words on emphasizing it is not dense.
+  Being too emotional (lamenting) is naturally against dense information, because strong emotions are simpler (nuanced emotion is where 1 emotion does not dominate), and using many words on emphasizing it is not dense.
 
 - Approachability:
   Balance of narration and commentary / explanation (when necessary).
