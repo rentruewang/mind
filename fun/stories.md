@@ -448,7 +448,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
 
 - Dense information (delivery):
-  Narrative transparancy, his writing is invisible to readers and readers don't notice the writing and focus on events (except in specific chapters).
+  Narrative transparancy, his writing is invisible to readers and readers don't notice the writing and focus on events (except in specific flashback chapters).
   Achieved by dense, concrete information and no overdoing emotional embellishment / amplification / lamentation, and show, don't tell. Functional words for story, not showing off writing.
   Being too emotional is naturally against dense information, because strong emotions are simple, and using many words on emphasizing it is not dense.
 
