@@ -349,7 +349,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
   Complicated enough that you can explain in the ways you prefer.
 
-- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue) show the characters' personality / reactions, and changes in emotional states.
+- Subtlety. Subtlety in character actions, responses to events, internal conflicts / motivations, and thought processes (monologue / free indirect discourse) show the characters' personality / reactions, and changes in emotional states.
   Lots of attention to details.
   Lots of foreshadowing and clues (still natural, only you'll connect the dots during second read after knowing characters' intentions).
   Lots of things happening simultaneously.
@@ -432,7 +432,12 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Good at writing objects; His writing is scenic / stage like, it's easy to picture;
   direct readers attentions into his best aspects of writing, using approachable words to describes things like music, chess, art etc, to show a varied and diverse world while keeping them feeling real.
 
-- Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate. **Realism**, gets you _emotionally invested_, but each plot thread maintains their own integrity (non messy, easy to follow). **Immersion** (uses character view s.t. it doesn't feel linear). Use some events at the start to get you curious, and keep the story going with a thread. Using _meaningful_ events (danger / conflict that affects the MC) to get you hooked. Knows how you think, making it as if you are living out the fantasy.
+- Resonate with readers: Characters, plot lines, world building are realistic, making it easy to resonate.
+  **Realism**, gets you _emotionally invested_, but each plot thread maintains their own integrity (non messy, easy to follow).
+  **Immersion** (uses character view s.t. it doesn't feel linear).
+  Use some events at the start to get you curious, and keep the story going with a thread.
+  Using _meaningful_ events (danger / conflict that affects the MC) to get you hooked.
+  Knows how you think, making it as if you are living out the fantasy.
 
 - Good pacing / delivery.
   Uses **varied** techniques / angles / describe different things to avoid repeating (in words) himself to avoid tiring the readers (good distribution of demanding (main) and light (sub) sentences / paragraphs).
@@ -441,6 +446,12 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   Compress info s.t. fewest words have the largest impact.
   Filter out useless information (s.t. emphasis is not lost).
   Does trim down on unnecessary information making density high (this was not present in his earliest works), which makes the pacing quicker (not verbose). The dialogue / actions of characters all move the plot forward.
+
+- Dense information (delivery):
+  Transparent narration, his writing is invisible to readers. Readers can't notice the writing, which is focused on events. This is true except in specific flashback chapters (closer to info dump, too emotional).
+  Achieved by dense, concrete information and no overdoing emotional embellishment / amplification / lamentation, and show, don't tell. Functional words for story, not showing off writing.
+  Being too emotional (lamenting, non concrete) is naturally against dense information, because strong emotions are simpler (nuanced emotion is where 1 emotion does not dominate), and using many words on emphasizing it is not dense.
+  Lamenting = too many thoughts out of too little concrete events, mostly from authors not from characters.
 
 - Approachability:
   Balance of narration and commentary / explanation (when necessary).
