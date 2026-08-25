@@ -527,7 +527,8 @@ Case study on characters:
   Sometimes character act for global info.
   E.g. Stannis narrating his jealousy. Arya / Yoren relationship and dialogue.
 
-- Less deep characters / motivations / thinner plots: Characters should be goal driven, not plot driven.
+- Less deep characters / motivations / thinner plots:
+  Characters should be goal driven, not plot driven.
   E.g. Ned never considered naming Joffery's father (would cause war),
   even in the throne room when his men all died (this info = last ditch effort, maybe turn tides).
   Deeper writing: he named it, but others are either cowards or profit driven.
