@@ -526,8 +526,8 @@ Case study on characters:
 - Global info.
   Sometimes character act for global info, not from their place from their experience.
   This is another form of plot device, but makes the dialogue not really believable
-  E.g. Stannis narrating his jealousy.
-  Yoren is bitter, and that he chats with Arya.
+  E.g. Stannis narrating his jealousy (sharing info with someone already knowing).
+  Yoren is bitter, and that he chats with Arya (not being used to his role after 33 yrs).
 
 - Less deep characters / motivations / thinner plots:
   Characters should be goal driven, not plot driven.
