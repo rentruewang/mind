@@ -512,7 +512,11 @@ His characters are more 1D / less depth than JY, (more than Gu Long tho), more p
 
 Case study on characters:
 
-- Character mind often jumps from extreme to extreme, no conflict state. E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty), Jon got convinced by Sam to happily be steward, Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry. Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
+- Character mind often jumps from extreme to extreme, no conflict state.
+  E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
+  Jon got convinced by Sam to happily be steward,
+  Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
+  Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
 
 - Or plot device-y (instrumental):
   E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid.
@@ -535,9 +539,11 @@ Case study on characters:
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
-Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart. In that case it's very much like Gu Long. E.g. littlefinger, imp.
+Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart.
+In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
-More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
+More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
+JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
