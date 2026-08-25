@@ -27,6 +27,13 @@ e.g. "You're early"
 -> Situation: late
 -> No
 
+> Backhanded compliment: Appears to be compliment but is opposite.
+
+e.g. In an argument I say: "You're good at debating"
+-> good at using words to convince
+-> regardless of being right or wrong
+-> you are in the wrong
+
 ### Sarcasm
 
 Sarcasm: indirect + negative intent
