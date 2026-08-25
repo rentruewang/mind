@@ -524,8 +524,10 @@ Case study on characters:
   The clans should perhaps be poor farmers as well, not anti social crazy people.
 
 - Global info.
-  Sometimes character act for global info.
-  E.g. Stannis narrating his jealousy. Arya / Yoren relationship and dialogue.
+  Sometimes character act for global info, not from their place from their experience.
+  This is another form of plot device, but makes the dialogue not really believable
+  E.g. Stannis narrating his jealousy.
+  Yoren is bitter, and that he chats with Arya.
 
 - Less deep characters / motivations / thinner plots:
   Characters should be goal driven, not plot driven.
