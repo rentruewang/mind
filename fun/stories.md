@@ -523,6 +523,10 @@ Case study on characters:
   JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
   The clans should perhaps be poor farmers as well, not anti social crazy people.
 
+- Global info.
+  Sometimes character act for global info.
+  E.g. Stannis narrating his jealousy. Arya / Yoren relationship and dialogue.
+
 - Less deep characters / motivations / thinner plots: Characters should be goal driven, not plot driven.
   E.g. Ned never considered naming Joffery's father (would cause war),
   even in the throne room when his men all died (this info = last ditch effort, maybe turn tides).
