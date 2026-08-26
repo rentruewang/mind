@@ -549,7 +549,7 @@ Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is str
 Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart.
 In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
-More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
+More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already, interacting too much with POV than normal).
 JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
