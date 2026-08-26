@@ -277,7 +277,7 @@ Should not be a plot device (plot would have to be good despite each character m
 
 Plot device usually stems from flat characters, that characters make a decision that is oversimplified and feels convenient.
 
-They serve the plot's / main character's need rather than themselve. Or, conflict for the sake of conflict (still serving the plot's needs).
+They serve the plot's / main character's need rather than themselves (world spinning around MC). Or, conflict for the sake of conflict (still serving the plot's needs).
 
 Or changing the minds of characters when it suits them (character behaves inconsistently or not using all of their tools). This still falls under over-simplification.
 
@@ -364,8 +364,10 @@ This is overdone a lot, and unless what they are telling is so "different" and "
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
   These allows small twists (= surprise reveal) and plot to be made and keep them engaged.
   Coupled with different characters having different tendencies (angles), this makes it very memorable.
-  Sometimes surprise = same event + different angle = different (new) conclusion = reveal. On small transient things tho or else it's different idealogies.
+  Sometimes surprise = same event + different angle = different (new) conclusion = reveal.
+  On small transient things tho or else it's different idealogies.
   This is also attention based.
+  E.g. Xu Zhu dining in the restaurant.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues (connected e.g. contrast, contradict) can be scattered over great distances (chapters apart).

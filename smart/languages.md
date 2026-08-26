@@ -15,6 +15,8 @@ Now, it doesn't sound rude if you also bring yourself down ("who doesn't like mo
 
 Irony: indirect + contradiction
 
+Contradiction = Search from the "words" in question, then run into contradiction, then this means the "words" are wrong.
+
 Per incongruity theory:
 
 > Rediculous: inconsistent (incongruity theory) + stupid.
@@ -27,25 +29,28 @@ e.g. "You're early"
 -> Situation: late
 -> No
 
+#### Derivative of irony
+
+##### Sarcasm: irony + funny
+
+Since funny = non threatening, this does limited damage.
+
+e.g. "I would explain this to you, but I don't have enough crayons."
+-> you are not smarter than a child
+-> you are stupid
+-> you cannot understand
+
+##### Passive aggressive: irony + negative intent
+
 > Backhanded compliment: Appears to be compliment but is opposite (is insult).
 
 e.g. In an argument I say: "You're good at debating"
 -> good at using words to convince
 -> independent of being right or wrong
 -> you are in the wrong (context: I'm right)
--> not a compliment under the context
 
 e.g. what Zuo LengChan said to Ling Huchon
 -> not a compliment under the context
-
-### Sarcasm
-
-Sarcasm: indirect + negative intent
-
-e.g. "I would explain this to you, but I don't have enough crayons."
--> you are not smarter than a child
--> you are stupid
--> you cannot understand
 
 ## Lying
 
