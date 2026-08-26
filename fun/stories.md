@@ -506,7 +506,7 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 Worse pacing (especially in "down time").
 
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
-Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events etc).
+Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, etc).
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
@@ -549,7 +549,7 @@ Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is str
 Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart.
 In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
-More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already, the world spinning around POV).
+More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
 JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
