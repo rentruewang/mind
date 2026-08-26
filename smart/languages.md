@@ -38,7 +38,6 @@ e.g. "I would explain this to you, but I don't have enough crayons."
 
 > Backhanded compliment: Appears to be compliment but is opposite (is insult).
 
-
 e.g. In an argument I say: "You're good at debating"
 -> good at using words to convince
 -> independent of being right or wrong
