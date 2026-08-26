@@ -27,17 +27,6 @@ e.g. "You're early"
 -> Situation: late
 -> No
 
-> Backhanded compliment: Appears to be compliment but is opposite (is insult).
-
-e.g. In an argument I say: "You're good at debating"
--> good at using words to convince
--> independent of being right or wrong
--> you are in the wrong (context: I'm right)
--> not a compliment under the context
-
-e.g. what Zuo LengChan said to Ling Huchon
--> not a compliment under the context
-
 ### Sarcasm
 
 Sarcasm: indirect + negative intent
@@ -46,6 +35,17 @@ e.g. "I would explain this to you, but I don't have enough crayons."
 -> you are not smarter than a child
 -> you are stupid
 -> you cannot understand
+
+> Backhanded compliment: Appears to be compliment but is opposite (is insult).
+
+
+e.g. In an argument I say: "You're good at debating"
+-> good at using words to convince
+-> independent of being right or wrong
+-> you are in the wrong (context: I'm right)
+
+e.g. what Zuo LengChan said to Ling Huchon
+-> not a compliment under the context
 
 ## Lying
 
