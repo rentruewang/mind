@@ -506,7 +506,7 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 Worse pacing (especially in "down time").
 
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
-Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, etc).
+Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, serving POV needs rather than their own interests, etc).
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
