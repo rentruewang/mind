@@ -48,3 +48,12 @@ This means that the high level decision making would be simple, as the high leve
 Why does the world model work in this case, but not in a lot of hierarchical RL agents? Simply put, because it is **not trained end to end, it changes very slowly**. Not to mention, as the agents are smaller, they are more oblivious to change. **This means that the world models themselves do not cause destructive updates**, and thus eliminate a lot of issues found in HRL in the field.
 
 Other examples: 90% of an octopus's neurons are in its legs, yet it has very intelligent behavior. An ant hive can also be thought of as intelligent, even though individually ants are rather stupid.
+
+## Wit / widsom
+
+Wit = tactics, compute heavy, short simulation, short term memory at most, more shallow, less context and transient decision.
+Sarcasm requires wit because it needs indirection, which requires compute.
+
+Wisdom = strategy, memory heavy, long simulation (big divergence on planning tree), long term, deep thoughts, more context and multi-objective decision
+
+Short term memory in brain is transient and is tied to compute (like local variable)
