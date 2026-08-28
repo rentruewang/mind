@@ -52,6 +52,8 @@ Other examples: 90% of an octopus's neurons are in its legs, yet it has very int
 ## Wit / widsom
 
 Wit = tactics, compute heavy, short simulation, short term memory at most
+Sarcasm requires wit because it needs indirection, which requires compute.
+
 Wisdom = strategy, memory heavy, long simulation (big divergence on planning tree), long term
 
 Short term memory in brain is transient and is tied to compute (like local variable)
