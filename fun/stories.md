@@ -510,7 +510,7 @@ Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move p
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
-Case study on characters:
+Case study on aspects:
 
 - Character mind often jumps from extreme to extreme, no conflict state.
   E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
@@ -539,15 +539,30 @@ Case study on characters:
 
 - Less layered relationships / decisions.
   Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced.
-  E.g. Tyrion and Tywin, is he a teenager? Also lacks political smarts for a political character.
-  Lacks incicive dialogues.
+  Lacks sharp / incicive dialogues, lots of pretense and threatening non important things like teenagers do.
   Politics feels like child pay and oversimplified with everyone announcing the intentions,
-  and no tact in interactions, relying much on honor, and making decisions based on emotions / _surface level_ reasons and logic.
+  and no tact in interactions, relying much on honor,
+  and making decisions based on emotions / _surface level_ reasons and logic.
+
+- Headstrong and unlikable characters
+  - Tyrion: Supposedly one of the smart ones, but is only witty with no vision / EQ.
+    Seriously, is this guy supposed to be a good politician?
+    His sarcasm is often times just that without deeper meaning or incision.
+    E.g. Quarrel with Tywin like a teenager
+    E.g. Striking Joffery in public and not controlling anger.
+    E.g. Insulting Ser Allison. I thought he is a friend of Mormont, who sent him?
+    E.g. Seizing Tommon and sacking GM Pyrell. What do those accomplish, showing his prowess?
+  - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
+
+- Some better ones like Theon
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
 Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart.
 In that case it's very much like Gu Long. E.g. littlefinger, imp.
+
+A couple of characters like to "talk back" in their mind, which IMO is not serving any purpose.
+A reader can already deduct those "talk back"s without those being explicit. I classify those as "lament".
 
 More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
 JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
