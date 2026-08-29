@@ -544,7 +544,7 @@ Case study on aspects:
   and no tact in interactions, relying much on honor,
   and making decisions based on emotions / _surface level_ reasons and logic.
 
-- Headstrong and unlikable characters
+- Headstrong and unlikable characters (and somehow they live the longest)
   - Tyrion: Supposedly one of the smart ones, but is only witty with no vision / EQ.
     Seriously, is this guy supposed to be a good politician?
     His sarcasm is often times just that without deeper meaning or incision.
@@ -553,8 +553,7 @@ Case study on aspects:
     E.g. Insulting Ser Allison. I thought he is a friend of Mormont, who sent him?
     E.g. Seizing Tommon and sacking GM Pyrell. What do those accomplish, showing his prowess?
   - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
-
-- Some better ones like Theon
+  - Jon: The wall arc in general is the world spinning around Jon and it's annoying.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
