@@ -552,6 +552,7 @@ Case study on aspects:
     E.g. Striking Joffery in public and not controlling anger.
     E.g. Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
     E.g. Seizing Tommon and sacking GM Pyrell. A better way would be to feed GM wrong info?
+    E.g. Threatening and insulting every one, political circle or not.
   - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
   - Jon: The wall arc in general is the world spinning around Jon and it's annoying.
 
