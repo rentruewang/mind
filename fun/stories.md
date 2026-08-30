@@ -544,7 +544,7 @@ Case study on aspects:
   and no tact in interactions, relying much on honor,
   and making decisions based on emotions / _surface level_ reasons and logic.
 
-- Headstrong and unlikable characters (and somehow they live the longest)
+- Certain characters with no tact nor social skills get rewarded
   - Tyrion: Supposedly one of the smart ones, but is only witty with no vision / EQ.
     Seriously, is this guy supposed to be a good politician?
     His sarcasm is often times just that without deeper meaning or incision.
