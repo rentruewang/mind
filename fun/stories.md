@@ -56,6 +56,7 @@ Emphasis: techniques like contrasting, projection of mental state to environment
 Pacing:
 Using various techniques, different angles / events to describe the same thing,
 surprise the readers, while keeping the reader attention (by not being too predictable).
+Telling things readers already can hurt pacing, but if done well, can have good emotion resonance / embellishment.
 
 Attention:
 Enumerating concrete instances to defining behaviors abstractly
@@ -324,9 +325,10 @@ When all is laid out, it becomes boring and robotic.
 Immersion, realistic writing: long, complex scenes that resonate with readers
 
 Telling includes "meta" characters, where characters discuss events to let readers know.
-
 This is overdone a lot, and unless what they are telling is so "different" and "creative"
 (different from the norm of real life), it can and will be boring.
+
+**Style over substance** (more techniques than material, opaque narration) is a form of tell don't show: story is obstructed by the words. Same as criticism to Liszt composition: You notice the techniques before the notes; too much techniques, not always beautiful.
 
 ## Examples
 
