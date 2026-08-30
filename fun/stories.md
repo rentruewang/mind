@@ -468,46 +468,6 @@ This list is in the ranking of greatness IMO.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
 
-###### Sherlock Holmes
-
-- Good character building. Stories may be a little predictable due to being a classic.
-
-###### Gu Long
-
-- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
-
-- Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
-
-- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
-
-- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
-
-###### JOJO
-
-- Very bizzare.
-
-- Very creative. Sometimes quite random. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts), and wide options (many possibilities).
-
-- Good characters through showing how they interact with their world.
-
-- Strong exaggeration, very extreme, and honestly a little crazy. Crazy in terms of character intentions and actions and possibilities.
-
-- Good atmosphere building, mood swings. Good cathartic moments. Appeals to emotion well.
-
-- Histrionic characters by being self centered ("I told you so" / "You are nothing to me" kind), and being proud / arrogant.
-
-- Theatrical characters / dialogue / reactions / plot / scenarios. Crazy memorable characters.
-
-- Humorous at the right parts while keeping you stunned.
-
-- Sometimes have the flaw of characters having information of God, but it helps making the pace fast (and s.t. we can see more of Araki's creativity by seeing more events / sequences of moves in fights).
-
-- Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
-
-###### Attack on Titan 1-3
-
-- Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
-
 ###### ASOIAF
 
 _Most of the points are in comparison to Jin Yong_
@@ -574,6 +534,46 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
+###### JOJO
+
+- Very bizzare.
+
+- Very creative. Sometimes quite random. Maybe too creative (mainly in fighting). Crazy in terms of long simulation (exploring deep into concepts), and wide options (many possibilities).
+
+- Good characters through showing how they interact with their world.
+
+- Strong exaggeration, very extreme, and honestly a little crazy. Crazy in terms of character intentions and actions and possibilities.
+
+- Good atmosphere building, mood swings. Good cathartic moments. Appeals to emotion well.
+
+- Histrionic characters by being self centered ("I told you so" / "You are nothing to me" kind), and being proud / arrogant.
+
+- Theatrical characters / dialogue / reactions / plot / scenarios. Crazy memorable characters.
+
+- Humorous at the right parts while keeping you stunned.
+
+- Sometimes have the flaw of characters having information of God, but it helps making the pace fast (and s.t. we can see more of Araki's creativity by seeing more events / sequences of moves in fights).
+
+- Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
+
+###### Gu Long
+
+- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
+
+- Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+
+- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
+
+- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
+
+###### Sherlock Holmes
+
+- Good character building. Stories may be a little predictable due to being a classic.
+
+###### Attack on Titan 1-3
+
+- Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
 ###### Memento
 
 Linear, modular story, single threaded (in chronological order).
@@ -592,6 +592,8 @@ Since that twist introduces all the other problems in the story, doing this expl
 - Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
 
 - Often times like to be funny by throwing logic out of the window.
+
+- Predictable due to formlaic. 
 
 ### Literary fictions
 
