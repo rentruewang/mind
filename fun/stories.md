@@ -567,6 +567,7 @@ In that case it's very much like Gu Long. E.g. littlefinger, imp.
 A couple of characters like to "mutter" their "rhetorical, philosophical question" (talk back / lament), which IMO is not serving any purpose.
 Those info readers already know, so they only serve to amplify the emotions, overdoing such hurts immersion and pacing.
 Worst offender:
+
 - Imp likes to talk back, but not to others faces.
 - Catelyn likes to ponder on the smallest thing. IMO this is GRRM running out of material to write, and herhaps should scrap those chapters and distribute to other chapters (like other mentions "Lady Stark did abc").
 
