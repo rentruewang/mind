@@ -328,7 +328,7 @@ Telling includes "meta" characters, where characters discuss events to let reade
 This is overdone a lot, and unless what they are telling is so "different" and "creative"
 (different from the norm of real life), it can and will be boring.
 
-**Style over substance** is a form of this: story is obstructed by the words. This happens mostly in emotional embellishment / portrayal where little material is extrapolated into too many words, by means of techniques.
+**Style over substance** (more techniques than material) is a form of tell don't show: story is obstructed by the words. This happens mostly in emotional embellishment / portrayal where little material is extrapolated into too many words, by means of techniques.
 
 ## Examples
 
