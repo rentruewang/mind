@@ -481,6 +481,8 @@ This list is in the ranking of greatness IMO.
 
 _Most of the points are in comparison to Jin Yong_
 
+Great fantasy world building and setting, obviously.
+
 Multiple POV compared to the 1 main camera JY has.
 
 Likes to front load you with information / back story. A character is tied to its bloodline, whereas in JY is usually not the case (sometimes bloodline discovery is part of the plot).
