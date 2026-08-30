@@ -58,11 +58,11 @@ Good delivery has good emphasis and is less tiring to read. Shows, don't tell.
 Using various techniques, different angles / events to describe the same thing,
 surprise the readers, while keeping the reader attention (by not being too predictable).
 
-Coupled with **info density**. Overly high then overwhelming, not high enough then boring.
+Coupled with **info density**. Overly high: overwhelming, not high enough: boring.
 A good writer can keep it high, but only when readers dig deep (my god **Jin Yong** of course),
 so each level of understanding has an managable but good info, but gets uncovered when you dig deeper.
 
-Telling things readers already know can hurt pacing, but if done well and not over, can have good emotion resonance / embellishment.
+Telling things readers already know can hurt pacing, but if done well and not over, can have good emotion resonance / embellishment (emotion is a form of info).
 
 **Attention**:
 
