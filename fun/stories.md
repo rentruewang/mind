@@ -561,8 +561,9 @@ Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is str
 Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart.
 In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
-A couple of characters like to "talk back" / "lament" in their mind, which IMO is not serving any purpose.
-A reader can already deduct those "talk back"s without those being explicit. Worst offender: Imp, Catelyn.
+A couple of characters like to "mutter" their (talk back / lament), which IMO is not serving any purpose.
+Those info readers already know, so they only serve to amplify the emotions, overdoing such hurts immersion.
+Worst offender: Imp, Catelyn.
 
 More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
 JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
