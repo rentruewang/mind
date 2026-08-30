@@ -548,11 +548,12 @@ Case study on aspects:
   - Tyrion: Supposedly one of the smart ones, but is only witty with no vision / EQ.
     Seriously, is this guy supposed to be a good politician?
     His sarcasm is often times just that without deeper meaning or incision.
-    E.g. Quarrel with Tywin like a teenager
-    E.g. Striking Joffery in public and not controlling anger.
-    E.g. Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
-    E.g. Seizing Tommon and sacking GM Pyrell. A better way would be to feed GM wrong info?
-    E.g. Threatening and insulting every one, political circle or not.
+    - Quarrel with Tywin like a teenager
+    - Striking Joffery in public and not controlling anger.
+    - Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
+    - Sacking GM Pyrell. A better way would be to feed GM wrong info?
+    - Seizing Tommen. What does this even do? Showing off?
+    - Threatening and insulting every one, political circle or not.
   - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
   - Jon: The wall arc in general is the world spinning around Jon and it's annoying.
 
