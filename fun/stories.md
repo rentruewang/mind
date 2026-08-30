@@ -332,6 +332,8 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 #### most of these I consumed more than 1 times or having consumed the entire collection.
 
+This list is in the ranking of greatness IMO.
+
 ###### Jin Yong (**God**)
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building),
