@@ -562,8 +562,8 @@ Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a charac
 In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
 A couple of characters like to "mutter" their (talk back / lament), which IMO is not serving any purpose.
-Those info readers already know, so they only serve to amplify the emotions, overdoing such hurts immersion.
-Worst offender: Imp, Catelyn.
+Those info readers already know, so they only serve to amplify the emotions, overdoing such hurts immersion and pacing.
+Worst offender: Imp (talk back), Catelyn (pondering and lamenting).
 
 More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
 JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
