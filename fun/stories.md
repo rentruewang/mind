@@ -569,7 +569,7 @@ Those info readers already know, so they only serve to amplify the emotions, ove
 Worst offender:
 
 - Imp likes to talk back, but not to others faces.
-- Catelyn likes to ponder on the smallest thing. IMO this is GRRM running out of material to write, and herhaps should scrap those chapters and distribute to other chapters (like other mentions "Lady Stark did abc").
+- Catelyn likes to ponder on the smallest thing in certain chapters. IMO this is GRRM running out of material to write, and herhaps should scrap those chapters and distribute to other chapters (like other mentions "Lady Stark did abc").
 
 More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
 JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
