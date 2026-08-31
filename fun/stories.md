@@ -537,7 +537,7 @@ Case study on aspects:
   even in the throne room when his men all died (this info = last ditch effort, maybe turn tides).
   Deeper writing: he named it, but others are either cowards or profit driven.
   Or he try to name it but thought of his daughters.
-  Motivations sometimes change from paragraphs to paragraphs.
+  Motivations are not consistently written, or change too quickly.
 
 - Less layered relationships / decisions.
   Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced.
