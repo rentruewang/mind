@@ -646,7 +646,7 @@ Suitable for skimping not deep analysis. Light cognitive load.
 
 - Often times like to be funny by throwing logic out of the window.
 
-- Predictable due to formlaic.
+- Predictable due to formulaic.
 
 These are not to say they are bad, but they are a form of story where you won't find nuance.
 
