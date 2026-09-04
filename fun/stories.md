@@ -343,7 +343,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 This list is in the ranking of greatness IMO.
 
-###### Jin Yong (**God**)
+##### Jin Yong (**God**)
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building),
   _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling.
@@ -477,21 +477,25 @@ This list is in the ranking of greatness IMO.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
 
-###### ASOIAF
+##### ASOIAF
 
 _Most of the points are in comparison to Jin Yong_
+
+Great fantasy world building and setting, obviously.
 
 Multiple POV compared to the 1 main camera JY has.
 
 Likes to front load you with information / back story. A character is tied to its bloodline, whereas in JY is usually not the case (sometimes bloodline discovery is part of the plot).
 
-Has more logical and political motives and transitions, less luck involved.
+Has more logical and (high level) political incentives, less luck involved.
 
 More description about economics and world building.
 
 Less unique characters (especially side line characters).
 
 Lower info density (more play by play less dramatized) than JY.
+
+Less beilivable character interactions (feel like a teen's novel, with oversimplified dynamics, actions / dialogue, social nuance, and what people care about).
 
 Less attention to detail to actions / relationships (like the minuate emotion / plan change).
 
@@ -504,23 +508,71 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 Worse pacing (especially in "down time").
 
 Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
-Sometimes they are too "plot-device"-y.
+Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, serving POV needs rather than their own stances, etc).
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
-Case study on characters:
+Case study on aspects:
 
-- Character mind often jumps from extreme to extreme, no conflict state. E.g. when Jon thinks Tyrion is wise after 2 setences, Jon got convinced by Sam to happily be steward, Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
+- Character mind often jumps from extreme to extreme, no conflict state.
+  E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
+  Jon got convinced by Sam to happily be steward,
+  Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
+  Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
 
-- Or plot device-y (instrumental): E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid. JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting). The clans should perhaps be poor farmers as well, not anti social crazy people.
+- Or plot device-y (instrumental):
+  E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid.
+  JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
+  The clans should perhaps be poor farmers as well, not anti social crazy people.
 
-- Less deep characters / motivations / thinner plots: Characters should be goal driven, not plot driven. E.g. Ned never considered naming Joffery's father (would cause war), even in the throne room when his men all died (this info = last ditch effort, maybe turn tides). Deeper writing: he named it, but others are either cowards or profit driven. Or he try to name it but thought of his daughters. Motivations sometimes change from paragraphs to paragraphs.
+- Global info.
+  Sometimes character act for global info, not from their place from their experience.
+  This is another form of plot device, but makes the dialogue not really believable
+  E.g. Stannis narrating his jealousy (sharing info with someone who already knows).
+  Yoren is bitter, and that he chats with Arya (not being used to his role after 33 yrs).
+
+- Less deep characters / motivations / thinner plots:
+  Characters should be goal driven, not plot driven.
+  E.g. Ned never considered naming Joffery's father (would cause war),
+  even in the throne room when his men all died (this info = last ditch effort, maybe turn tides).
+  Deeper writing: he named it, but others are either cowards or profit driven.
+  Or he try to name it but thought of his daughters.
+  Motivations are not consistently written, or change too quickly.
+
+- Less layered relationships / decisions.
+  Usually either friend and foes, and therefore dialogues are binary, you can find the motivations behind the dialogues less nuanced.
+  Lacks sharp / incicive dialogues, lots of pretense and threatening non important things like teenagers do.
+  Politics feels like child pay and oversimplified with everyone announcing the intentions,
+  and no tact in interactions, relying much on honor,
+  and making decisions based on emotions / _surface level_ reasons and logic.
+
+- Certain characters with no tact nor social skills get rewarded
+  - Tyrion: Supposedly one of the smart ones, but is only witty with no vision / EQ.
+    Seriously, is this guy supposed to be a good politician?
+    His sarcasm is often times just that without deeper meaning or incision.
+    - Quarrel with Tywin like a teenager
+    - Striking Joffery in public and not controlling anger.
+    - Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
+    - Sacking GM Pyrell. A better way would be to feed GM wrong info?
+    - Seizing Tommen. What does this even do? Showing off?
+    - Threatening and insulting every one, political circle or not.
+  - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
+  - Jon: The wall arc in general is the world spinning around Jon and it's annoying.
 
 Less subtle, less refined in plot twist anchor (e.g. the blade, "the seed is strong"), not spread out or smooth (the anchoring is weaker and more abrupt as it relies on smaller number of transition, more fragile, less linked).
 
-Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart. In that case it's very much like Gu Long. E.g. littlefinger, imp.
+Likes to use edgy dialogue / sarcasm / philosophical debate to portrait a character as smart.
+In that case it's very much like Gu Long. E.g. littlefinger, imp.
 
-More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already). JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
+A couple of characters like to "mutter" their "rhetorical, philosophical question" (talk back / lament), which IMO is not serving any purpose.
+Those info readers already know, so they only serve to amplify the emotions, overdoing such hurts immersion and pacing.
+Worst offender:
+
+- Imp likes to talk back, but not to others faces.
+- Catelyn likes to ponder on the smallest thing in certain chapters. IMO this is GRRM running out of material to write, and herhaps should scrap those chapters and distribute to other chapters (like other mentions "Lady Stark did abc").
+
+More info dump type (biography) plot device (especially back story, e.g. when littlefinger is first mentioned, Catelyn is telling Ser Rodrick who knows the back story already).
+JY would not make this mistake as he usually shows events / interact with the new character and then when needed reveal info / drop the back story.
 
 More reliable narration compared to JY (his _neutral_ narration is always right).
 
@@ -543,7 +595,7 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
-###### JOJO
+##### JOJO
 
 - Very bizzare.
 
@@ -565,7 +617,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
-###### Gu Long
+##### Gu Long
 
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
 
@@ -575,34 +627,36 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
 
-###### Sherlock Holmes
+##### Sherlock Holmes
 
-- Good character building. Stories may be a little predictable due to being a classic.
+- Good character building.
 
-###### Attack on Titan 1-3
+- Very good at suspense / mystery.
 
-- Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+- Stories may be a little predictable due to being a classic.
 
-###### Memento
-
-Linear, modular story, single threaded (in chronological order).
-Characters are secondary, serving the plots.
-
-But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
-Structurally some twists are non-twists if in chrnological order.
-
-Structured in a way to put the big twist at the end.
-Since that twist introduces all the other problems in the story, doing this explains the story.
-
-###### Web / light novels
+##### Movies / short stories / web, light, kids, teen novels
 
 - Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
 
 - Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
 
+- Very straightforward and there is no ambiguity to the character's action (1D + plot-devicey).
+Suitable for skimping not deep analysis. Light cognitive load.
+
 - Often times like to be funny by throwing logic out of the window.
 
-- Predictable due to formlaic.
+- Predictable due to formulaic.
+
+These are not to say they are bad, but they are a form of story where you won't find nuance.
+
+###### Examples:
+
+- Percy Jackson: I read it like 5 times, very relaxing.
+
+- Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
+- Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
 
 ### Literary fictions
 
