@@ -639,6 +639,10 @@ Tells more than JY (JY is more camera / stage play like):
 
 - No unique characters: Characters all respond the same way and there is little difference in terms of personality.
 
+- Always global info for the characters.
+
+- Always surface level motivation because there is no 2nd layer.
+
 - Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
 
 - Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.

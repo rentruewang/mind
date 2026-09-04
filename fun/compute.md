@@ -39,6 +39,8 @@ This is in terms of unit tho, you can be aggressive on e.g. eco / tech.
 
 Offense = disrupt opponent (in tech / eco / units), defense = focus on self.
 
+Active = execution, reactive = adaptation
+
 ### Flexible vs Non-Flexible playstyle
 
 Hot paths in game state tree (game script) spread out vs very focused on specific paths.
