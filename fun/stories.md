@@ -51,14 +51,21 @@ Adjust and select important events to present in ways natural to humans (pacing 
 The way words are fed to the reader, is a form of communication (good = clear).
 Good delivery has good emphasis and is less tiring to read. Shows, don't tell.
 
-Emphasis: techniques like contrasting, projection of mental state to environment.
+**Emphasis**: techniques like contrasting, projection of mental state to environment.
 
-Pacing:
+**Pacing**:
+
 Using various techniques, different angles / events to describe the same thing,
 surprise the readers, while keeping the reader attention (by not being too predictable).
-Telling things readers already can hurt pacing, but if done well, can have good emotion resonance / embellishment.
 
-Attention:
+Tightly related to **info density**. Overly high: overwhelming / annoying, not high enough: boring / predictable.
+A good writer can keep it high, but only when readers dig deep (my god **Jin Yong** of course),
+so each level of understanding has an managable but good info, but gets uncovered when you dig deeper.
+
+Telling things readers already know can hurt pacing, but if done well and not over, can have good emotion resonance / embellishment (emotion is a form of info).
+
+**Attention**:
+
 Enumerating concrete instances to defining behaviors abstractly
 (e.g. describe in detail about the first few people passing by,
 and then said there are several groups passing by, which is how the brain works).
@@ -595,7 +602,7 @@ Since that twist introduces all the other problems in the story, doing this expl
 
 - Often times like to be funny by throwing logic out of the window.
 
-- Predictable due to formlaic. 
+- Predictable due to formlaic.
 
 ### Literary fictions
 
