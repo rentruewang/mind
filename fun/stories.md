@@ -646,15 +646,21 @@ Structurally some twists are non-twists if in chrnological order.
 Structured in a way to put the big twist at the end.
 Since that twist introduces all the other problems in the story, doing this explains the story.
 
-###### Web / light novels
+###### Web / light / kids / teen novels
 
 - Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
 
 - Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
 
+- Very straightforward and there is no ambiguity to the character's action (1D + plot-devicey).
+Suitable for skimping not deep analysis. Light cognitive load.
+
 - Often times like to be funny by throwing logic out of the window.
 
 - Predictable due to formlaic.
+
+These are not to say they are bad, but they are a form of story where you won't find nuance.
+E.g. Percy Jackson I read it like 5 times, very relaxing.
 
 ### Literary fictions
 
