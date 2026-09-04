@@ -343,7 +343,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 This list is in the ranking of greatness IMO.
 
-###### Jin Yong (**God**)
+##### Jin Yong (**God**)
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building),
   _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling.
@@ -477,7 +477,7 @@ This list is in the ranking of greatness IMO.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
 
-###### ASOIAF
+##### ASOIAF
 
 _Most of the points are in comparison to Jin Yong_
 
@@ -595,7 +595,7 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
-###### JOJO
+##### JOJO
 
 - Very bizzare.
 
@@ -617,7 +617,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
-###### Gu Long
+##### Gu Long
 
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
 
@@ -627,26 +627,15 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
 
-###### Sherlock Holmes
+##### Sherlock Holmes
 
-- Good character building. Stories may be a little predictable due to being a classic.
+- Good character building.
 
-###### Attack on Titan 1-3
+- Very good at suspense / mystery.
 
-- Good architecture. Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+- Stories may be a little predictable due to being a classic.
 
-###### Memento
-
-Linear, modular story, single threaded (in chronological order).
-Characters are secondary, serving the plots.
-
-But, watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
-Structurally some twists are non-twists if in chrnological order.
-
-Structured in a way to put the big twist at the end.
-Since that twist introduces all the other problems in the story, doing this explains the story.
-
-###### Web / light / kids / teen novels
+##### Movies / short stories / web, light, kids, teen novels
 
 - Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
 
@@ -660,7 +649,14 @@ Suitable for skimping not deep analysis. Light cognitive load.
 - Predictable due to formlaic.
 
 These are not to say they are bad, but they are a form of story where you won't find nuance.
-E.g. Percy Jackson I read it like 5 times, very relaxing.
+
+###### Examples:
+
+- Percy Jackson: I read it like 5 times, very relaxing.
+
+- Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
+
+- Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
 
 ### Literary fictions
 
