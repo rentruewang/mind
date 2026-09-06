@@ -346,7 +346,7 @@ Show -> tell: deduce
 
 Infer is cheaper than deduce.
 
-But because showing is more immersive,
+But because showing requires simulation on reader, thus is more immersive,
 IRL you need compute to figure out other peoples intentions,
 that compute results in better memorization.
 
