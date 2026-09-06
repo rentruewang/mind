@@ -339,14 +339,6 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ### Mechanism
 
-#### Category
-
-Show means that there is a layer below
-Tell is an entire class of actions ("show"s).
-
-Showing is more believable because they only need to know 1 thing happend,
-where for telling to be convincing entire category needs to happen.
-
 #### Compute
 
 Tell -> show: infer
@@ -357,6 +349,17 @@ Infer is cheaper than deduce.
 But because showing is more immersive,
 IRL you need compute to figure out other peoples intentions,
 that compute results in better memorization.
+
+#### Category
+
+Show means that there is a layer below
+Tell is an entire class of actions ("show"s).
+
+Showing is more believable because they only need to know 1 thing happend,
+where for telling to be convincing entire category needs to happen.
+
+When presented with an abstract idea, more things can go wrong (it's a class),
+so using more computation "distracts" people from questioning.
 
 ## Examples
 
