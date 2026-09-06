@@ -339,6 +339,11 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 ### Mechanism
 
+Tell = class of actions
+Show = single action
+
+Tell is more _efficient_ (saves compute) at telling an entire class of actions.
+
 #### Compute
 
 Tell -> show: infer
@@ -348,7 +353,7 @@ Infer is cheaper than deduce.
 
 But because showing requires simulation on reader, thus is more immersive,
 IRL you need compute to figure out other peoples intentions,
-that compute results in better memorization.
+that compute results in better memorization, and less questioning (because no more compute).
 
 #### Category
 
@@ -358,8 +363,8 @@ Tell is an entire class of actions ("show"s).
 Showing is more believable because they only need to know 1 thing happend,
 where for telling to be convincing entire category needs to happen.
 
-When presented with an abstract idea, more things can go wrong (it's a class),
-so using more computation "distracts" people from questioning.
+When presented with an abstract idea, more things can go wrong (it's a class, wider attack surface),
+paired with being less taxing on the reader, reader has more compute to attack.
 
 ## Examples
 
