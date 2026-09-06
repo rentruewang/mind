@@ -324,7 +324,7 @@ Then climax is where the sum of edges is the highest, weighted by reader's perce
 ## Show don't tell
 
 Make readers figure out themselves the characters' motivations etc, more realistic,
-give lots of details so readers can run their own imagination and hence **more immersion**. Show means that there is a layer below, and tell shows you entire class of actions ("show"s).
+give lots of details so readers can run their own imagination and hence **more immersion**. 
 
 When all is laid out, it becomes boring and robotic.
 (Too simplistic, predictable, non repetitive, "not that deep", pretentious)
@@ -336,6 +336,27 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 (different from the norm of real life), it can and will be boring.
 
 **Style over substance** (more techniques than material, opaque narration) is a form of tell don't show: story is obstructed by the words. Same as criticism to Liszt composition: You notice the techniques before the notes; too much techniques, not always beautiful.
+
+### Mechanism
+
+#### Category
+
+Show means that there is a layer below
+Tell is an entire class of actions ("show"s).
+
+Showing is more believable because they only need to know 1 thing happend,
+where for telling to be convincing entire category needs to happen.
+
+#### Compute
+
+Tell -> show: infer
+Show -> tell: deduce
+
+Infer is cheaper than deduce.
+
+But because showing is more immersive,
+IRL you need compute to figure out other peoples intentions,
+that compute results in better memorization.
 
 ## Examples
 
