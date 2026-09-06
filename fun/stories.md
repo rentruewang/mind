@@ -324,7 +324,7 @@ Then climax is where the sum of edges is the highest, weighted by reader's perce
 ## Show don't tell
 
 Make readers figure out themselves the characters' motivations etc, more realistic,
-give lots of details so readers can run their own imagination and hence **more immersion**.
+give lots of details so readers can run their own imagination and hence **more immersion**. Show means that there is a layer below, and tell shows you entire class of actions ("show"s).
 
 When all is laid out, it becomes boring and robotic.
 (Too simplistic, predictable, non repetitive, "not that deep", pretentious)
