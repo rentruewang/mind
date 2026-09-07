@@ -512,7 +512,7 @@ Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move p
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
-Case study on aspects (a few of those posed on reddit: https://www.reddit.com/user/KingBardan/submitted/ find asoiaf related subs):
+Case study on aspects (a few of those posed on reddit: https://www.reddit.com/user/KingBardan/submitted/ find asoiaf related subs and posts):
 
 - Character mind often jumps from extreme to extreme, no conflict state.
   E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
