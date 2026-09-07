@@ -558,7 +558,7 @@ Case study on aspects:
       - Knowing this, feed GM wrong info down the road.
       - Absorb into double agent (like with Lancel).
       - Blackmail GM into cooperating (GM poisoned too many people).
-    - Seizing Tommen. What does this even do? Showing off?
+    - Seizing Tommen and put in the same place. What does this even do? Showing off?
     - Threatening and insulting every one, political circle or not.
   - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
   - Jon: The wall arc in general is the world spinning around Jon and it's annoying.
