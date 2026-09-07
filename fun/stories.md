@@ -552,7 +552,7 @@ Case study on aspects:
     His sarcasm is often times just that without deeper meaning or incision.
     - Quarrel with Tywin like a teenager
     - Striking Joffery in public and not controlling anger.
-    - Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
+    - Insulting Ser Allister. I thought he is a friend of the guy who sent him, Mormont?
     - Sacking GM Pycelle [post](https://www.reddit.com/r/asoiaf/s/PeVC7AifRA). Alternatives:
       - Knowing this, feed GM wrong info down the road.
       - Absorb into double agent (like with Lancel).
