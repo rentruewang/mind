@@ -16,19 +16,19 @@ So a story is good when it can walk down a unworn path, yet that path turns out 
 
 ## Framework
 
-Atoms: Characters with traits and tendencies and correlated objectives
+Atoms: Characters with traits and tendencies and correlated objectives, world
 
-Inference: unexpected but reasonable, forming events (lines)
+Inference: unexpected but reasonable, forming events (lines / threads)
 
 Plot: then, you have the story woven from those lines.
 
-Engagement: Stakes are the dense parts.
+Engagement: Stakes (uncertainty) are the dense parts.
 
 Climax: The densest part
 
 Pacing: How it's delivered to readers
 
-Realism: It affects readers' mental
+Realism: It affects readers' mental (atmosphere)
 
 ## How writing happens
 
@@ -337,6 +337,35 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 
 **Style over substance** (more techniques than material, opaque narration) is a form of tell don't show: story is obstructed by the words. Same as criticism to Liszt composition: You notice the techniques before the notes; too much techniques, not always beautiful.
 
+### Mechanism
+
+Tell = class of actions
+Show = single action
+
+Tell is more _efficient_ (saves compute) at telling an entire class of actions.
+
+#### Compute
+
+Tell -> show: infer
+Show -> tell: deduce
+
+Infer is cheaper than deduce.
+
+But because showing requires simulation on reader, thus is more immersive,
+IRL you need compute to figure out other peoples intentions,
+that compute results in better memorization, and less questioning (because no more compute).
+
+#### Category
+
+Show means that there is a layer below
+Tell is an entire class of actions ("show"s).
+
+Showing is more believable because they only need to know 1 thing happend,
+where for telling to be convincing entire category needs to happen.
+
+When presented with an abstract idea, more things can go wrong (it's a class, wider attack surface),
+paired with being less taxing on the reader, reader has more compute to attack.
+
 ## Examples
 
 #### most of these I consumed more than 1 times or having consumed the entire collection.
@@ -642,7 +671,7 @@ Tells more than JY (JY is more camera / stage play like):
 - Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
 
 - Very straightforward and there is no ambiguity to the character's action (1D + plot-devicey).
-Suitable for skimping not deep analysis. Light cognitive load.
+  Suitable for skimping not deep analysis. Light cognitive load.
 
 - Often times like to be funny by throwing logic out of the window.
 
