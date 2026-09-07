@@ -553,7 +553,10 @@ Case study on aspects:
     - Quarrel with Tywin like a teenager
     - Striking Joffery in public and not controlling anger.
     - Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
-    - Sacking GM Pyrell. A better way would be to feed GM wrong info?
+    - Sacking GM Pycelle. Alternatives:
+      - Knowing this, feed GM wrong info down the road.
+      - Absorb into double agent (like with Lancel).
+      - Blackmail GM into cooperating (GM poisoned too many people).
     - Seizing Tommen. What does this even do? Showing off?
     - Threatening and insulting every one, political circle or not.
   - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
