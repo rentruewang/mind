@@ -521,9 +521,10 @@ Case study on aspects:
   Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
 
 - Or plot device-y (instrumental):
-  E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid.
-  JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
+  E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, but instead, she let Tyrion live because she is stupid.
   The clans should perhaps be poor farmers as well, not anti social crazy people.
+  They also never went back to take Eyrie, despite what they said, maybe because they were only after money, making hiring even more lucrative.
+  JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
 
 - Global info.
   Sometimes character act for global info, not from their place from their experience.
