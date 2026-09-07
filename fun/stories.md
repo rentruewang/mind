@@ -521,7 +521,7 @@ Case study on aspects:
   Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
 
 - Or plot device-y (instrumental):
-  E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, but instead, she let Tyrion live because she is stupid.
+  E.g. [Post](https://www.reddit.com/r/asoiaf/s/mKeGCKshkN). Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, but instead, she let Tyrion live because she is stupid.
   The clans should perhaps be poor farmers as well, not anti social crazy people.
   They also never went back to take Eyrie, despite what they said, maybe because they were only after money, making hiring even more lucrative.
   JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
@@ -554,7 +554,7 @@ Case study on aspects:
     - Quarrel with Tywin like a teenager
     - Striking Joffery in public and not controlling anger.
     - Insulting Ser Alliser. I thought he is a friend of the guy who sent him, Mormont?
-    - Sacking GM Pycelle, which only alerted Cercei. Alternatives:
+    - [Post](https://www.reddit.com/r/asoiaf/comments/1wa22ar/comment/p8fy3bc/) Sacking GM Pycelle, which only alerted Cercei. Alternatives:
       - Knowing this, feed GM wrong info down the road.
       - Absorb into double agent (like with Lancel).
       - Blackmail GM into cooperating (GM poisoned too many people).
