@@ -342,7 +342,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 Tell = class of actions
 Show = single action
 
-Tell is more _efficient_ (saves compute) at telling an entire class of actions.
+Tell is more _efficient_ (saves compute) at telling an entire class of actions / emotions.
 
 #### Compute
 
@@ -359,6 +359,8 @@ that compute results in better memorization, and less questioning (because no mo
 
 Show means that there is a layer below
 Tell is an entire class of actions ("show"s).
+
+Therefore, telling is leaves, and showing is internal nodes (which eventually has to go to leaves).
 
 Showing is more believable because they only need to know 1 thing happend,
 where for telling to be convincing entire category needs to happen.
@@ -623,6 +625,16 @@ Tells more than JY (JY is more camera / stage play like):
 - Back story.
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
+
+##### Yusuke Kishi
+
+##### Qiong Yao
+
+- Simple plot line, usually single threaded.
+
+- Tells a lot more than show, during emotional narration and embellishment.
+
+- Great at building 
 
 ##### JOJO
 
