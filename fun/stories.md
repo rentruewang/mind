@@ -12,7 +12,7 @@ Exploitation: It's the "realism" part, that makes you feel attached. You track t
 
 Pacing: Shapes your mind's inference engine allow inference (reasonable), but not too well (unexpected).
 
-Attention: A story feels natural if the information delivered is well suited to attention, making info absorbing easier.
+Attention: A story feels natural if the information delivered is well suited to attention, making info absorbing easier (e.g. camera pan, order of character actions).
 
 So a story is good when it can walk down a unworn path, yet that path turns out to be compelling.
 
