@@ -12,13 +12,15 @@ Exploitation: It's the "realism" part, that makes you feel attached. You track t
 
 Pacing: Shapes your mind's inference engine allow inference (reasonable), but not too well (unexpected).
 
+Attention: A story feels natural if the information delivered is well suited to attention, making info absorbing easier.
+
 So a story is good when it can walk down a unworn path, yet that path turns out to be compelling.
 
 ## Framework
 
 Atoms: Characters with traits and tendencies and correlated objectives, world
 
-Inference: unexpected but reasonable, forming events (lines / threads)
+Inference: unexpected but reasonable, forming events (lines / threads), mostly from character actions.
 
 Plot: then, you have the story woven from those lines.
 
@@ -628,13 +630,19 @@ Tells more than JY (JY is more camera / stage play like):
 
 ##### Yusuke Kishi
 
+- Ok plot line.
+
+- Amazing atmosphere building.
+
 ##### Qiong Yao
 
 - Simple plot line, usually single threaded.
 
 - Tells a lot more than show, during emotional narration and embellishment.
 
-- Great at building 
+- Great at building atmosphere and lamenting.
+
+- Great at attention / info delivery.
 
 ##### JOJO
 
@@ -667,6 +675,8 @@ Tells more than JY (JY is more camera / stage play like):
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
 
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
+
+- Somewhat similar to Qiong Yao in style, in atmosphere building.
 
 ##### Sherlock Holmes
 
