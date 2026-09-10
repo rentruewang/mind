@@ -120,7 +120,13 @@ For a single plot line, event system + filtering (how many details e.g. only rec
 
 Clues are cross component link.
 
-2 types of connections: spatial vs temporal
+2 types of connections: spatial (across people) vs temporal (time, sequential)
+
+### Plot lines
+
+Plot lines = many things happening at once.
+
+Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting and forming **unintended** / non obvious consequences.
 
 #### Spacial connections: Connected characters.
 
