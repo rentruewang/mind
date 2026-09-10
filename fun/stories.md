@@ -638,13 +638,17 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Simple plot line, usually single threaded.
 
-- Tells a lot more than show, during emotional narration and embellishment.
+- Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
+
+- Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence). Expands on small dilemmas / moment by moment transient reactions.
+
+- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density.
 
 - Great at building atmosphere and lamenting.
 
 - Decent details and realistic character actions.
 
-- Great at attention / info delivery.
+- Great at attention / info delivery / build up.
 
 ##### JOJO
 
