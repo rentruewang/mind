@@ -551,7 +551,7 @@ Case study on aspects:
   E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
   Jon got convinced by Sam to happily be steward,
   Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
-  Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
+  Dontos has no honor but real knights do (even I would have mixed feeling for being made a fool)?
 
 - Or plot device-y (instrumental):
   E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid.
@@ -628,12 +628,6 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
-##### Yusuke Kishi
-
-- Usually a mystery story, good at building the world.
-
-- Amazing atmosphere building.
-
 ##### Qiong Yao
 
 - Simple plot line, usually single threaded.
@@ -679,6 +673,12 @@ Tells more than JY (JY is more camera / stage play like):
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
 
 - Somewhat similar to Qiong Yao in style, in atmosphere building.
+
+##### Yusuke Kishi
+
+- Usually a mystery story, good at building the world.
+
+- Amazing atmosphere building.
 
 ##### Sherlock Holmes
 
@@ -753,3 +753,16 @@ There are 3 possibilities:
 3. The explanation does not exist.
 
 2 is the case where there may be different interpretations, and should keep open mind and accept challenges.
+
+---
+
+###### Translations
+
+Jin Yong = 金庸 / JY
+Qiong Yao = 瓊瑤
+Yusuke Kishi ＝ 貴志祐介
+Gu Long = 古龍
+
+Zuo Lengchan = 左冷禪
+Chen Jinnan = 陳近南
+Wu Sangui = 吳三桂
