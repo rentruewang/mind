@@ -630,7 +630,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 ##### Yusuke Kishi
 
-- Ok plot line.
+- Usually a mystery story, good at building the world.
 
 - Amazing atmosphere building.
 
