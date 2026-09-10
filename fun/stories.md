@@ -642,6 +642,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Great at building atmosphere and lamenting.
 
+- Decent details and realistic character actions.
+
 - Great at attention / info delivery.
 
 ##### JOJO
