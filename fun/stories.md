@@ -693,7 +693,7 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 ###### Examples:
 
-- Percy Jackson: I read it like 5 times, very relaxing.
+- Percy Jackson: I read it like 5 times, very relaxing. Multiple small, modular adventures combined usually.
 
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
