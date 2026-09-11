@@ -14,11 +14,13 @@ Pacing: Shapes your mind's inference engine allow inference (reasonable), but no
 
 So a story is good when it can walk down a unworn path, yet that path turns out to be compelling.
 
+Attention: A story feels natural if the information delivered is well suited to attention, making info absorbing easier (e.g. camera pan, order of character actions).
+
 ## Framework
 
 Atoms: Characters with traits and tendencies and correlated objectives, world
 
-Inference: unexpected but reasonable, forming events (lines / threads)
+Inference: unexpected but reasonable, forming events (lines / threads), mostly from character actions.
 
 Plot: then, you have the story woven from those lines.
 
@@ -118,7 +120,13 @@ For a single plot line, event system + filtering (how many details e.g. only rec
 
 Clues are cross component link.
 
-2 types of connections: spatial vs temporal
+2 types of connections: spatial (across people) vs temporal (time, sequential)
+
+### Plot lines
+
+Plot lines = many things happening at once.
+
+Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting and forming **unintended** / non obvious consequences.
 
 #### Spacial connections: Connected characters.
 
@@ -342,7 +350,7 @@ This is overdone a lot, and unless what they are telling is so "different" and "
 Tell = class of actions
 Show = single action
 
-Tell is more _efficient_ (saves compute) at telling an entire class of actions.
+Tell is more _efficient_ (saves compute) at telling an entire class of actions / emotions.
 
 #### Compute
 
@@ -359,6 +367,8 @@ that compute results in better memorization, and less questioning (because no mo
 
 Show means that there is a layer below
 Tell is an entire class of actions ("show"s).
+
+Therefore, telling is leaves, and showing is internal nodes (which eventually has to go to leaves).
 
 Showing is more believable because they only need to know 1 thing happend,
 where for telling to be convincing entire category needs to happen.
@@ -547,7 +557,7 @@ Case study on aspects:
   E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
   Jon got convinced by Sam to happily be steward,
   Catelyn worrys and be strong for Robb in 2 stages: a normal parent would be strong on the surface but leaks worry.
-  Dontos has no honor but any other knights do (even I would have mixed feeling for being made a fool)?
+  Dontos has no honor but real knights do (even I would have mixed feeling for being made a fool)?
 
 - Or plot device-y (instrumental):
   E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid.
@@ -624,6 +634,22 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
+##### Qiong Yao
+
+- Simple plot line, usually single threaded.
+
+- Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
+
+- Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence). Expands on small dilemmas / moment by moment transient reactions.
+
+- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density.
+
+- Great at building atmosphere and lamenting.
+
+- Decent details and realistic character actions.
+
+- Great at attention / info delivery / build up.
+
 ##### JOJO
 
 - Very bizzare.
@@ -656,6 +682,14 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
 
+- Somewhat similar to Qiong Yao in style, in atmosphere building.
+
+##### Yusuke Kishi
+
+- Usually a mystery story, good at building the world.
+
+- Amazing atmosphere building.
+
 ##### Sherlock Holmes
 
 - Good character building.
@@ -681,7 +715,7 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 ###### Examples:
 
-- Percy Jackson: I read it like 5 times, very relaxing.
+- Percy Jackson: I read it like 5 times, very relaxing. Multiple small, modular adventures combined usually.
 
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
@@ -729,3 +763,16 @@ There are 3 possibilities:
 3. The explanation does not exist.
 
 2 is the case where there may be different interpretations, and should keep open mind and accept challenges.
+
+---
+
+###### Translations
+
+Jin Yong = 金庸 / JY
+Qiong Yao = 瓊瑤
+Yusuke Kishi ＝ 貴志祐介
+Gu Long = 古龍
+
+Zuo Lengchan = 左冷禪
+Chen Jinnan = 陳近南
+Wu Sangui = 吳三桂
