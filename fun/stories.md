@@ -644,7 +644,10 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
 
-- Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence). Expands on small dilemmas / moment by moment transient reactions.
+- Lower density, because:
+  - Tells more (showing has more info because of layering)
+  - Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence).
+    Expands on small dilemmas / moment by moment transient reactions, so fewer events.
 
 - Using narration heavily to do conclusion / replay events / embellishment. Hence, low density in events.
 
