@@ -646,7 +646,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence). Expands on small dilemmas / moment by moment transient reactions.
 
-- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density.
+- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density in events.
 
 - Great at building atmosphere and lamenting.
 
