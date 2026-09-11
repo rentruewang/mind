@@ -657,6 +657,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Great at attention / info delivery / build up.
 
+- JY has better inference and better pacing.
+
 ##### JOJO
 
 - Very bizzare.
