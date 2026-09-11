@@ -9,7 +9,12 @@ Give them full context of your inference (no stretching), e.g. from [this](https
 Think in terms of what they know (Carnegie how to win friends and influence people),
 and create something of interest.
 
-An example that is concrete is better than purely thoery crafting.
+### Concrete
+
+A concrete example is better than purely thoery crafting.
+
+Concrete is easier to convince readers (see stories "show don't tell" section),
+because the state / transitions are easier to accept and less "barriers" for readers.
 
 ### Examples
 
