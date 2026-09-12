@@ -128,6 +128,8 @@ Plot lines = many things happening at once.
 
 Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting, evolving, and forming **unintended** / non obvious consequences from one thread's POV.
 
+Of course that is if it is tracable. Sometimes author simply had a mind change and retrospectively added settings, which doesn't count.
+
 #### Spacial connections: Connected characters.
 
 The more the merrier.
