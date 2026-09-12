@@ -664,6 +664,19 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
+##### Gu Long
+
+- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
+
+- Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+
+- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
+
+- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
+
+- Somewhat similar to Qiong Yao in style, in atmosphere building.
+
+
 ##### Qiong Yao
 
 - Simple plot line, usually single threaded.
@@ -684,18 +697,6 @@ Tells more than JY (JY is more camera / stage play like):
 - Great at attention / info delivery / build up.
 
 - JY has better inference and better pacing.
-
-##### Gu Long
-
-- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
-
-- Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
-
-- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
-
-- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
-
-- Somewhat similar to Qiong Yao in style, in atmosphere building.
 
 ##### Yusuke Kishi
 
