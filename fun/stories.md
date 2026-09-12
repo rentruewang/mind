@@ -676,6 +676,11 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Somewhat similar to Qiong Yao in style, in atmosphere building.
 
+##### Yusuke Kishi
+
+- Usually a mystery story, good at building the world.
+
+- Amazing atmosphere building.
 
 ##### Qiong Yao
 
@@ -697,12 +702,6 @@ Tells more than JY (JY is more camera / stage play like):
 - Great at attention / info delivery / build up.
 
 - JY has better inference and better pacing.
-
-##### Yusuke Kishi
-
-- Usually a mystery story, good at building the world.
-
-- Amazing atmosphere building.
 
 ##### Sherlock Holmes
 
