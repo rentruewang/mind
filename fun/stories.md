@@ -130,7 +130,7 @@ Multiple threads from a single POV is possible, because each "thread" is caused 
 
 Of course that is if it is tracable. Sometimes author simply had a mind change and retrospectively added settings, which doesn't count.
 
-This is a different metric from how "long" / "deep" the thread is, which is quantified by the new "state" (state change) the thread is in.
+This is a different metric from how "long" / "deep" the thread is, which is quantified by the new "state" (irreversible state change) the thread is in.
 
 #### Spacial connections: Connected characters.
 
