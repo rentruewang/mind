@@ -126,7 +126,7 @@ Clues are cross component link.
 
 Plot lines = many things happening at once.
 
-Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting and forming **unintended** / non obvious consequences.
+Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting, evolving, and forming **unintended** / non obvious consequences from one thread's POV.
 
 #### Spacial connections: Connected characters.
 
