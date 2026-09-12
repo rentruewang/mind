@@ -642,12 +642,6 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
-##### Yusuke Kishi
-
-- Usually a mystery story, good at building the world.
-
-- Amazing atmosphere building.
-
 ##### JOJO
 
 - Very bizzare.
@@ -702,6 +696,12 @@ Tells more than JY (JY is more camera / stage play like):
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
 
 - Somewhat similar to Qiong Yao in style, in atmosphere building.
+
+##### Yusuke Kishi
+
+- Usually a mystery story, good at building the world.
+
+- Amazing atmosphere building.
 
 ##### Sherlock Holmes
 
