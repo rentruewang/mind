@@ -648,27 +648,6 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Amazing atmosphere building.
 
-##### Qiong Yao
-
-- Simple plot line, usually single threaded.
-
-- Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
-
-- Lower density, because:
-  - Tells more (showing has more info because of layering)
-  - Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence).
-    Expands on small dilemmas / moment by moment transient reactions, so fewer events.
-
-- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density in events.
-
-- Great at building atmosphere and lamenting.
-
-- Decent details and realistic character actions.
-
-- Great at attention / info delivery / build up.
-
-- JY has better inference and better pacing.
-
 ##### JOJO
 
 - Very bizzare.
@@ -690,6 +669,27 @@ Tells more than JY (JY is more camera / stage play like):
 - Sometimes have the flaw of characters having information of God, but it helps making the pace fast (and s.t. we can see more of Araki's creativity by seeing more events / sequences of moves in fights).
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
+
+##### Qiong Yao
+
+- Simple plot line, usually single threaded.
+
+- Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
+
+- Lower density, because:
+  - Tells more (showing has more info because of layering)
+  - Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence).
+    Expands on small dilemmas / moment by moment transient reactions, so fewer events.
+
+- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density in events.
+
+- Great at building atmosphere and lamenting.
+
+- Decent details and realistic character actions.
+
+- Great at attention / info delivery / build up.
+
+- JY has better inference and better pacing.
 
 ##### Gu Long
 
