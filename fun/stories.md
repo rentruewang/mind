@@ -126,7 +126,11 @@ Clues are cross component link.
 
 Plot lines = many things happening at once.
 
-Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting and forming **unintended** / non obvious consequences.
+Multiple threads from a single POV is possible, because each "thread" is caused by the "world" reacting, evolving, and forming **unintended** / non obvious consequences from one thread's POV.
+
+Of course that is if it is tracable. Sometimes author simply had a mind change and retrospectively added settings, which doesn't count.
+
+This is a different metric from how "long" / "deep" the thread is, which is quantified by the new "state" (irreversible state change) the thread is in.
 
 #### Spacial connections: Connected characters.
 
@@ -462,7 +466,7 @@ This list is in the ranking of greatness IMO.
   Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
   He is so good at dramatization that he makes plot out of thin air (following characters' everychanging thought processes and see it respond to each event is fun and **immersive** enough on its own, when there are no "bigger plots", e.g. when eating).
 
-- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take).
+- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. Multi-threaded (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take).
   Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**.
   Designs plots to showcase a character's tendencies and nature, yet the plots flows are driven by characters' motivations.
   Yet, good cathartic moments and keep the readers hooked.
@@ -551,7 +555,7 @@ Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move p
 
 His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
 
-Case study on aspects:
+Case study on aspects (a few of those posed on reddit: https://www.reddit.com/user/KingBardan/submitted/ find asoiaf related subs and posts):
 
 - Character mind often jumps from extreme to extreme, no conflict state.
   E.g. when Jon thinks Tyrion is wise after 2 setences (rather he is more witty),
@@ -560,9 +564,10 @@ Case study on aspects:
   Dontos has no honor but real knights do (even I would have mixed feeling for being made a fool)?
 
 - Or plot device-y (instrumental):
-  E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, [my post](https://www.reddit.com/r/asoiaf/s/wt8PE1zW5V), but instead, she let Tyrion live because she is stupid.
-  JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
+  E.g. Lysa should have hired the clans (bound by honor, must do it secretly), who got hired easily by Tyrion, but instead, she let Tyrion live because she is stupid.
   The clans should perhaps be poor farmers as well, not anti social crazy people.
+  They also never went back to take Eyrie, despite what they said, maybe because they were only after money, making hiring even more lucrative.
+  JY characters do this scheme all the time (Wu Sangui, Zuo Lengchan), staying smart, and the opposing characters stay alive due to their impressive ability (not some cheap soliciting).
 
 - Global info.
   Sometimes character act for global info, not from their place from their experience.
@@ -591,9 +596,12 @@ Case study on aspects:
     His sarcasm is often times just that without deeper meaning or incision.
     - Quarrel with Tywin like a teenager
     - Striking Joffery in public and not controlling anger.
-    - Insulting Ser Allison. I thought he is a friend of the guy who sent him, Mormont?
-    - Sacking GM Pyrell. A better way would be to feed GM wrong info?
-    - Seizing Tommen. What does this even do? Showing off?
+    - Insulting Ser Alliser. I thought he is a friend of the guy who sent him, Mormont?
+    - Sacking GM Pycelle, which only alerted Cercei. Alternative choices:
+      - Knowing this, feed GM wrong info down the road.
+      - Absorb into double agent (like with Lancel).
+      - Blackmail GM into cooperating (GM poisoned too many people).
+    - Seizing Tommen and put in the same place. What does this even do? Showing off?
     - Threatening and insulting every one, political circle or not.
   - Daenarys: Pretty much everything she does is stupid and "she knows best" when her motivation is bleak.
   - Jon: The wall arc in general is the world spinning around Jon and it's annoying.
@@ -634,22 +642,6 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
-##### Qiong Yao
-
-- Simple plot line, usually single threaded.
-
-- Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
-
-- Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence). Expands on small dilemmas / moment by moment transient reactions.
-
-- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density.
-
-- Great at building atmosphere and lamenting.
-
-- Decent details and realistic character actions.
-
-- Great at attention / info delivery / build up.
-
 ##### JOJO
 
 - Very bizzare.
@@ -676,7 +668,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
 
-- Architecture wise, his stories are more shallow and modular than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+- Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
 
@@ -690,6 +682,27 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Amazing atmosphere building.
 
+##### Qiong Yao
+
+- Simple plot line, usually single threaded.
+
+- Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
+
+- Lower density, because:
+  - Tells more (showing has more info because of layering)
+  - Emphasizes small moments and dedicate her words to _detail_ "small things / moments" (where JY would use < 5 character sentence).
+    Expands on small dilemmas / moment by moment transient reactions, so fewer events.
+
+- Using narration heavily to do conclusion / replay events / embellishment. Hence, low density in events.
+
+- Great at building atmosphere and lamenting.
+
+- Decent details and realistic character actions.
+
+- Great at attention / info delivery / build up.
+
+- JY has better inference and better pacing.
+
 ##### Sherlock Holmes
 
 - Good character building.
@@ -699,6 +712,12 @@ Tells more than JY (JY is more camera / stage play like):
 - Stories may be a little predictable due to being a classic.
 
 ##### Movies / short stories / web, light, kids, teen novels
+
+- No unique characters: Characters all respond the same way and there is little difference in terms of personality.
+
+- Always global info for the characters.
+
+- Always surface level motivation because there is no 2nd layer.
 
 - Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
 
