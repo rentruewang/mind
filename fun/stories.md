@@ -466,7 +466,7 @@ This list is in the ranking of greatness IMO.
   Memorable, distinct, and **lively**, likable characters (protagonist, antagonist, and side all have unique charms).
   He is so good at dramatization that he makes plot out of thin air (following characters' everychanging thought processes and see it respond to each event is fun and **immersive** enough on its own, when there are no "bigger plots", e.g. when eating).
 
-- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take).
+- Plots are natural, and caused by different characters' behaviors, habits, and ideologies. Multi-threaded (e.g. characters misjudge due to judging others from themselves) (e.g. characters' going through fights that aren't smart to take).
   Events can spin out of control, caused by butterfly effects, yet every step is natural and intuitive. **The stories just flow effortlessly**.
   Designs plots to showcase a character's tendencies and nature, yet the plots flows are driven by characters' motivations.
   Yet, good cathartic moments and keep the readers hooked.
