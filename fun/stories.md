@@ -686,7 +686,13 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
 
-- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing by showing off their "philosophy" or e.g. caring about friendship more than money or love), and can't keep a secret (must tell to show off smartness).
+- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing).
+
+- Flexing = doing things ordinary people won't, only cool people will. Includes:
+  - Status over substance (and over exaggerate this aspect).
+  - Showing off their "philosophy".
+  - Caring about friendship more than money or love.
+  - Can't keep a secret (must show off their superior intelligence by announcing the smart plans).
 
 - Also have global info and spin their world around the POV (plot devicey) most of the time (having POV / reader's info, not partial info).
   E.g. Hua Wuque asking to kill MC (disguised as J's nephew): "Please think twice about it." (to J). Whoever is J is irrelevant.
