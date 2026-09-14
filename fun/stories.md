@@ -698,7 +698,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 ##### Qiong Yao
 
-- Simple plot line, usually single threaded.
+- Simple plot line, usually single threaded. Stakes are relatively low.
 
 - Tells a lot more than show, during emotional narration and embellishment, by emphasizing and giving you the conclusion.
 
