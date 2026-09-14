@@ -672,6 +672,25 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Somewhat multithreaded, but have a main "stem". 
 
+##### Gu Long
+
+- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). But his plots are creative, non traditional, and edgy, which is interesting.
+
+- Uses dialogues to tell readers the plots and state of mind. But his dialogue are quite edgy (very different / creative dialogue to be the edgiest possible).
+
+- Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
+
+- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
+
+- Surface level logic and motivations.
+
+- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
+
+- Somewhat similar to Qiong Yao in style, in atmosphere building.
+
+- Kind of like light novels in that regard?
+
+
 ##### Qiong Yao
 
 - Simple plot line, usually single threaded.
@@ -693,24 +712,6 @@ Tells more than JY (JY is more camera / stage play like):
 
 - JY has better inference and better pacing.
 
-
-##### Gu Long
-
-- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). But his plots are creative, non traditional, and edgy, which is interesting.
-
-- Uses dialogues to tell readers the plots and state of mind. But his dialogue are quite edgy (very different / creative dialogue to be the edgiest possible).
-
-- Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
-
-- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
-
-- Surface level logic and motivations.
-
-- Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
-
-- Somewhat similar to Qiong Yao in style, in atmosphere building.
-
-- Kind of like light novels in that regard?
 
 ##### Sherlock Holmes
 
