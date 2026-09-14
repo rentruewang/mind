@@ -687,7 +687,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Great at building atmosphere and lamenting.
 
-- Decent details and realistic character actions.
+- Decent details and realistic character actions, e.g. subtext.
 
 - Great at attention / info delivery / build up.
 
@@ -700,7 +700,9 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
 
-- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar).
+- Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
+
+- Surface level logic and motivations.
 
 - Histrionic characters (different from JOJO) by being "deep", "unfathomable" (likes to show off their philosophy).
 
