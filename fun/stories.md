@@ -689,6 +689,8 @@ Tells more than JY (JY is more camera / stage play like):
 - Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing by showing off their "philosophy" or e.g. caring about friendship more than money or love).
 
 - Also have global info and spin their world around the POV (plot devicey) most of the time.
+  E.g. Hua Wuque asking to kill MC (disguised as J's nephew): "Please think twice about it." (to J). Whoever is J is irrelevant.
+  You don't ask to kill someone's family and acting as if the other guy is making a rash decision protecting him.
 
 - Surface level logic and motivations.
 
@@ -811,3 +813,4 @@ Gu Long = 古龍
 Zuo Lengchan = 左冷禪
 Chen Jinnan = 陳近南
 Wu Sangui = 吳三桂
+Hua Wuque = 花無缺
