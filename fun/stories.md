@@ -670,7 +670,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Amazing atmosphere building.
 
-- Somewhat multithreaded, but have a main "stem". 
+- Somewhat multithreaded, but have a main "stem".
 
 ##### Gu Long
 
@@ -694,7 +694,6 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Kind of like light novels in that regard?
 
-
 ##### Qiong Yao
 
 - Simple plot line, usually single threaded.
@@ -715,7 +714,6 @@ Tells more than JY (JY is more camera / stage play like):
 - Great at attention / info delivery / build up.
 
 - JY has better inference and better pacing.
-
 
 ##### Sherlock Holmes
 
