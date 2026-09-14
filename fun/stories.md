@@ -696,7 +696,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 ##### Gu Long
 
-- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy, which is interesting.
+- Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong). Uses dialogues to tell readers the plots and state of mind. But his plots are creative, non traditional, and edgy (very different dialogue), which is interesting.
 
 - Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
 
