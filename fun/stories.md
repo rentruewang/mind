@@ -20,9 +20,9 @@ Attention: A story feels natural if the information delivered is well suited to 
 
 Atoms: Characters with traits and tendencies and correlated objectives, world
 
-Inference: unexpected but reasonable, forming events (lines / threads), mostly from character actions.
+Inference: unexpected but reasonable, forming events (lines / threads), mostly from character actions (low level).
 
-Plot: then, you have the story woven from those lines.
+Plot: then, you have the story woven from those lines (high level).
 
 Engagement: Stakes (uncertainty) are the dense parts.
 
@@ -680,7 +680,11 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Architecture wise, his stories are more shallow and modular and linear (single threaded) than JY, not as complete. His stories are looser as well, smaller scope, and more modular between components, but still sequential.
 
+- Good plot
+
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
+
+- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing by showing off their "philosophy" or e.g. caring about friendship more than money or love).
 
 - Surface level logic and motivations.
 
