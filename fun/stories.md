@@ -688,7 +688,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing by showing off their "philosophy" or e.g. caring about friendship more than money or love).
 
-- Also have global info and spin their world around the POV (plot devicey) most of the time.
+- Also have global info and spin their world around the POV (plot devicey) most of the time (having POV / reader's info, not partial info).
   E.g. Hua Wuque asking to kill MC (disguised as J's nephew): "Please think twice about it." (to J). Whoever is J is irrelevant.
   You don't ask to kill someone's family and acting as if the other guy is making a rash decision protecting him.
   Readers don't feel that dialogue is particularly off because we know J hates MC,
