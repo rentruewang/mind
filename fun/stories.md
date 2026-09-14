@@ -686,7 +686,9 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
 
-- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing by showing off their "philosophy" or e.g. caring about friendship more than money or love). Also have global info and spin their world around the POV most of the time.
+- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing by showing off their "philosophy" or e.g. caring about friendship more than money or love).
+
+- Also have global info and spin their world around the POV (plot devicey) most of the time.
 
 - Surface level logic and motivations.
 
