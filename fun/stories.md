@@ -682,6 +682,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Amazing atmosphere building.
 
+- Somewhat multithreaded, but have a main "stem". 
+
 ##### Qiong Yao
 
 - Simple plot line, usually single threaded.
