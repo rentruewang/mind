@@ -695,10 +695,10 @@ Tells more than JY (JY is more camera / stage play like):
   - Can't keep a secret (must show off their superior intelligence by announcing the smart plans).
 
 - Also have global info and spin their world around the POV (plot devicey) most of the time (having POV / reader's info, not partial info).
-  E.g. Hua Wuque asking to kill MC (disguised as J's nephew): "Please think twice about it." (to J). Whoever is J is irrelevant.
-  You don't ask to kill someone's family and acting as if the other guy is making a rash decision protecting him.
-  Readers don't feel that dialogue is particularly off because we know J hates MC,
-  and that J is tricked into the situation. But, Hua Wuque doesn't know it.
+  E.g. Hua Wuque asking J to let him kill F: "Please think twice about it."
+  Context: F is disguised as J's nephew, J hates F, but was tricked to vow to protect him (or lose face).
+  Therefore, for readers, this makes sense, because J and F are foes not friends, asking this is fine.
+  But from Hua Wuque's POV, he doesn't know that. He just asks to kill someone's family, acting as if other is making a rash decision saying no.
 
 - Surface level logic and motivations.
 
