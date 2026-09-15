@@ -696,7 +696,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Also have global info and spin their world around the POV (plot devicey) most of the time (having POV / reader's info, not partial info).
   E.g. Hua Wuque asking J to let him kill F: "Please think twice about it."
-  Context: F is disguised as J's nephew, J hates F, but was tricked to vow to protect him (or lose face).
+  Context: He needs to kill F, but F is disguised as J's nephew, J hates F, but was tricked to vow to protect him (or lose face).
   Therefore, for readers, this makes sense, because J and F are foes not friends, asking this is fine.
   But from Hua Wuque's POV, he doesn't know that. He just asks to kill someone's family, acting as if other is making a rash decision saying no.
 
