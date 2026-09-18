@@ -771,7 +771,7 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Flat characters, idea driven (no internal consistency of event + internal state change / character).
   - Thin motivations (no real dilemma / stakes involved), thin dialogue (no layering), no texture.
   - Tell don't show.
-  - Big chunks of **exposition** rather than **dramatization** which is (mostly) static context / back story, and not plot.
+  - Big chunks of **exposition** rather than **dramatization** which is (mostly) static context / back story, and didn't even involve characters.
   - Missing smaller scale intricacy. E.g. nothing pays off except the big idea.
   - Best enjoyed as a Wikipedia summary.
 
