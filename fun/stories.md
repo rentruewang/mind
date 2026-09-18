@@ -769,9 +769,10 @@ These are not to say they are bad, but they are a form of story where you won't 
 - 3 body problem:
   - The (passive) POV drives plot like it's quests (as if in a game script).
   - Flat characters, idea driven (no internal consistency of event + internal state change / character).
-  - Thin motivations (no real dilemma / stakes involved), thin dialogue (no layering).
+  - Thin motivations (no real dilemma / stakes involved), thin dialogue (no layering), no texture.
   - Tell don't show.
   - Big chunks of **exposition** rather than **dramatization** which is (mostly) static context / back story, and not plot.
+  - Missing smaller scale intricacy. E.g. no payoffs other than the big idea.
   - Best enjoyed as a Wikipedia summary.
 
 ### Literary fictions
