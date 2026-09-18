@@ -766,7 +766,9 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 - Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
 
-- 3 body problem: Flat characters, plot driven (no internal cnsistency). Best enjoyed as a Wikipedia summary.
+- 3 body problem: Flat characters, plot driven (no internal cosistency).
+  A big chunk is **exposition** rather than **dramatization**, not even plot device, because there is no plot, just a back story / (relatively) static context.
+  Best enjoyed as a Wikipedia summary.
 
 ### Literary fictions
 
