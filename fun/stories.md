@@ -520,6 +520,11 @@ This list is in the ranking of greatness IMO.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
 
+- Having characters so lively and multi layered, it's difficult to see some characters as bad,
+  and some readers would argue writer error before admitting the characters are not perfect.
+  Caused by JY narrates from their viewpoints, justifying everything they did, and overlooking their faults.
+  E.g. Xiao Longnv, Ling Huchong
+
 ##### ASOIAF
 
 _Most of the points are in comparison to Jin Yong_
@@ -831,3 +836,5 @@ Zuo Lengchan = 左冷禪
 Chen Jinnan = 陳近南
 Wu Sangui = 吳三桂
 Hua Wuque = 花無缺
+Xiao Longnv = 小龍女
+Ling Huchong = 令狐沖
