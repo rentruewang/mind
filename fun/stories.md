@@ -524,6 +524,7 @@ This list is in the ranking of greatness IMO.
   and some readers would argue writer error before admitting the characters are not perfect.
   Caused by JY narrates from their viewpoints, justifying everything they did, and overlooking their faults.
   E.g. Xiao Longnv, Ling Huchong
+  This is interesting because most other authors' fans would rather defend the author.
 
 ##### ASOIAF
 
