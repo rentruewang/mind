@@ -838,6 +838,6 @@ Gu Long = 古龍
 Zuo Lengchan = 左冷禪
 Chen Jinnan = 陳近南
 Wu Sangui = 吳三桂
-Hua Wuque = 花無缺
 Xiao Longnv = 小龍女
 Ling Huchong = 令狐沖
+Hua Wuque = 花無缺
