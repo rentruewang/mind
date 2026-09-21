@@ -520,11 +520,16 @@ This list is in the ranking of greatness IMO.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
 
-- Having characters so lively and multi layered, it's difficult to see some characters as bad,
-  and some readers would argue writer error before admitting the characters are not perfect.
+- Having characters so lively and multi layered and charming,
+  it's difficult (for some readers) to see some characters as bad.
+  Those readers would argue that it's JY's writer error not intention,
+  before admitting the characters are not written to be perfect,
+  even when the characters in questions act bad in a consistent way.
   Caused by JY narrates from their viewpoints, justifying everything they did, and overlooking their faults.
   E.g. Xiao Longnv, Ling Huchong
-  This is interesting because most other authors' fans would rather defend the author.
+  This is interesting because most other authors' fans would rather defend the author,
+  or when it's clear, slash the characters or admit author is not good at writing a certain kind of character.
+  But JY's readers (fans of said character) would not slash them, nor agree that JY is bad (because he wrote them), but would argue specific parts are wrong.
 
 ##### ASOIAF
 
