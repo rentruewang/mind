@@ -529,7 +529,7 @@ This list is in the ranking of greatness IMO.
   This is interesting because most other authors' fans would rather defend the author,
   or when it's clear, slash the characters or admit author is not good at writing a certain kind of character.
   But JY's readers (fans of said character) would not slash them, nor agree that JY is bad (because he wrote them), but would argue specific parts are wrong.
-  E.g. Xiao Longnv, Ling Huchong
+  E.g. Xiao Longnv, Ling Huchong (check zhihu)
 
 ##### ASOIAF
 
