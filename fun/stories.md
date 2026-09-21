@@ -523,10 +523,9 @@ This list is in the ranking of greatness IMO.
 - Having characters so lively and multi layered and charming,
   it's difficult (for some readers) to see some characters as bad.
   Those readers would argue that it's JY's writer error not intention,
-  before admitting the characters are not written to be perfect,
-  even when the characters in questions act bad in a consistent way.
-  Caused by JY narrates from their viewpoints, justifying everything they did, and overlooking their faults.
+  before they would admit the characters (who act bad in a consistent way) are not written to be perfect.
   Fans of said character would argue specific parts are wrong (no other authors' fans are this emotional).
+  Caused by JY narrates from their viewpoints, justifying everything they did, and overlooking their faults.
   E.g. Xiao Longnv, Ling Huchong (check zhihu)
 
 ##### ASOIAF
