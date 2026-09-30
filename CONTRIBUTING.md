@@ -32,6 +32,7 @@ Prefer context managers (in C++ RAII guard) to manage scope-related setups.
 7. `__init__` should use `from .module import *` and modules should define an `__all__`, under the import section.
 8. Try to add type hints as little as you can, while maintaining as high coverage as you can (use LSP).
 9. Prefer 1 word (plural except abbreviations) for the modules to be imported. Imports are long enough.
+10. Using `# section title ====` to mark sections because vscode recognizes it.
 
 ## C++ code style
 

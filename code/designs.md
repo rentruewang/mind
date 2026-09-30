@@ -53,3 +53,7 @@ Pulling is more memory efficient for fan ins (downstream request data).
 Pushing model in this case would require a buffer to store the results.
 
 Pushing better models stages (because of the fan-in buffer), and pulling better models batches (because you can free the memos).
+
+Downsides:
+Push requires you to have a ready pipeline, must already know downstream to push.
+Pull requires you to cache the output forever, because you have no info of downstream.
