@@ -775,6 +775,8 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 - Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
 
+- Goosebumps / Fear Street: Plot driven actions (characters aren't always consistent). Shallow / 1D characters.
+
 - 3 body problem:
   - The (passive) POV drives plot like it's quests (as if in a game script).
   - Flat characters, idea driven (no internal consistency of event + internal state change / character).
