@@ -316,7 +316,7 @@ Decision is deep when cost (_stakes_) is high. Each decision is costly because e
 Plot driven = The characters' personalities do not influence the plot (only roles / events).
 - You can substitute any character of same role and the plot would be the same (role driven not personality).
 - Stock characters (type cast) that serve nothing other than to drive the plot.
-
+- Shallow characters (characters exist for 1 purpose).
 
 ### Partial information
 
