@@ -313,9 +313,9 @@ Note that each objectives and conflict have to have weight / be costly. Or else 
 
 Decision is deep when cost (_stakes_) is high. Each decision is costly because each “aspect" is important
 
-Plot driven = The characters do not influence the plot.
-- You can substitute any character and the plot would be the same.
-- Characters make uncharacteristic choices.
+Plot driven = The characters' personalities do not influence the plot.
+- You can substitute any character of same role and the plot would be the same (role driven not personality).
+- Stock characters (type cast) that serve nothing other than to drive the plot.
 
 
 ### Partial information
