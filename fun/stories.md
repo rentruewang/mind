@@ -783,8 +783,6 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 - Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
 
-- Goosebumps / Fear Street: Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show. But easy to consume. Linear.
-
 - 3 body problem:
   - The (passive) POV drives plot like it's quests (as if in a game script).
   - Flat characters, idea driven (no internal consistency of event + internal state change / character).
@@ -793,6 +791,11 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Big chunks of **exposition** rather than **dramatization** which is (mostly) static context / back story, and didn't even involve characters.
   - Missing smaller scale intricacy. E.g. nothing pays off except the big idea.
   - Best enjoyed as a Wikipedia summary.
+
+- Goosebumps / Fear Street:
+  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
+  - Massive plot holes in the motivations / intentions, in pretty much all books.
+  - But easy to consume. Linear.
 
 ### Literary fictions
 
