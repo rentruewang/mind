@@ -793,9 +793,10 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Best enjoyed as a Wikipedia summary.
 
 - Goosebumps / Fear Street:
+  - Massive plot holes in the motivations / intentions, in pretty much all books. Motivations are often just wrong or at best thin.
   - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
-  - Massive plot holes in the motivations / intentions, in pretty much all books.
-  - But easy to consume. Linear.
+  - Plots are linear.
+  - But easy to consume. 
 
 ### Literary fictions
 
