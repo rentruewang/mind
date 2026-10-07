@@ -114,11 +114,11 @@ _I personally use this metric: Do I want to read it a second time?_
 
 ### Adventure vs Mystery
 
-**Adventure** = open ended, divergent.
+**Adventure** = open ended, divergent, no ending.
 
 The story starts from a fixed place and gets wider.
 
-**Mystery** = close ended, convergent.
+**Mystery** = close ended, convergent, must end.
 
 The story starts with a lot of possibilities and narrow.
 
