@@ -112,6 +112,18 @@ _I personally use this metric: Do I want to read it a second time?_
 
 ## Story architecture
 
+### Adventure vs Mystery
+
+**Adventure** = open ended, convergent
+
+The story starts from a fixed place and gets wider.
+
+**Mystery** = close ended
+
+The story starts with a lot of possibilities and narrow.
+
+Other genres e.g. romance, horror are just flavors.
+
 ### Story telling
 
 For a single plot line, event system + filtering (how many details e.g. only record changes in mindset / reactions and ofc. dialogue)
@@ -793,12 +805,12 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Best enjoyed as a Wikipedia summary.
 
 - Goosebumps / Fear Street books:
-  - Massive plot holes in the motivations / intentions, in pretty much all books. 
+  - Massive plot holes in the motivations / intentions, in pretty much all books.
     Motivations are often just wrong or at best thin.
     For goosebumps this is ok, because MC are usually kids. But for fear street...
   - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
   - Plots are linear.
-  - But easy to consume. 
+  - But easy to consume.
 
 ### Literary fictions
 
