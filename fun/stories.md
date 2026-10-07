@@ -792,7 +792,7 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Missing smaller scale intricacy. E.g. nothing pays off except the big idea.
   - Best enjoyed as a Wikipedia summary.
 
-- Goosebumps / Fear Street:
+- Goosebumps / Fear Street books:
   - Massive plot holes in the motivations / intentions, in pretty much all books. 
     Motivations are often just wrong or at best thin.
     For goosebumps this is ok, because MC are usually kids. But for fear street...
