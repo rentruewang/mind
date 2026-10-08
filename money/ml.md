@@ -121,7 +121,6 @@ Beyond that you are bruteforcing a solution by trial and error.
 
 It comes up solutions by constant patching which is why the result is a mess.
 
-
 #### Good at
 
 Vibe coding is only great at solving problems that have been solved thousands of times before on github.
