@@ -114,6 +114,20 @@ Since LLM is pitched like AGI, it suffers the same problems as AGI in monetizati
 
 > Unfortunately the reality of LLM-based contributions has been mostly negative for us, from an increase in background noise due to worthless drive-by PRs full of hallucinations (that wouldn’t even compile, let alone pass CI), to insane 10 thousand line long first time PRs. In-between we also received plenty of PRs that looked fine on the surface, some of which explicitly claimed to not have made use of LLMs, but where follow-up discussions immediately made it clear that the author was sneakily consulting an LLM and regurgitating its mistake-filled replies to us.
 
+### Vibe coding
+
+Vibe coding is only great at solving problems that have been solved thousands of times before on github.
+
+For a new problem that is never before solved (search online for same solution and not found),
+it is terrible at grasping what exactly is being solved.
+
+For frontend / testing I think it's great.
+
+Note: this augments the idea that it is bad at creativity.
+
+e.g. during `inversql` developement we wanted to use LLM to help write frontend,
+but it keeps getting confused about what our backend does and can't generate frontend accordingly.
+
 ## Unicorn where?
 
 Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years.
