@@ -810,7 +810,8 @@ These are not to say they are bad, but they are a form of story where you won't 
     For goosebumps this is ok, because MC are usually kids. But for fear street...
   - Often a mystery type. Characters uncover information by dialogue.
     Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
-    Also likes to skip the most obvious option. Without these the plot probably ends in 10 pages.
+    Also characters likes to skip the most obvious option / decision.
+    Without these the plot probably ends in 10 pages.
     This highlights a big issue: the plot is "fabricated" not natural / inevitable.
   - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
   - Plots are linear.
