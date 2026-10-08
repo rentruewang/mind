@@ -145,7 +145,8 @@ Why vibe coded software has so much activity?
 1. It has no direction.
    I, a person, may generate more activity, but those are squashed into higher level PR.
 2. It is not made to be maintainable.
-   The software needs a lot of constant tweaks because the codes are not generic.
+   The software needs a lot of constant tweaks because the codes are not flexible or generic.
+   It is usually done by more if else than actual abstract design.
 
 ## Unicorn where?
 
