@@ -132,6 +132,15 @@ For frontend / testing I think it's great.
 
 Note: this augments the idea that it is bad at creativity.
 
+#### Example
+
+It works only if you know what you are doing,
+or when the task is super simple but have a lot of chores.
+
+This is an information system after all.
+
+e.g. rewriting ebook metadata, lots of chores, but conceptually simple.
+
 e.g. during `inversql` (May 2026) developement we used agent (vibe coded, in one go) to help write frontend,
 but it keeps getting confused about what our backend does and can't generate frontend accordingly.
 And then I reverted to free chatgpt, and give precise requirement for function,
