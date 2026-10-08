@@ -141,6 +141,11 @@ This is an information system after all.
 
 e.g. rewriting ebook metadata, lots of chores, but conceptually simple.
 
+e.g. writing tests. You already have all the info.
+
+e.g. writing an implementation when we already have the specs of interface.
+More dubious but most of the time works.
+
 e.g. during `inversql` (May 2026) developement we used agent (vibe coded, in one go) to help write frontend,
 but it keeps getting confused about what our backend does and can't generate frontend accordingly.
 And then I reverted to free chatgpt, and give precise requirement for function,
