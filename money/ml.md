@@ -116,6 +116,12 @@ Since LLM is pitched like AGI, it suffers the same problems as AGI in monetizati
 
 ### Vibe coding
 
+It actually can only handle simple things.
+Beyond that you are bruteforcing a solution by trial and error.
+
+It comes up solutions by constant patching which is why the result is a mess.
+
+
 #### Good at
 
 Vibe coding is only great at solving problems that have been solved thousands of times before on github.
@@ -127,10 +133,11 @@ For frontend / testing I think it's great.
 
 Note: this augments the idea that it is bad at creativity.
 
-e.g. during `inversql` developement we used agent (vibe coded, in one go) to help write frontend,
+e.g. during `inversql` (May 2026) developement we used agent (vibe coded, in one go) to help write frontend,
 but it keeps getting confused about what our backend does and can't generate frontend accordingly.
 And then I reverted to free chatgpt, and give precise requirement for function,
-which is able to generate a streamlit app, though ugly, in 90 lines.
+asking it to follow my exact steps (search this library, use this function etc),
+and was able to generate a streamlit app, though ugly, in 90 lines.
 
 #### Activity
 
