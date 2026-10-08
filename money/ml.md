@@ -116,6 +116,8 @@ Since LLM is pitched like AGI, it suffers the same problems as AGI in monetizati
 
 ### Vibe coding
 
+#### Good at
+
 Vibe coding is only great at solving problems that have been solved thousands of times before on github.
 
 For a new problem that is never before solved (search online for same solution and not found),
@@ -127,6 +129,15 @@ Note: this augments the idea that it is bad at creativity.
 
 e.g. during `inversql` developement we wanted to use LLM to help write frontend,
 but it keeps getting confused about what our backend does and can't generate frontend accordingly.
+
+#### Activity
+
+Why vibe coded software has so much activity?
+
+1. It has no direction.
+   I, a person, may generate more activity, but those are squashed into higher level PR.
+2. It is not made to be maintainable.
+   The software needs a lot of constant tweaks because the codes are not generic.
 
 ## Unicorn where?
 
