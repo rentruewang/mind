@@ -127,8 +127,10 @@ For frontend / testing I think it's great.
 
 Note: this augments the idea that it is bad at creativity.
 
-e.g. during `inversql` developement we wanted to use LLM to help write frontend,
+e.g. during `inversql` developement we used agent (vibe coded, in one go) to help write frontend,
 but it keeps getting confused about what our backend does and can't generate frontend accordingly.
+And then I reverted to free chatgpt, and give precise requirement for function,
+which is able to generate a streamlit app, though ugly, in 90 lines.
 
 #### Activity
 
