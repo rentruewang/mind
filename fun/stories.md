@@ -774,7 +774,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Somewhat multithreaded, but have a main "stem".
 
-- Less memorable (unremarkable) characters and plots.
+- Less memorable (unremarkable) characters and plots (even if realistic).
   Usually deliver on settings. Characters are somewhat flat / 1D.
 
 
