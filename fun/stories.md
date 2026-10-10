@@ -417,7 +417,7 @@ This list is in the ranking of greatness IMO.
   Overall just feels **real**.
   He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
-- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic.
+- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality (**show**), making them realistic.
   Characters don't act in a single obvious way, but much more complex based on their situation (multi dimensional / faceted).
   This allows potential branching of the story line, the hidden motivation, or hidden lines.
   Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
@@ -761,7 +761,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 ##### Yusuke Kishi
 
-- Usually a mystery story, good at building the world.
+- Usually a mystery story, good at building the world / world settings.
 
 - Amazing atmosphere building.
 
