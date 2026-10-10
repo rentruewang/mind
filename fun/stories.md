@@ -379,7 +379,7 @@ Tell is more _efficient_ (saves compute) at telling an entire class of actions /
 #### Compute
 
 Tell -> show: infer
-Show -> tell: deduce
+Show -> tell: induce / deduce (ambiguous)
 
 Infer is cheaper than deduce.
 
@@ -399,6 +399,12 @@ where for telling to be convincing entire category needs to happen.
 
 When presented with an abstract idea, more things can go wrong (it's a class, wider attack surface),
 paired with being less taxing on the reader, reader has more compute to attack.
+
+##### Compare with layering in character.
+
+Note: This layering != layering in character.
+Layering in character = conflicts.
+Showing = telling with styles / tendencies.
 
 ## Examples
 
