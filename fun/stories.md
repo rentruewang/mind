@@ -301,7 +301,8 @@ Main character should evolve / develop, and side characters should react (both a
 
 ### Plot device
 
-I think plot devices stem from bad character writing (un-reasonable).
+I think plot devices stem from bad character writing (un-reasonable),
+this is opposite to slice of life (expected, non memorable).
 
 Each character should be optimizing for their own goals (with their own view, history, experience, and story).
 
