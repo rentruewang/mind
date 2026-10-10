@@ -615,7 +615,7 @@ Case study on aspects:
   E.g. Ned never considered naming Joffery's father (would cause war),
   even in the throne room when his men all died (this info = last ditch effort, maybe turn tides).
   Deeper writing: he told, but others are either cowards or profit driven.
-  Or he try to name it but thought of his daughters.
+  Or he try to tell but thought of his daughters (cost).
   Motivations are not consistently written, or change too quickly.
 
 - Less layered relationships / decisions.
