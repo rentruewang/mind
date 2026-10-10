@@ -586,7 +586,7 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 
 Worse pacing (especially in "down time").
 
-Most characters are identifiable through what they say (unique).
+Most (important) characters are identifiable through what they say (unique).
 
 Characters are less realistic / more shallow / 1D / less depth than JY but good enough (like Gu Long), 
 more predictable and having fewer (internal) conflicts, overall less complex.
