@@ -18,7 +18,7 @@ Attention: A story feels natural if the information delivered is well suited to 
 
 ## Framework
 
-Atoms: Characters with traits and tendencies and correlated objectives, world
+Atoms: Characters with traits and tendencies and correlated / conflicting objectives, world
 
 Inference: unexpected but reasonable, forming events (lines / threads), mostly from character actions (low level).
 
@@ -693,13 +693,14 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
-##### Yusuke Kishi
+##### Sherlock Holmes
 
-- Usually a mystery story, good at building the world.
+- Good character building.
 
-- Amazing atmosphere building.
+- Very good at suspense / mystery.
 
-- Somewhat multithreaded, but have a main "stem".
+- Stories may be a little predictable due to being a classic.
+
 
 ##### Gu Long
 
@@ -758,13 +759,16 @@ Tells more than JY (JY is more camera / stage play like):
 
 - JY has better inference and better pacing.
 
-##### Sherlock Holmes
+##### Yusuke Kishi
 
-- Good character building.
+- Usually a mystery story, good at building the world.
 
-- Very good at suspense / mystery.
+- Amazing atmosphere building.
 
-- Stories may be a little predictable due to being a classic.
+- Somewhat multithreaded, but have a main "stem".
+
+- Less memorable characters and plots. Usually deliver on settings.
+
 
 ##### Movies / short stories / web, light, kids, teen novels
 
