@@ -301,7 +301,7 @@ Main character should evolve / develop, and side characters should react (both a
 
 ### Plot device
 
-I think plot devices stem from bad character writing (not deep).
+I think plot devices stem from bad character writing (bad **inference**).
 
 Each character should be optimizing for their own goals (with their own view, history, experience, and story).
 
@@ -722,7 +722,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
 
-- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing).
+- Characters tho, is somewhat deep (internal conflicts for some MC) but plot devicey (e.g. love flexing),
+  and predictable (non unique), due to him writing the same characters over and over.
 
 - Flexing = doing things ordinary people won't, only cool people will. Includes:
   - Status over substance (and over exaggerate this aspect).
