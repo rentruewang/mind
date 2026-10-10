@@ -114,6 +114,54 @@ Since LLM is pitched like AGI, it suffers the same problems as AGI in monetizati
 
 > Unfortunately the reality of LLM-based contributions has been mostly negative for us, from an increase in background noise due to worthless drive-by PRs full of hallucinations (that wouldn’t even compile, let alone pass CI), to insane 10 thousand line long first time PRs. In-between we also received plenty of PRs that looked fine on the surface, some of which explicitly claimed to not have made use of LLMs, but where follow-up discussions immediately made it clear that the author was sneakily consulting an LLM and regurgitating its mistake-filled replies to us.
 
+### Vibe coding
+
+It actually can only handle simple things.
+Beyond that you are bruteforcing a solution by trial and error.
+
+It comes up solutions by constant patching which is why the result is a mess.
+
+#### Good at
+
+Vibe coding is only great at solving problems that have been solved thousands of times before on github.
+
+For a new problem that is never before solved (search online for same solution and not found),
+it is terrible at grasping what exactly is being solved.
+
+For frontend / testing I think it's great.
+
+Note: this augments the idea that it is bad at creativity.
+
+#### Example
+
+It works only if you know what you are doing,
+or when the task is super simple but have a lot of chores.
+
+This is an information system after all.
+
+e.g. rewriting ebook metadata, lots of chores, but conceptually simple.
+
+e.g. writing tests. You already have all the info.
+
+e.g. writing an implementation when we already have the specs of interface.
+More dubious but most of the time works.
+
+e.g. during `inversql` (May 2026) developement we used agent (vibe coded, in one go) to help write frontend,
+but it keeps getting confused about what our backend does and can't generate frontend accordingly.
+And then I reverted to free chatgpt, and give precise requirement for function,
+asking it to follow my exact steps (search this library, use this function etc),
+and was able to generate a streamlit app, though ugly, in 90 lines.
+
+#### Activity
+
+Why vibe coded software has so much activity?
+
+1. It has no direction.
+   I, a person, may generate more activity, but those are squashed into higher level PR.
+2. It is not made to be maintainable.
+   The software needs a lot of constant tweaks because the codes are not flexible or generic.
+   It is usually done by more if else than actual abstract design.
+
 ## Unicorn where?
 
 Simple exercise, where are the unicorns? SV unicorns become a unicorn on average in 3 years.
