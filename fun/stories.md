@@ -438,7 +438,7 @@ This list is in the ranking of greatness IMO.
   Re-reading doesn't feel boring due to having lots of details (that look insignificant at first), and both sides feel **reasonable**.
   This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Transient, detailed, unique reactions
+- Transient, detailed, unique reactions / voices
   Duration: minuate, transient, in the moment
   Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
   Text wise: Lasting a couple of sentences or paragraphs.
@@ -486,7 +486,7 @@ This list is in the ranking of greatness IMO.
   With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
   Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
 
-- Characters have many many different personalities and flaws and motivations, and are unique.
+- Characters have many many different personalities and flaws and motivations, and are unique (motivations / reactions / voices).
   Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters.
   Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories.
   Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes).
@@ -586,7 +586,7 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 
 Worse pacing (especially in "down time").
 
-Most (important) characters are identifiable through what they say (unique).
+Most (important) characters have unique voices.
 
 Characters are less realistic / more shallow / 1D / less depth than JY but good enough (like Gu Long), 
 more predictable and having fewer (internal) conflicts, overall less complex.
