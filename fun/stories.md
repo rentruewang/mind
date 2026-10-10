@@ -767,7 +767,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Somewhat multithreaded, but have a main "stem".
 
-- Less memorable characters and plots. Usually deliver on settings.
+- Less memorable (unremarkable) characters and plots. Usually deliver on settings.
 
 
 ##### Movies / short stories / web, light, kids, teen novels
