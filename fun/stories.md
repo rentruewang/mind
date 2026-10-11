@@ -448,7 +448,9 @@ This list is in the ranking of greatness IMO.
   Sometimes surprise = same event + different angle = different (new) conclusion = reveal.
   On small transient things tho or else it's different idealogies.
   This is also attention based.
+  This makes his "fillers" also dramatic and interesting, because they reveal personalities.
   E.g. Xu Zhu dining in the restaurant.
+  E.g. Wei Xiaobao telling a story.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues (connected e.g. contrast, contradict) can be scattered over great distances (chapters apart).
@@ -903,3 +905,4 @@ Wu Sangui = 吳三桂
 Xiao Longnv = 小龍女
 Ling Huchong = 令狐沖
 Hua Wuque = 花無缺
+Xu Zhu = 虛竹
