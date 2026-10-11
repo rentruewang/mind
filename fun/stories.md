@@ -445,12 +445,13 @@ This list is in the ranking of greatness IMO.
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
   These allows small twists (= surprise reveal) and plot to be made and keep them engaged.
   Coupled with different characters having different tendencies (angles), this makes it very memorable.
-  Sometimes surprise = same event + different angle = different (new) conclusion = reveal.
-  On small transient things tho or else it's different idealogies.
   This is also attention based.
   This makes his "fillers" also dramatic and interesting, because they reveal personalities.
   E.g. Xu Zhu dining in the restaurant.
-  E.g. Wei Xiaobao telling a story.
+  E.g. Wei Xiaobao telling a story to Mao 18.
+  Note: Sometimes same event + different angle => surprise => different (new) conclusion => reveal,
+  and this causes the characters to react to it differently, showing their personality.
+  On small transient things (short lasting) tho or else it's different idealogies (long lasting), which is not what we're discussing in this bullet.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues (connected e.g. contrast, contradict) can be scattered over great distances (chapters apart).
@@ -904,6 +905,8 @@ Chen Jinnan = 陳近南
 Wu Sangui = 吳三桂
 Xiao Longnv = 小龍女
 Ling Huchong = 令狐沖
-Hua Wuque = 花無缺
 Xu Zhu = 虛竹
 Wei Xiaobao = 韋小寶
+Mao 18 = 茅十八
+
+Hua Wuque = 花無缺
