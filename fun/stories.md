@@ -835,10 +835,11 @@ These are not to say they are bad, but they are a form of story where you won't 
 - Valentine book:
   - Plot driven, characters are 1D and bland, realistic but not memorable.
     1st antagonist should love MC (like movie), which makes him deeper and conflicted.
+    Passive MC with no personality.
   - Decent plot but the ending ruins it. Movie's ending is a much better pay off.
     The 2nd antagonist goes out of his way to make the deception happen + coincidence (plot device).
   - Low information density, fillers: the dialogue is detailed and realistic,
-    but is inconsequential and doesn't reveal info, it's more slice of life feel (and then writing).
+    but is inconsequential and doesn't reveal info (e.g. personality), it's more slice of life feel (and then writing).
     Same issue with plots; how many subplots end with the verdict: he could be anyone?
     Things happen -> discuss / reaction (not character driven, and most don't change the plot, so it's filler).
   - Likes to frontload backstory by monologue.
