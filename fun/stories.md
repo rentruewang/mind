@@ -842,7 +842,7 @@ These are not to say they are bad, but they are a form of story where you won't 
     Same issue with plots; how many subplots end with the verdict: he could be anyone?
     Things happen -> discuss / reaction (not character driven, and most don't change the plot, so it's filler).
   - Likes to frontload backstory by monologue.
-  - Working it into dialogue would be better (JY does this best ofc).
+    Working it into dialogue would be better (JY does this best ofc).
 
 ### Literary fictions
 
