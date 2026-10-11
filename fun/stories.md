@@ -837,9 +837,9 @@ These are not to say they are bad, but they are a form of story where you won't 
 - Valentine book:
   - Plot driven, characters are 1D and bland.
   - Good plot but the ending ruins it. Movie's ending is a much better pay off.
-  - Things happen -> discuss (discussion has no purpose other than reaction, but it's not character driven so it's filler).
   - 2 antagonists go out of their way to make the deception happen + coincidence (plot device).
-  - The book has a lot of filler in the 2nd half, or overall inconsequential details, shorter would be better.
+  - The book has a lot of filler, and overall inconsequential details, shorter would be better.
+    Things happen -> discuss (discussion has no purpose other than reaction, but it's not character driven so it's filler).
 
 ### Literary fictions
 
