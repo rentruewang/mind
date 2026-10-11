@@ -588,7 +588,7 @@ Worse pacing (especially in "down time").
 
 Most (important) characters have unique voices.
 
-Characters are less realistic / more shallow / 1D / less depth than JY but good enough (like Gu Long), 
+Characters are less realistic / more shallow / 1D / less depth than JY but good enough (like Gu Long),
 more predictable and having fewer (internal) conflicts, overall less complex.
 Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, serving POV needs rather than their own stances, etc).
 
@@ -709,7 +709,6 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stories may be a little predictable due to being a classic.
 
-
 ##### Gu Long
 
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong).
@@ -778,7 +777,6 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Less memorable (unremarkable) characters and plots (even if realistic).
   Usually deliver on settings. Characters are somewhat flat / 1D.
-
 
 ##### Movies / short stories / web, light, kids, teen novels
 
