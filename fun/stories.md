@@ -841,7 +841,7 @@ These are not to say they are bad, but they are a form of story where you won't 
   - The book has a lot of filler, and overall inconsequential details, shorter would be better.
     Things happen -> discuss / reaction (not character driven, and most don't change the plot, so it's filler).
   - Low information density: the dialogue is detailed and realistic,
-    but is inconsequential and doesn't reveal info, it's more slice of life feel.
+    but is inconsequential and doesn't reveal info, it's more slice of life feel (and then writing).
     Same issue with plots; how many subplots end with the verdict: he could be anyone?
 
 ### Literary fictions
