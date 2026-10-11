@@ -839,7 +839,7 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Good plot but the ending ruins it. Movie's ending is a much better pay off.
     2nd antagonist go out of their way to make the deception happen + coincidence (plot device).
   - The book has a lot of filler, and overall inconsequential details, shorter would be better.
-    Things happen -> discuss (discussion has no purpose other than reaction, but it's not character driven so it's filler).
+    Things happen -> discuss / reaction (not character driven, and does not change the plot, so it's filler).
 
 ### Literary fictions
 
