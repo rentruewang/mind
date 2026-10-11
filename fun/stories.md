@@ -805,6 +805,22 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 - Percy Jackson: I read it like 5 times, very relaxing. Multiple small, modular adventures combined usually.
 
+- Goosebumps / Fear Street books:
+  - Massive plot holes in the motivations / intentions, in pretty much all books.
+    Motivations are often just wrong or at best thin.
+    For goosebumps this is ok, because MC are usually kids. But for fear street...
+  - Therefore Goosebumps > Fear Street.
+  - Often a mystery type. Characters uncover information by dialogue.
+    Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
+    Also characters likes to skip the most obvious option / decision.
+    Without these the plot probably ends in 10 pages.
+    This highlights a big issue: the plot is "fabricated" not natural / inevitable.
+  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
+  - Plots are linear.
+  - But, easy to consume and follow as the POV's decision process is laid out.
+    Despite the plot holes, most of those still make sense, making it easy to echo.
+    Even if those thoughts are "told" not "shown" pretty much all of the times.
+
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
 - Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
@@ -818,20 +834,12 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Missing smaller scale intricacy. E.g. nothing pays off except the big idea.
   - Best enjoyed as a Wikipedia summary.
 
-- Goosebumps / Fear Street books:
-  - Massive plot holes in the motivations / intentions, in pretty much all books.
-    Motivations are often just wrong or at best thin.
-    For goosebumps this is ok, because MC are usually kids. But for fear street...
-  - Often a mystery type. Characters uncover information by dialogue.
-    Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
-    Also characters likes to skip the most obvious option / decision.
-    Without these the plot probably ends in 10 pages.
-    This highlights a big issue: the plot is "fabricated" not natural / inevitable.
-  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
-  - Plots are linear.
-  - But, easy to consume and follow as the POV's decision process is laid out.
-    Despite the plot holes, most of those still make sense, making it easy to echo.
-    Even if those thoughts are "told" not "shown" pretty much all of the times.
+- Valentine book:
+  - Plot driven, characters are 1D and bland.
+  - Good plot but the ending ruins it. Movie's ending is a much better pay off.
+  - Things happen -> discuss (discussion has no purpose other than reaction, but it's not character driven so it's filler).
+  - 2 antagonists go out of their way to make the deception happen + coincidence (plot device).
+  - The book has a lot of filler in the 2nd half, or overall inconsequential details, shorter would be better.
 
 ### Literary fictions
 
