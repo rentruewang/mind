@@ -837,11 +837,11 @@ These are not to say they are bad, but they are a form of story where you won't 
 - Valentine book:
   - Plot driven, characters are 1D and bland, realistic but not memorable.
   - Good plot but the ending ruins it. Movie's ending is a much better pay off.
-    2nd antagonist go out of their way to make the deception happen + coincidence (plot device).
+    The 2nd antagonist go out of his way to make the deception happen + coincidence (plot device).
   - The book has a lot of filler, and overall inconsequential details, shorter would be better.
     Things happen -> discuss / reaction (not character driven, and most don't change the plot, so it's filler).
-  - Low information density: the dialogue are detailed and realistic,
-    but are inconsequential and doesn't reveal info, it's more slice of life feel.
+  - Low information density: the dialogue is detailed and realistic,
+    but is inconsequential and doesn't reveal info, it's more slice of life feel.
     Same with subplots; how many subplots ends with the verdict: he could be anyone?
 
 ### Literary fictions
