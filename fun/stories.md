@@ -834,7 +834,7 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 - Valentine book:
   - Plot driven, characters are 1D and bland, realistic but not memorable.
-    1st antagonist could love the MC you know, which would make him deeper.
+    1st antagonist should love the MC (like movie), which would make him deeper and conflicted.
   - Decent plot but the ending ruins it. Movie's ending is a much better pay off.
     The 2nd antagonist goes out of his way to make the deception happen + coincidence (plot device).
   - The book has a lot of filler, and overall inconsequential details, shorter would be better.
