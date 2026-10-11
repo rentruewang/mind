@@ -838,10 +838,11 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Plot driven, characters are 1D and bland, realistic enough tho.
   - Good plot but the ending ruins it. Movie's ending is a much better pay off.
     2nd antagonist go out of their way to make the deception happen + coincidence (plot device).
-  - Monologues / flashbacks the backstory a lot.
-    I don't mind this, but putting those back stories as they come up in dialogue would be better (like JY).
   - The book has a lot of filler, and overall inconsequential details, shorter would be better.
     Things happen -> discuss / reaction (not character driven, and most don't change the plot, so it's filler).
+  - Low information density: the dialogue are detailed and realistic,
+    but does not drive the plot (inconsequential).
+    How many subplots ends with the verdict: he could be anyone?
 
 ### Literary fictions
 
