@@ -906,3 +906,4 @@ Xiao Longnv = 小龍女
 Ling Huchong = 令狐沖
 Hua Wuque = 花無缺
 Xu Zhu = 虛竹
+Wei Xiaobao = 韋小寶
