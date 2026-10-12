@@ -549,7 +549,7 @@ This list is in the ranking of greatness IMO.
   Sometimes a summarization / recap by character mouth or narrator to sum up events.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
-  Kind of like "following the stream of conciousness", but largely chronological.
+  Kind of like following the "stream of conciousness", but largely chronological.
 
 - Having characters so lively and multi layered and charming,
   it's difficult (for some readers) to see some characters as bad.
