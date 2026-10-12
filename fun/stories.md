@@ -18,7 +18,7 @@ Attention: A story feels natural if the information delivered is well suited to 
 
 ## Framework
 
-Atoms: Characters with traits and tendencies and correlated objectives, world
+Atoms: Characters with traits and tendencies and correlated / conflicting objectives, world
 
 Inference: unexpected but reasonable, forming events (lines / threads), mostly from character actions (low level).
 
@@ -301,7 +301,8 @@ Main character should evolve / develop, and side characters should react (both a
 
 ### Plot device
 
-I think plot devices stem from bad character writing (not deep).
+I think plot devices stem from bad character writing (un-reasonable),
+this is opposite to slice of life (expected, non memorable).
 
 Each character should be optimizing for their own goals (with their own view, history, experience, and story).
 
@@ -379,7 +380,7 @@ Tell is more _efficient_ (saves compute) at telling an entire class of actions /
 #### Compute
 
 Tell -> show: infer
-Show -> tell: deduce
+Show -> tell: induce / deduce (ambiguous)
 
 Infer is cheaper than deduce.
 
@@ -400,6 +401,12 @@ where for telling to be convincing entire category needs to happen.
 When presented with an abstract idea, more things can go wrong (it's a class, wider attack surface),
 paired with being less taxing on the reader, reader has more compute to attack.
 
+##### Compare with layering in character.
+
+Note: This layering (depth) != layering (depth) in character.
+Layering in character = conflicts.
+Showing = telling with styles / tendencies.
+
 ## Examples
 
 #### most of these I consumed more than 1 times or having consumed the entire collection.
@@ -417,7 +424,7 @@ This list is in the ranking of greatness IMO.
   Overall just feels **real**.
   He likes to narrate (tell) a good amount of context to reduce cognitive load for readers, for things that cannot be shown (e.g. in the past).
 
-- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality, making them realistic.
+- Good world building allows people to create lots of theories. **3D characters**, using indirect, varied angles and events to depict characters' personality (**show**), making them realistic.
   Characters don't act in a single obvious way, but much more complex based on their situation (multi dimensional / faceted).
   This allows potential branching of the story line, the hidden motivation, or hidden lines.
   Hidden lines and backstories have to be inferred (from characters' subtle actions) rather than told.
@@ -431,22 +438,25 @@ This list is in the ranking of greatness IMO.
   Re-reading doesn't feel boring due to having lots of details (that look insignificant at first), and both sides feel **reasonable**.
   This means that plot density is high (anywhere can have a clue with lasting effects).
 
-- Transient, detailed, unique reactions
+- Transient, detailed, unique reactions / voices
   Duration: minuate, transient, in the moment
   Types: Reactions, plans, actions, decisions, emotions, monologue, dialogue
   Text wise: Lasting a couple of sentences or paragraphs.
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
   These allows small twists (= surprise reveal) and plot to be made and keep them engaged.
   Coupled with different characters having different tendencies (angles), this makes it very memorable.
-  Sometimes surprise = same event + different angle = different (new) conclusion = reveal.
-  On small transient things tho or else it's different idealogies.
-  This is also attention based.
+  This is also **attention** based.
+  This makes his "fillers" also dramatic and interesting, because they reveal personalities.
   E.g. Xu Zhu dining in the restaurant.
+  E.g. Wei Xiaobao telling a story to Mao 18.
+  Note: Sometimes same event + different angle => surprise => different (new) conclusion => reveal,
+  and this causes the characters to react to it differently, showing their personality.
+  On small transient things (short lasting) tho or else it's different idealogies (long lasting), which is not what we're discussing in this bullet.
 
 - Spring & Autumn Brushwork: Hide subtlety in (many) details.
   1. Show you real events, but related clues (connected e.g. contrast, contradict) can be scattered over great distances (chapters apart).
   2. _Details_ can be 1 word short, or in **what is omitted** (not just what they did, but also what they did not do).
-  3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging in deep into a character's avaiable information and **how** they make decisions / what they say.
+  3. _Deduct_ implicit / indirect info (as context) to reveal **hidden motivation / hidden emotions** after digging deep into a character's avaiable information and **how** they make decisions / what they say.
   4. Omit inferrable information / emphasize the parts and excuses he wants you to focus on (sampling bias) / behavior not the same as biased narration / dialogue (which makes you empathetic, but don't get fooled).
   5. Partial information (don't include global info in each character's function input).
   6. **You must think in a character's shoes**, think of the options they can take, why and how they get info. Importance to you != to character. Don't take dialogue at their face value (sarcasm or misjudgment due to partial info).
@@ -454,6 +464,8 @@ This list is in the ranking of greatness IMO.
   8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character. Treat the story as _no author error_ to reveal.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
+  E.g. selfish acts of Ling Huchong portraited as flexibility / honor.
+  E.g. the spark between Yang Guo and Guo Fu told as hate (but shown).
 
 - Using contrasting (similar input, different output), contradiction (same input, different output), and common sense (hidden context) to showcase personality (here treated as a deterministic function), to reveal tendencies, hidden motivations etc.
 
@@ -479,7 +491,7 @@ This list is in the ranking of greatness IMO.
   With ablation study, it shows that the plot is tight and one removal of a scene can change everything after.
   Consequences can be quantified in terms of depth (how important the affected event is to the reader) and width (how many other events are affected through ripple effect).
 
-- Characters have many many different personalities and flaws and motivations, and are unique.
+- Characters have many many different personalities and flaws and motivations, and are unique (motivations / reactions / voices).
   Shows character growth and change well, and are built and managed well (no out of character moves or silly motives etc). Make you care about the characters.
   Reveals character motivations through showing how they think and behave, not telling. These kinds of non formulaic characters allow for complex stories.
   Good characterization, realistic (motivation / situation driven, not plot driven) yet memorable characters even for one off sidecast (distinguished with just a few strokes).
@@ -539,6 +551,9 @@ This list is in the ranking of greatness IMO.
   Sometimes a summarization / recap by character mouth or narrator to sum up events.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
+  Kind of like following the "stream of conciousness" (of readers, sometimes POV's), but largely chronological,
+  follows what your mind follows (allowing a little jump in time but not too much),
+  and this is very screenplay like.
 
 - Having characters so lively and multi layered and charming,
   it's difficult (for some readers) to see some characters as bad.
@@ -579,10 +594,11 @@ No hidden / background plotlines (all get revealed), less clues and details (in 
 
 Worse pacing (especially in "down time").
 
-Characters are less realistic / more shallow / 1D but good enough (like Gu Long).
-Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, serving POV needs rather than their own stances, etc).
+Most (important) characters have unique voices.
 
-His characters are more 1D / less depth than JY, (more than Gu Long tho), more predictable and having fewer (internal) conflicts, overall less complex.
+Characters are less realistic / more shallow / 1D / less depth than JY but good enough (like Gu Long),
+more predictable and having fewer (internal) conflicts, overall less complex.
+Sometimes they are too "plot-device"-y (in terms of actions / dialogue to move plot forward, speech to disclose past events, their world spinning around POV, serving POV needs rather than their own stances, etc).
 
 Case study on aspects:
 
@@ -608,8 +624,8 @@ Case study on aspects:
   Characters should be goal driven, not plot driven.
   E.g. Ned never considered naming Joffery's father (would cause war),
   even in the throne room when his men all died (this info = last ditch effort, maybe turn tides).
-  Deeper writing: he named it, but others are either cowards or profit driven.
-  Or he try to name it but thought of his daughters.
+  Deeper writing: he told, but others are either cowards or profit driven.
+  Or he try to tell but thought of his daughters (cost).
   Motivations are not consistently written, or change too quickly.
 
 - Less layered relationships / decisions.
@@ -693,13 +709,13 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
-##### Yusuke Kishi
+##### Sherlock Holmes
 
-- Usually a mystery story, good at building the world.
+- Good character building.
 
-- Amazing atmosphere building.
+- Very good at suspense / mystery.
 
-- Somewhat multithreaded, but have a main "stem".
+- Stories may be a little predictable due to being a classic.
 
 ##### Gu Long
 
@@ -715,7 +731,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Good character portrait (maybe not realistic), lots of memorable characters (albeit somewhat similar), good atmosphere.
 
-- Characters tho, is 1D and no layering and quite shallow (plot devicey, love flexing).
+- Characters tho, is somewhat deep (internal conflicts for some MC) but plot devicey (e.g. love flexing),
+  and predictable (non unique), due to him writing the same characters over and over.
 
 - Flexing = doing things ordinary people won't, only cool people will. Includes:
   - Status over substance (and over exaggerate this aspect).
@@ -758,13 +775,22 @@ Tells more than JY (JY is more camera / stage play like):
 
 - JY has better inference and better pacing.
 
-##### Sherlock Holmes
+##### Yusuke Kishi
 
-- Good character building.
+- Usually a mystery story, good at building the world / world settings.
 
-- Very good at suspense / mystery.
+- Amazing atmosphere building.
 
-- Stories may be a little predictable due to being a classic.
+- Somewhat multithreaded, but have a main "stem".
+
+- Less memorable (unremarkable) characters and plots (even if realistic).
+  Usually deliver on settings. Characters are somewhat flat / 1D.
+
+##### Child's play / Chucky movies
+
+- Always a new way to kill.
+
+- Fun personality.
 
 ##### Movies / short stories / web, light, kids, teen novels
 
@@ -791,6 +817,22 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 - Percy Jackson: I read it like 5 times, very relaxing. Multiple small, modular adventures combined usually.
 
+- Goosebumps / Fear Street books:
+  - Massive plot holes in the motivations / intentions, in pretty much all books.
+    Motivations are often just wrong or at best thin.
+    For goosebumps this is ok, because MC are usually kids. But for fear street...
+  - Therefore Goosebumps > Fear Street.
+  - Often a mystery type. Characters uncover information by dialogue.
+    Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
+    Also characters likes to skip the most obvious option / decision.
+    Without these the plot probably ends in 10 pages.
+    This highlights a big issue: the plot is "fabricated" not natural / inevitable.
+  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
+  - Plots are linear.
+  - But, easy to consume and follow as the POV's decision process is laid out.
+    Despite the plot holes, most of those still make sense, making it easy to echo.
+    Even if those thoughts are "told" not "shown" pretty much all of the times.
+
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
 - Memento: watchers spend a big amount of brain power to piece together information and to predict events (mainly which character is good / bad).
@@ -804,19 +846,18 @@ These are not to say they are bad, but they are a form of story where you won't 
   - Missing smaller scale intricacy. E.g. nothing pays off except the big idea.
   - Best enjoyed as a Wikipedia summary.
 
-- Goosebumps / Fear Street books:
-  - Massive plot holes in the motivations / intentions, in pretty much all books.
-    Motivations are often just wrong or at best thin.
-    For goosebumps this is ok, because MC are usually kids. But for fear street...
-  - Often a mystery type. Characters uncover information by dialogue.
-    Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
-    Also likes to skip the most obvious option. Without these the plot probably ends in 10 pages.
-    This highlights a big issue: the plot is "fabricated" not natural / inevitable.
-  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
-  - Plots are linear.
-  - But, easy to consume and follow as the POV's decision process is laid out.
-    Despite the plot holes, most of those still make sense, making it easy to echo.
-    Even if those thoughts are "told" not "shown" pretty much all of the times.
+- Valentine book:
+  - Plot driven, characters are 1D and bland, realistic but not memorable.
+    1st antagonist should love MC (like movie), which makes him deeper and conflicted.
+    Passive MC with no personality.
+  - Decent plot but the ending ruins it. Movie's ending is a much better pay off.
+    The 2nd antagonist goes out of his way to make the deception happen + coincidence (plot device).
+  - Low information density, fillers: the dialogue is detailed and realistic,
+    but is inconsequential and doesn't reveal info (e.g. personality), it's more slice of life feel (and then writing).
+    Same issue with plots; how many subplots end with the verdict: he could be anyone?
+    Things happen -> discuss / reaction (not character driven, and most don't change the plot, so it's filler).
+  - Likes to frontload backstory by monologue.
+    Working it into dialogue would be better (JY does this best ofc).
 
 ### Literary fictions
 
@@ -874,5 +915,11 @@ Zuo Lengchan = 左冷禪
 Chen Jinnan = 陳近南
 Wu Sangui = 吳三桂
 Xiao Longnv = 小龍女
+Yang Guo = 楊過
+Guo Fu = 郭芙
 Ling Huchong = 令狐沖
+Xu Zhu = 虛竹
+Wei Xiaobao = 韋小寶
+Mao 18 = 茅十八
+
 Hua Wuque = 花無缺
