@@ -445,7 +445,7 @@ This list is in the ranking of greatness IMO.
   These details make the characters lively and more human like, and you get to see the immediate reactions (revealing personalities).
   These allows small twists (= surprise reveal) and plot to be made and keep them engaged.
   Coupled with different characters having different tendencies (angles), this makes it very memorable.
-  This is also attention based.
+  This is also **attention** based.
   This makes his "fillers" also dramatic and interesting, because they reveal personalities.
   E.g. Xu Zhu dining in the restaurant.
   E.g. Wei Xiaobao telling a story to Mao 18.
