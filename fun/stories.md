@@ -550,7 +550,8 @@ This list is in the ranking of greatness IMO.
   Using **mirror neurons** to simply and make more engaging storytelling, by showing the mind of the characters (rather than wordy boring explanation of the motives etc, e.g. frown rather than annoyed because of A/B/C), not overdoing explanation yet make it easy for readers to grasp how they are thinking.
   Uses character thoughts to help you understand motive (but if you analyze more, characters usually has deeper / "meta" thoughts driving those thoughts, called their characters).
   Kind of like following the "stream of conciousness" (of readers, sometimes POV's), but largely chronological,
-  follows what your mind follows (allowing a little jump in time but not too much).
+  follows what your mind follows (allowing a little jump in time but not too much),
+  and this is very screenplay like.
 
 - Having characters so lively and multi layered and charming,
   it's difficult (for some readers) to see some characters as bad.
