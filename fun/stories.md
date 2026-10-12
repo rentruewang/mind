@@ -814,7 +814,7 @@ Goosebumps > Fear Street (explained below).
   Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
   Also characters likes to skip the most obvious option / decision.
   Without these the plot probably ends in 10 pages.
-  This highlights a big issue: the plot is "fabricated" not natural / inevitable.
+  This highlights a big issue: the plot is "fabricated" not natural / inevitable (or children).
 
 - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
 
