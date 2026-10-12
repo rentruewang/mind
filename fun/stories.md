@@ -792,6 +792,36 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Fun personality.
 
+##### Percy Jackson
+
+- I read it like 5 times, very relaxing.
+
+- Multiple small, modular adventures combined usually.
+
+##### RL Stine
+
+Goosebumps > Fear Street (explained below).
+
+- Multiple small, modular mysteries combined usually.
+
+- Relies on characters not making the most effective decision (e.g. telling adults).
+  Likewise for motivations / intentions (e.g. risking lives for a party / grades).
+  Works for paranormal / elementry school children (Goosebumps), but not serial killers (Fear Street).
+
+- Often a mystery type. Characters uncover information by dialogue.
+  Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
+  Also characters likes to skip the most obvious option / decision.
+  Without these the plot probably ends in 10 pages.
+  This highlights a big issue: the plot is "fabricated" not natural / inevitable.
+
+- Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
+
+- Plots are linear.
+
+- But, easy to consume and follow as the POV's decision process is laid out.
+  Despite the plot holes, most of those still make sense, making it easy to echo.
+  Even if those thoughts are "told" not "shown" pretty much all of the times.
+
 ##### Movies / short stories / web, light, kids, teen novels
 
 - No unique characters: Characters all respond the same way and there is little difference in terms of personality.
@@ -814,24 +844,6 @@ Tells more than JY (JY is more camera / stage play like):
 These are not to say they are bad, but they are a form of story where you won't find nuance.
 
 ###### Examples:
-
-- Percy Jackson: I read it like 5 times, very relaxing. Multiple small, modular adventures combined usually.
-
-- Goosebumps / Fear Street books:
-  - Massive plot holes in the motivations / intentions, in pretty much all books.
-    Motivations are often just wrong or at best thin.
-    For goosebumps this is ok, because MC are usually kids. But for fear street...
-  - Therefore Goosebumps > Fear Street.
-  - Often a mystery type. Characters uncover information by dialogue.
-    Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
-    Also characters likes to skip the most obvious option / decision.
-    Without these the plot probably ends in 10 pages.
-    This highlights a big issue: the plot is "fabricated" not natural / inevitable.
-  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
-  - Plots are linear.
-  - But, easy to consume and follow as the POV's decision process is laid out.
-    Despite the plot holes, most of those still make sense, making it easy to echo.
-    Even if those thoughts are "told" not "shown" pretty much all of the times.
 
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
