@@ -338,6 +338,14 @@ Role = how predictable from a label (being conflicted and layered makes its role
 - Stock characters (type cast) that serve nothing other than to drive the plot.
 - Shallow characters (characters exist for 1 purpose).
 
+### Character driven
+
+The layers in a character drive events. If character is complex but events ignore it, it's just flavors.
+
+Assume consitent writing, the character have ambiguous role, but in hindsight makes the right / obivous choice.
+
+Story completely changes with a different character (swap test again).
+
 ### Partial information
 
 If you know more than character: dramatic irony.
