@@ -328,6 +328,8 @@ Decision is deep when cost (_stakes_) is high. Each decision is costly because e
 
 ### Plot driven
 
+= not character driven.
+
 The characters' personalities do not influence the plot (only roles / events).
 
 - You can substitute any character of same role and the plot would be the same (role driven not personality).
