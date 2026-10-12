@@ -464,6 +464,8 @@ This list is in the ranking of greatness IMO.
   8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character. Treat the story as _no author error_ to reveal.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
+  E.g. selfish acts of Ling Huchong portraited as flexibility.
+  E.g. the spark between Yang Guo and Guo Fu protraited as hate.
 
 - Using contrasting (similar input, different output), contradiction (same input, different output), and common sense (hidden context) to showcase personality (here treated as a deterministic function), to reveal tendencies, hidden motivations etc.
 
@@ -907,6 +909,8 @@ Zuo Lengchan = 左冷禪
 Chen Jinnan = 陳近南
 Wu Sangui = 吳三桂
 Xiao Longnv = 小龍女
+Yang Guo = 楊過
+Guo Fu = 郭芙
 Ling Huchong = 令狐沖
 Xu Zhu = 虛竹
 Wei Xiaobao = 韋小寶
