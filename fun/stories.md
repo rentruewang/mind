@@ -798,6 +798,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Multiple small, modular adventures combined usually.
 
+- Characters are bland outside of Percy (what's Annabeth's personality again?).
+
 ##### RL Stine
 
 Goosebumps > Fear Street (explained below).
