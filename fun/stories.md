@@ -786,7 +786,7 @@ Tells more than JY (JY is more camera / stage play like):
 - Less memorable (unremarkable) characters and plots (even if realistic).
   Usually deliver on settings. Characters are somewhat flat / 1D.
 
-##### Child's play
+##### Child's play / Chucky movies
 
 - Always a new way to kill.
 
