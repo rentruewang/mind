@@ -342,6 +342,8 @@ Role = actions predictable from a label (being conflicted and layered makes its 
 
 The layers in a character drive events. If character is complex but events ignore it, it's just flavors.
 
+Note: the layers should conflict (or some way to keep options open). If not, it's just flavors (no ambiguity).
+
 Assume consitent writing, the character have ambiguous role, but in hindsight makes the right / obivous choice.
 
 Story completely changes with a different character (swap test again).
