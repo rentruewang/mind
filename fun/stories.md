@@ -342,7 +342,8 @@ Role = actions predictable from a label (being conflicted and layered makes its 
 
 The layers in a character drive events. If character is complex but events ignore it, it's just flavors.
 
-Note: the layers should conflict (or some way to keep options open). If not, it's just flavors (no ambiguity).
+The layers should conflict (or some way to keep options open). If not, it's just flavors (no ambiguity).
+Or, a very unique combination of labels. Conflicting is just a very simple way of making unique labels (via decision thresholds).
 
 Assume consitent writing, the character have ambiguous role, but in hindsight makes the right / obivous choice.
 
