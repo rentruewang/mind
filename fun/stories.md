@@ -328,11 +328,26 @@ Decision is deep when cost (_stakes_) is high. Each decision is costly because e
 
 ### Plot driven
 
+= not character driven.
+
 The characters' personalities do not influence the plot (only roles / events).
+
+Role = actions predictable from a label (being conflicted and layered makes its role ambiguous -> character driven).
 
 - You can substitute any character of same role and the plot would be the same (role driven not personality).
 - Stock characters (type cast) that serve nothing other than to drive the plot.
 - Shallow characters (characters exist for 1 purpose).
+
+### Character driven
+
+The layers in a character drive events. If character is complex but events ignore it, it's just flavors.
+
+The layers should conflict (or some way to keep options open). If not, it's just flavors (no ambiguity).
+Or, a very unique combination of labels. Conflicting is just a very simple way of making unique labels (via decision thresholds).
+
+Assume consitent writing, the character have ambiguous role, but in hindsight makes the right / obivous choice.
+
+Story completely changes with a different character (swap test again).
 
 ### Partial information
 
@@ -404,7 +419,7 @@ paired with being less taxing on the reader, reader has more compute to attack.
 ##### Compare with layering in character.
 
 Note: This layering (depth) != layering (depth) in character.
-Layering in character = conflicts.
+Layering in character = **conflicts**.
 Showing = telling with styles / tendencies.
 
 ## Examples
@@ -464,6 +479,7 @@ This list is in the ranking of greatness IMO.
   8. Use _contradiction (irony)_ on outcomes (shows that their must be extra factors at play), filter by character. Treat the story as _no author error_ to reveal.
   9. Use _common sense_ (static contexts) to infer events' contexts (inputs) and whatifs (outputs).
   10. You need to create "threads" by filtering events by characters (to reveal state change) / pairs of characters (to reveal relations), to isolate and analyze.
+
   E.g. selfish acts of Ling Huchong portraited as flexibility / honor.
   E.g. the spark between Yang Guo and Guo Fu told as hate (but shown).
 
@@ -792,6 +808,45 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Fun personality.
 
+##### Percy Jackson
+
+- Fast paced, humorous.
+
+- I read it like 5 times, very relaxing.
+
+- Multiple small, modular adventures combined usually.
+
+- Characters are bland outside of Percy (what's Annabeth's personality again?).
+
+##### RL Stine
+
+Goosebumps > Fear Street (explained below).
+
+- Fast paced, humorous.
+
+- Multiple small, modular mysteries combined usually.
+
+- Vivid depiction of common children situations.
+  e.g. sibling rivalry, school pressure, parents / children dynamics etc.
+
+- Relies on characters not making the most effective decision (e.g. telling adults).
+  Likewise for motivations / intentions (e.g. risking lives for a party / grades).
+  Works for paranormal / elementry school children (Goosebumps), but not serial killers (Fear Street).
+
+- Often a mystery type. Characters uncover information by dialogue.
+  Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
+  Also characters likes to skip the most obvious option / decision.
+  Without these the plot probably ends in 10 pages.
+  This highlights a big issue: the plot is "fabricated" not natural / inevitable (or children).
+
+- Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
+
+- Plots are linear.
+
+- But, easy to consume and follow as the POV's decision process is laid out.
+  Despite the plot holes, most of those still make sense, making it easy to echo.
+  Even if those thoughts are "told" not "shown" pretty much all of the times.
+
 ##### Movies / short stories / web, light, kids, teen novels
 
 - No unique characters: Characters all respond the same way and there is little difference in terms of personality.
@@ -814,24 +869,6 @@ Tells more than JY (JY is more camera / stage play like):
 These are not to say they are bad, but they are a form of story where you won't find nuance.
 
 ###### Examples:
-
-- Percy Jackson: I read it like 5 times, very relaxing. Multiple small, modular adventures combined usually.
-
-- Goosebumps / Fear Street books:
-  - Massive plot holes in the motivations / intentions, in pretty much all books.
-    Motivations are often just wrong or at best thin.
-    For goosebumps this is ok, because MC are usually kids. But for fear street...
-  - Therefore Goosebumps > Fear Street.
-  - Often a mystery type. Characters uncover information by dialogue.
-    Likes to use misunderstanding / refusal to to engage / other people are "busy" to keep the plot going.
-    Also characters likes to skip the most obvious option / decision.
-    Without these the plot probably ends in 10 pages.
-    This highlights a big issue: the plot is "fabricated" not natural / inevitable.
-  - Plot driven actions (characters aren't always consistent). Shallow / 1D characters + tell don't show.
-  - Plots are linear.
-  - But, easy to consume and follow as the POV's decision process is laid out.
-    Despite the plot holes, most of those still make sense, making it easy to echo.
-    Even if those thoughts are "told" not "shown" pretty much all of the times.
 
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
