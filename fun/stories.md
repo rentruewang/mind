@@ -416,7 +416,7 @@ paired with being less taxing on the reader, reader has more compute to attack.
 ##### Compare with layering in character.
 
 Note: This layering (depth) != layering (depth) in character.
-Layering in character = conflicts.
+Layering in character = **conflicts**.
 Showing = telling with styles / tendencies.
 
 ## Examples
