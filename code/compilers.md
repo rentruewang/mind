@@ -48,3 +48,11 @@ If you already have the nodes, might as well apply sea of nodes;
 also sea of nodes require some code motion algorithm to reconstruct the original function, which is not convenient.
 
 AST: In an imperative language, later nodes (the nodes more "right" in the AST) _can_ have implicit data dependencies on the nodes on previous nodes (more "left" in the AST). This corresponds to the fact that data depdencies are DAG by nature.
+
+Tree walk vs bytecode:
+
+Bytecode is easier to optimize, because of the following reasons:
+
+1. Bytecode itself is more limited. Tree is self contained.
+   This makes storing contexts in bytecode necessary and easy, not in tree walks.
+2. Bytecode is flat, tree walk has some tree walking overheads.
