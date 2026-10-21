@@ -876,13 +876,14 @@ Goosebumps > Fear Street (explained below).
 
 #### Konosuba
 
-- Modular adventures (2+ adventures per book almost), fast paced, essentially a sitcom.
+- Modular / episodic adventures (2+ adventures per book almost), fast paced, essentially a sitcom.
 
 - Sitcom:
   - You watch for the character dynamics.
   - Characters are "old friends", they are brutal to each other but all are harmless jokes, and they have each others' backs in critical moments.
   - Creative setting, memorable characters, by virtue of being crazy / broken, defying social norms.
   - Not always the most reasonable (humor leans on absurdity).
+  - Low stakes, reversible plot (even deaths).
   - Running gags.
 
 - Flat (1D) characters: people aren't selfish enough. Also formulaic personalities.
