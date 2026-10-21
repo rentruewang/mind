@@ -885,7 +885,7 @@ Goosebumps > Fear Street (explained below).
   - Not always the most reasonable (humor leans on absurdity).
   - Running gags.
 
-- Plot driven: people aren't selfish enough. Also formulaic personalities.
+- Flat characters: people aren't selfish enough. Also formulaic personalities. But surprisingly character driven (dynamics).
 
 - Interesting and different isekai. Even if it lacks depth and is mostly plot driven.
 
