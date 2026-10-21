@@ -885,7 +885,7 @@ Goosebumps > Fear Street (explained below).
   - Not always the most reasonable (humor leans on absurdity).
   - Running gags.
 
-- Flat characters: people aren't selfish enough. Also formulaic personalities.
+- Flat (1D) characters: people aren't selfish enough. Also formulaic personalities.
   But surprisingly character driven (mostly slice of life by isekai standards, you read for character dynamics).
 
 - Interesting and different isekai. Even if it lacks depth and consistency.
