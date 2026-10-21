@@ -883,14 +883,13 @@ Goosebumps > Fear Street (explained below).
   - Characters are "old friends", they are brutal to each other but all are harmless jokes, and they have each others' backs in critical moments.
   - Creative setting, memorable (by virtue of crazy) personalities, defy social norms.
   - Not always the most reasonable (humor leans on absurdity).
+  - Running gags.
 
 - Plot driven: people aren't selfish enough. Also formulaic personalities.
 
 - Interesting and different isekai. Even if it lacks depth and is mostly plot driven.
 
 - Coward MC.
-
-- Running gags.
 
 #### Others
 
