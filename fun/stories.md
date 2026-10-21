@@ -837,7 +837,7 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 #### Percy Jackson
 
-- Fast paced, humorous (mostly Percy but also some events).
+- Fast paced, humorous (mostly Percy is witty but also some events).
 
 - I read it like 5 times, very relaxing.
 
@@ -874,7 +874,19 @@ Goosebumps > Fear Street (explained below).
   Despite the plot holes, most of those still make sense, making it easy to echo.
   Even if those thoughts are "told" not "shown" pretty much all of the times.
 
-#### Others:
+#### Konosuba
+
+- Modular adventures, fast paced, essentially a sitcom.
+
+- Sitcom:
+  - You watch for the character dynamics.
+  - Characters are "old friends", they are brutal to each other but all are harmless jokes, and they have each others' backs in critical moments.
+  - Creative setting, memorable (by virtue of crazy) personalities, defy social norms.
+  - Not always the most reasonable.
+
+- Plot driven: people aren't selfish enough.
+
+#### Others
 
 These are ranked IMO below, because they target an older audience but can be hard to read a second time, due to being gimicky.
 
