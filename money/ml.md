@@ -20,14 +20,16 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 ### What it does great
 
-Solves the "framgentation" of AI (you have a unified interface to solutions to text / image etc).
+- Solves the "framgentation" of AI (you have a unified interface to solutions to text / image etc).
 
-Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
+- Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
 
-Demo. Which is:
+- Demo. Which is:
 
-1. Simpler
-2. Only needs the happy path working.
+  1. Simpler
+  2. Only needs the happy path working.
+
+- Writes tests.
 
 ### Why I don't like
 
