@@ -881,7 +881,7 @@ Goosebumps > Fear Street (explained below).
 - Sitcom:
   - You watch for the character dynamics.
   - Characters are "old friends", they are brutal to each other but all are harmless jokes, and they have each others' backs in critical moments.
-  - Creative setting, memorable (by virtue of crazy) personalities, defy social norms.
+  - Creative setting, memorable characters, by virtue of being crazy / broken, defying social norms.
   - Not always the most reasonable (humor leans on absurdity).
   - Running gags.
 
