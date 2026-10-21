@@ -890,7 +890,9 @@ Goosebumps > Fear Street (explained below).
 
 - Interesting and different isekai. Even if it lacks depth and consistency.
 
-- Coward MC.
+- Inconsistent character writing:
+  E.g. Coward MC. Portraited as selfish but apparantly not selfish enough.
+  Multiple times MC turned down opportunities because he wants to be fair to other parties.
 
 #### Others
 
