@@ -888,7 +888,7 @@ Goosebumps > Fear Street (explained below).
 - Flat characters: people aren't selfish enough. Also formulaic personalities.
   But surprisingly character driven (mostly slice of life by isekai standards, you read for character dynamics).
 
-- Interesting and different isekai. Even if it lacks depth and is mostly plot driven.
+- Interesting and different isekai. Even if it lacks depth and consistency.
 
 - Coward MC.
 
