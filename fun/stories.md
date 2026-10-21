@@ -886,15 +886,14 @@ Goosebumps > Fear Street (explained below).
   - Low stakes, reversible plot (even deaths).
   - Running gags.
 
-- Flat (1D) characters: people aren't selfish enough. Also formulaic personalities (type cast).
+- Flat (1D) characters: people aren't selfish enough. Also formulaic personalities (type cast, common types of crazy amongst light novels).
   But surprisingly character driven (mostly slice of life by isekai standards, you read for character dynamics).
+  A "fairy tale" like setting where it's low stakes.
 
 - Interesting and different isekai. Even if it lacks depth and consistency.
 
-- Inconsistent character writing:
-  E.g. MC portraited as selfish but apparantly not selfish enough.
-  Multiple times MC turned down opportunities because he wants to be fair to other parties.
-  The personality fluctuates based on the situation.
+- Tell most of the times.
+  But sometimes shows in famous scenes (mostly subtext from one of the characters).
 
 #### Others
 
