@@ -888,6 +888,8 @@ Goosebumps > Fear Street (explained below).
 
 - Interesting and different isekai. Even if it lacks depth and is mostly plot driven.
 
+- Coward MC.
+
 #### Others
 
 These are ranked IMO below, because they target an older audience but can be hard to read a second time, due to being gimicky.
