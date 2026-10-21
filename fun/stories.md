@@ -893,6 +893,7 @@ Goosebumps > Fear Street (explained below).
 - Inconsistent character writing:
   E.g. Coward MC. Portraited as selfish but apparantly not selfish enough.
   Multiple times MC turned down opportunities because he wants to be fair to other parties.
+  The personality fluctuates based on the situation.
 
 #### Others
 
