@@ -876,7 +876,7 @@ Goosebumps > Fear Street (explained below).
 
 #### Konosuba
 
-- Modular adventures, fast paced, essentially a sitcom.
+- Modular adventures (2+ adventures per book almost), fast paced, essentially a sitcom.
 
 - Sitcom:
   - You watch for the character dynamics.
