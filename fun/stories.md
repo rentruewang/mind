@@ -889,6 +889,7 @@ Goosebumps > Fear Street (explained below).
 - Flat (1D) characters: people aren't selfish enough. Also formulaic personalities (type cast, common types of crazy amongst light novels).
   But surprisingly character driven (mostly slice of life by isekai standards, you read for character dynamics).
   A "fairy tale" like setting where it's low stakes.
+  (Compared to JY, which is child friendly but subtext allows more analysis and more layers).
 
 - Interesting and different isekai. Even if it lacks depth and consistency.
 
