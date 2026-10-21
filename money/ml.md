@@ -29,7 +29,9 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
   1. Simpler
   2. Only needs the happy path working.
 
-- Writes tests.
+- Tests. Often repetitive.
+
+- Configs / cmd line commands. Often simple but annoying.
 
 ### Why I don't like
 
