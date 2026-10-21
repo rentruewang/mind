@@ -884,9 +884,9 @@ Goosebumps > Fear Street (explained below).
   - Creative setting, memorable (by virtue of crazy) personalities, defy social norms.
   - Not always the most reasonable (humor leans on absurdity).
 
-- Plot driven: people aren't selfish enough.
+- Plot driven: people aren't selfish enough. Also formulaic personalities.
 
-- Nice and different isekai. Even if it lacks depth and is mostly plot driven.
+- Interesting and different isekai. Even if it lacks depth and is mostly plot driven.
 
 #### Others
 
