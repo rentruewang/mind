@@ -890,6 +890,8 @@ Goosebumps > Fear Street (explained below).
 
 - Coward MC.
 
+- Running gags.
+
 #### Others
 
 These are ranked IMO below, because they target an older audience but can be hard to read a second time, due to being gimicky.
