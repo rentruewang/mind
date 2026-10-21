@@ -24,6 +24,11 @@ Solves the "framgentation" of AI (you have a unified interface to solutions to t
 
 Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
 
+Demo. Which is:
+
+1. Simpler
+2. Only needs the happy path working.
+
 ### Why I don't like
 
 1. Use in B2C?
@@ -106,7 +111,7 @@ Natural langauge is not accurate. Everyone uses their own dialect, each differin
 
 It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it does is at best how complicated your command is (it is at best a 1 to 1 function); to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code). Only as accurate as you describe it to be.
 
-12.  Wide problem surface, not deep
+12. Wide problem surface, not deep
 
 Since LLM is pitched like AGI, it suffers the same problems as AGI in monetization: it doesn't solve 1 problem 10 times as well, but rather improve **every** problem by a tiny margin. It is difficult to monetize this kind of stuff, as the **value** created is not strong enough (humans are satisficing so may not notice).
 
