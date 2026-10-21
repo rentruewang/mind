@@ -882,9 +882,11 @@ Goosebumps > Fear Street (explained below).
   - You watch for the character dynamics.
   - Characters are "old friends", they are brutal to each other but all are harmless jokes, and they have each others' backs in critical moments.
   - Creative setting, memorable (by virtue of crazy) personalities, defy social norms.
-  - Not always the most reasonable.
+  - Not always the most reasonable (humor leans on absurdity).
 
 - Plot driven: people aren't selfish enough.
+
+- Nice and different isekai. Even if it lacks depth and is mostly plot driven.
 
 #### Others
 
