@@ -825,7 +825,9 @@ Consuming them over a 2nd time rarely finds anything new, but may still are enjo
 
 - Often times like to be funny by throwing logic out of the window.
 
-- Predictable due to formulaic.
+- Predictable due to formulaic (the greater ones less so).
+
+- Single threaded.
 
 These are not to say they are bad, but they are a form of story where you won't find nuance.
 
