@@ -878,7 +878,10 @@ Goosebumps > Fear Street (explained below).
 
 #### Konosuba
 
-- Modular / episodic adventures (2+ adventures per book almost), fast paced, essentially a sitcom.
+- Modular / episodic adventures, fast paced, essentially a sitcom.
+  Each chapter is self contained, and consists of "scenes".
+  Within a scene the time is continuous, between scenes not. A scene is almost self contained.
+  These all seem to be style of TV sitcoms (chapter = episode).
 
 - Sitcom:
   - You watch for the character dynamics.
