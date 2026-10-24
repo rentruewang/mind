@@ -20,9 +20,18 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 ### What it does great
 
-Solves the "framgentation" of AI (you have a unified interface to solutions to text / image etc).
+- Solves the "framgentation" of AI (you have a unified interface to solutions to text / image etc).
 
-Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
+- Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
+
+- Demo. Which is:
+
+  1. Simpler
+  2. Only needs the happy path working.
+
+- Tests. Often repetitive.
+
+- Configs / cmd line commands. Often simple but annoying.
 
 ### Why I don't like
 
@@ -106,11 +115,27 @@ Natural langauge is not accurate. Everyone uses their own dialect, each differin
 
 It also doesn't really do what you want it to do. Think of it this way: since LLM is a funciton, the complexity of what it does is at best how complicated your command is (it is at best a 1 to 1 function); to do something exactly how you want, you would need to have so many instructions (maybe even more than code), or else LLM is going to follow whatever is in the training data (maybe some terrible random OSS code). Only as accurate as you describe it to be.
 
-1.  Wide problem surface, not deep
+12. Scaling issue
+
+From what I see, pure vibe coded projects usually range in 400k - 600k LOC, regardless of domain and complexity.
+
+This seems to suggest that beyond which it has a scalability issue.
+
+Also, under that size it seems to want to push to that size.
+
+Note: this is similar to **rule based AI**.
+
+13. Wide problem surface, not deep
 
 Since LLM is pitched like AGI, it suffers the same problems as AGI in monetization: it doesn't solve 1 problem 10 times as well, but rather improve **every** problem by a tiny margin. It is difficult to monetize this kind of stuff, as the **value** created is not strong enough (humans are satisficing so may not notice).
 
-13. Anecdotes
+14. Coding speed
+
+Coding speed is never the bottleneck. If so, programmars would have all had to type at least 100 WPM.
+
+Reality is, before this "vibe coding norm", coders write < 1000 lines per day.
+
+15. Anecdotes
 
 > Unfortunately the reality of LLM-based contributions has been mostly negative for us, from an increase in background noise due to worthless drive-by PRs full of hallucinations (that wouldn’t even compile, let alone pass CI), to insane 10 thousand line long first time PRs. In-between we also received plenty of PRs that looked fine on the surface, some of which explicitly claimed to not have made use of LLMs, but where follow-up discussions immediately made it clear that the author was sneakily consulting an LLM and regurgitating its mistake-filled replies to us.
 

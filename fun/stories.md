@@ -424,11 +424,11 @@ Showing = telling with styles / tendencies.
 
 ## Examples
 
-#### most of these I consumed more than 1 times or having consumed the entire collection.
+Most of these I consumed more than 1 times or having consumed the entire collection.
 
 This list is in the ranking of greatness IMO.
 
-##### Jin Yong (**God**)
+### Jin Yong (**God**)
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building),
   _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling.
@@ -580,7 +580,7 @@ This list is in the ranking of greatness IMO.
   packaging / branding them as the good guys (and if you disagree, its a you problem, but with full context they are bad).
   E.g. Xiao Longnv, Ling Huchong (check zhihu)
 
-##### ASOIAF
+### ASOIAF
 
 _Most of the points are in comparison to Jin Yong_
 
@@ -703,7 +703,7 @@ Tells more than JY (JY is more camera / stage play like):
 - Relationship (part of backstory).
 - Internal conflicts. His conflicts = told, not dramatized, not shown (characters don't sweat in moments of decisions only in memory).
 
-##### JOJO
+### JOJO
 
 - Very bizzare.
 
@@ -725,7 +725,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stand / power system is excellent. While others level up, JOJO's requires unique circumstances allowing creative use of plain abilities, and countering by outsmarting.
 
-##### Sherlock Holmes
+### Sherlock Holmes
 
 - Good character building.
 
@@ -733,7 +733,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stories may be a little predictable due to being a classic.
 
-##### Gu Long
+### Gu Long
 
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong).
   But his plots are creative, non traditional, and edgy, which is interesting.
@@ -770,7 +770,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Kind of like light novels in that regard?
 
-##### Qiong Yao
+### Qiong Yao
 
 - Simple plot line, usually single threaded. Stakes are relatively low.
 
@@ -791,7 +791,7 @@ Tells more than JY (JY is more camera / stage play like):
 
 - JY has better inference and better pacing.
 
-##### Yusuke Kishi
+### Yusuke Kishi
 
 - Usually a mystery story, good at building the world / world settings.
 
@@ -802,15 +802,44 @@ Tells more than JY (JY is more camera / stage play like):
 - Less memorable (unremarkable) characters and plots (even if realistic).
   Usually deliver on settings. Characters are somewhat flat / 1D.
 
-##### Child's play / Chucky movies
+### Movies / short stories / web, light, kids, teen novels
+
+These are less great, as they target ease of consumption rather than depth.
+
+Consuming them over a 2nd time rarely finds anything new, but may still are enjoyable.
+
+- Usually fast paced / humorous to some extent.
+
+- No unique characters: Characters all respond the same way and there is little difference in terms of personality.
+
+- Always global info for the characters.
+
+- Always surface level motivation because there is no 2nd layer.
+
+- Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
+
+- Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+
+- Very straightforward and there is no ambiguity to the character's action (1D + plot-devicey).
+  Suitable for skimping not deep analysis. Light cognitive load.
+
+- Often times like to be funny by throwing logic out of the window.
+
+- Predictable due to formulaic (the greater ones less so).
+
+- Single threaded.
+
+These are not to say they are bad, but they are a form of story where you won't find nuance.
+
+#### Child's play / Chucky movies
 
 - Always a new way to kill.
 
 - Fun personality.
 
-##### Percy Jackson
+#### Percy Jackson
 
-- Fast paced, humorous.
+- Fast paced, humorous (mostly Percy is witty but also some events).
 
 - I read it like 5 times, very relaxing.
 
@@ -818,11 +847,11 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Characters are bland outside of Percy (what's Annabeth's personality again?).
 
-##### RL Stine
+#### RL Stine
 
 Goosebumps > Fear Street (explained below).
 
-- Fast paced, humorous.
+- Fast paced, humorous occasionally.
 
 - Multiple small, modular mysteries combined usually.
 
@@ -847,28 +876,36 @@ Goosebumps > Fear Street (explained below).
   Despite the plot holes, most of those still make sense, making it easy to echo.
   Even if those thoughts are "told" not "shown" pretty much all of the times.
 
-##### Movies / short stories / web, light, kids, teen novels
+#### Konosuba
 
-- No unique characters: Characters all respond the same way and there is little difference in terms of personality.
+- Modular / episodic adventures, fast paced, essentially a sitcom.
+  Each chapter is self contained, and consists of "scenes".
+  Within a scene the time is continuous, between scenes not. A scene is almost self contained.
+  These all seem to be style of TV sitcoms (chapter = episode).
 
-- Always global info for the characters.
+- Sitcom:
+  - You watch for the character dynamics.
+  - Characters are "old friends", they are brutal to each other but all are harmless jokes, and they have each others' backs in critical moments.
+  - Creative setting, memorable characters, by virtue of being crazy / broken, defying social norms.
+  - Not always the most reasonable (humor leans on absurdity).
+  - Low stakes, reversible plot (even deaths).
+  - Running gags.
 
-- Always surface level motivation because there is no 2nd layer.
+- Flat (1D) characters: people aren't selfish enough. Also formulaic personalities (type cast, common types of crazy amongst light novels).
+  But surprisingly character driven (mostly slice of life by isekai standards, you read for character dynamics).
+  A "fairy tale" like setting where it's low stakes.
+  (Compared to JY, which is child friendly but subtext allows more analysis and more layers).
 
-- Very modular stories (small pieces of individual stories) designed to quickly grab attention, very little overhead due to limited scope of each chapter or book, and quite modular (no lasting effects).
+- Interesting and different isekai. Even if it lacks depth and consistency.
 
-- Furthermore, characters' motivations are, for the most part, simplified and "childlike", which is to say, no long term planning.
+- Tell most of the times.
+  But sometimes shows in famous scenes (mostly subtext from one of the characters).
 
-- Very straightforward and there is no ambiguity to the character's action (1D + plot-devicey).
-  Suitable for skimping not deep analysis. Light cognitive load.
+#### Others
 
-- Often times like to be funny by throwing logic out of the window.
+These are ranked IMO below, because they target an older audience but can be hard to read a second time, due to being gimicky.
 
-- Predictable due to formulaic.
-
-These are not to say they are bad, but they are a form of story where you won't find nuance.
-
-###### Examples:
+Of course, anything on this list is still good.
 
 - Attack on titan: Characters can be linear, but they don't take up pages they don't chew (a lot of characters with relatively few episodes), so overall good diversity.
 
