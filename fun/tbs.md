@@ -1,11 +1,15 @@
-# Civ
+## Go
+
+## Chess
+
+## Civ
 
 4x gaming feels more strategic than say, a micro based game like advance wars,
 probably because of snowballing in 4x games.
 
 This means that once you get to a snowball, nothing your opponent could do to bring it back, and decisions leading to snowball are often strategic rather than tactical.
 
-# OpenTTD
+## OpenTTD
 
 Train activity = information flow,
 

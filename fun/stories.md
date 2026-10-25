@@ -733,6 +733,8 @@ Tells more than JY (JY is more camera / stage play like):
 
 - Stories may be a little predictable due to being a classic.
 
+- Deep character behavior as well as deep character back story.
+
 ### Gu Long
 
 - Tell don't show (talks a lot about internal mind and philosophy), characters can be quite unrealistic and 1D (compared to Jin Yong).
