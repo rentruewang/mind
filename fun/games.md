@@ -1,6 +1,21 @@
+## Me
+
+I like to play TBS games without thinking too much (strategically) and only add in tactics when needed.
+
 ## Go
 
+Very balanced strategically and tactically.
+
+You can play purely strategic (high level planning) and not think too much.
+
 ## Chess
+
+Points are made in comparison with Go.
+
+More volatile and you can lose in 1 move.
+
+More tactical => you can't play relaxed
+
 
 ## Civ
 
