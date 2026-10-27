@@ -8,15 +8,27 @@ I like to play TBS games without thinking too much (strategically) and only add 
 
 Very balanced strategically and tactically.
 
-You can play purely strategic (high level planning) and not think too much.
+You can play purely strategic (high level planning, play intuitive) and not think too much.
+
+Advantages are usually developed in multiple moves (more strategic).
 
 ## Chess
 
 Points are made in comparison with Go.
 
-More volatile and you can lose in 1 move.
+Many pieced with global presence and moves are largly irreversible (e.g. pawns, castling).
 
-More tactical => you can't play relaxed
+Less development, micro errors are more pronounced, more volatile because you can exploit advantages quick.
+
+More volatile and you can lose in 1 move or be significantly down (blunder, less forgiving), rugged value surface.
+
+More tactical (lower level moves) => you can't play relaxed and use strategy only, requires playing ahead several moves (due to global influence again).
+
+But because no one can really compute that fast, tactical sequences are memorized.
+
+Feels like it has less freedom due to lots of forcing moves. To prevent being forced your options are limited (somewhat forced indirectly).
+
+Less back and forth because when advantage is present it's difficult to come back.
 
 ## Civ
 
