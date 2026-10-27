@@ -1,5 +1,17 @@
 # Stories
 
+> On the brink of turning 28,
+> I have more or less quit (serious) reading,
+> so I won't be updating this anymore.
+> 
+> This is because:
+> 
+> 0. I won't do it for a living
+> 1. Time consuming.
+> 2. Understanding the craft makes it less fun.
+> 3. My ability to analyze has plateaued.
+> 4. No clear target for me to hit (unlike games)
+
 ## Brain
 
 People like stories because it's a simulation (it's like memory) that lets us explore an alternative world / mind of people.

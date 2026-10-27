@@ -18,7 +18,6 @@ More volatile and you can lose in 1 move.
 
 More tactical => you can't play relaxed
 
-
 ## Civ
 
 4x gaming feels more strategic than say, a micro based game like advance wars,
