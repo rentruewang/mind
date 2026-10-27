@@ -1,4 +1,56 @@
-# StarCraft Broodwar and StarCraft 2
+# TBS
+
+## Me
+
+I like to play TBS games without thinking too much (strategically) and only add in tactics when needed.
+
+## Go
+
+Very balanced strategically and tactically.
+
+You can play purely strategic (high level planning, play intuitive) and not think too much.
+
+Advantages are usually developed in multiple moves (more strategic).
+
+## Chess
+
+Points are made in comparison with Go.
+
+Many pieced with global presence and moves are largly irreversible (e.g. pawns, castling).
+
+Less development, micro errors are more pronounced, more volatile because you can exploit advantages quick.
+
+More volatile and you can lose in 1 move or be significantly down (blunder, less forgiving), rugged value surface.
+
+More tactical (lower level moves) => you can't play relaxed and use strategy only, requires playing ahead several moves (due to global influence again).
+
+But because no one can really compute that fast, tactical sequences are memorized.
+
+Feels like it has less freedom due to lots of forcing moves. To prevent being forced your options are limited (somewhat forced indirectly).
+
+Less back and forth because when advantage is present it's difficult to come back.
+
+## Civ
+
+4x gaming feels more strategic than say, a micro based game like advance wars,
+probably because of snowballing in 4x games.
+
+This means that once you get to a snowball, nothing your opponent could do to bring it back, and decisions leading to snowball are often strategic rather than tactical.
+
+## OpenTTD
+
+Train activity = information flow,
+
+Seeing train module design, made me realize that, hardware module are inherently modular, because more area than perimeter.
+this means all the modules are very local
+
+In OpenTTD, train modules are designed to represent state
+
+---
+
+# RTS
+
+## StarCraft Broodwar and StarCraft 2
 
 Broodwar seems more varied in its play and available strategy at the top level, but why?
 
@@ -16,7 +68,7 @@ Disclaimer: I do not play those games, but watch them extensively.
 10. There seems to be more randomness and gambling in broodwar as you cannot be ready for everything. In sc2 you can be ready.
 11. Units are more general purpose, which means composition choices are realtively free compared to sc2.
 
-## What technical jargon translate to in terms of game state
+### What technical jargon translate to in terms of game state
 
 Positional = slower units, vs multitask = faster units
 
