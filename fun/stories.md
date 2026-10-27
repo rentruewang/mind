@@ -11,6 +11,7 @@
 > 2. Understanding the craft makes it less fun.
 > 3. My ability to analyze has plateaued.
 > 4. No clear target for me to hit (unlike games).
+> 5. Has become a source of stress, not relief.
 
 ## Brain
 
