@@ -6,11 +6,11 @@
 >
 > This is because:
 >
-> 0. I won't do it for a living
+> 0. I won't do it for a living.
 > 1. Time consuming.
 > 2. Understanding the craft makes it less fun.
 > 3. My ability to analyze has plateaued.
-> 4. No clear target for me to hit (unlike games)
+> 4. No clear target for me to hit (unlike games).
 
 ## Brain
 
