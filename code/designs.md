@@ -30,6 +30,14 @@ As an example, let's say if an action `A` can be accomplished with the instructi
 
 Strategy pattern is better than if else because the power lies in easy removal of components, where as binary decision has a boundary engrained in the branching logic. This allows modular components to even have overlaps or null implementations.
 
+## Modular
+
+Modular = local. Sparse connection between components. Small simple interface.
+
+Opposite of clique.
+
+Like hardware **modules**. Inherently local.
+
 ## Mental state of reading and designing
 
 Reading vs designing code feels much different.
