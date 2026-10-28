@@ -32,7 +32,9 @@ Strategy pattern is better than if else because the power lies in easy removal o
 
 ## Modular
 
-Modular = local. Sparse connection between components. Small simple interface.
+Modular = minimize connect.
+
+Local. Sparse connection between components. Small simple interface.
 
 Opposite of clique.
 
