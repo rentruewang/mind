@@ -55,6 +55,7 @@ There are also `trait`s all over the place, making it difficult to trace where t
 
 Also it's [incompatible](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/) and [impedance mismatch causes rewriting](https://www.reddit.com/r/rust/comments/1uxgvqc/comment/oxww1pu/).
 
+More dev attention than adoption.
 "There are 5 games written in rust, and 50 game engines".
 
 ##### Go
