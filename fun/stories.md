@@ -847,6 +847,21 @@ Consuming them over a 2nd time rarely finds anything new, but may still are enjo
 
 These are not to say they are bad, but they are a form of story where you won't find nuance.
 
+#### Story Telling BK
+
+Compared to similar channels like Xdiaocha (who is more log like):
+
+- Less chronological.
+
+- Much more attention based (don't frontload information).
+
+- Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
+  This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
+
+- Follow people's POV (partial information), and therefore more dramatic (present the decision process of people).
+
+- Humorous.
+
 #### Child's play / Chucky movies
 
 - Always a new way to kill.
@@ -1013,3 +1028,5 @@ Wei Xiaobao = 韋小寶
 Mao 18 = 茅十八
 
 Hua Wuque = 花無缺
+StoryTellingBK = 老k奇譚
+Xdiaocha = X調查
