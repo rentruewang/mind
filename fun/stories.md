@@ -862,6 +862,8 @@ Compared to similar channels like Xdiaocha (who is more log like):
 - Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
   This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
 
+- Uses a "thread" to keep the story going, every part is connected.
+
 - Humorous.
 
 #### Child's play / Chucky movies
