@@ -855,7 +855,7 @@ Compared to similar channels like Xdiaocha (who is more log like):
 
 - Follow people's POV (partial information),
   and therefore more dramatic (present the decision process of people).
-  And more arbitrary info / details (that are important to POV), so more realistic.
+  And more arbitrary info / details (that are important to POV), so more realistic / immersive.
 
 - Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
   This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
