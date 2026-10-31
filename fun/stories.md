@@ -865,7 +865,6 @@ Compared to similar channels like Xdiaocha (who is more log like):
 
 - Uses a "thread" to keep the story going, every part is connected.
 
-
 #### Child's play / Chucky movies
 
 - Always a new way to kill.
