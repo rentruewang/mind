@@ -864,7 +864,7 @@ Compared to similar channels like Xdiaocha (who is more log like):
 
 - Uses a "thread" to keep the story going, every part is connected.
 
-- Humorous.
+- Humorous. Lively.
 
 #### Child's play / Chucky movies
 
