@@ -851,14 +851,12 @@ These are not to say they are bad, but they are a form of story where you won't 
 
 Compared to similar channels like Xdiaocha (who is more log like):
 
-- Less chronological.
+- Less chronological, more attention based (don't frontload information).
 
-- Much more attention based (don't frontload information).
+- Follow people's POV (partial information), and therefore more dramatic (present the decision process of people).
 
 - Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
   This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
-
-- Follow people's POV (partial information), and therefore more dramatic (present the decision process of people).
 
 - Humorous.
 
