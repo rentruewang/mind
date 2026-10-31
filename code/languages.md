@@ -53,7 +53,10 @@ It won't be a successful language (mainstream) as C++ imo. Also too FP like, not
 Since the type system must be compatible with native code to some extent, a lot of template boiler plate is used to represent the adhoc intermediate representation, and compile time suffers from that.
 There are also `trait`s all over the place, making it difficult to trace where the functions come from.
 
-Also it's [incompatible](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/) and [impedance mismatch causes rewriting](https://www.reddit.com/r/rust/comments/1uxgvqc/comment/oxww1pu/).
+Also it's [incompatible](https://www.reddit.com/r/rustjerk/comments/1l6c94p/_/) and [impedance mismatch causes rewriting](https://www.reddit.com/r/rust/comments/1uxgvqc/comment/oxr4uxd/).
+
+More dev attention than adoption.
+"There are 5 games written in rust, and 50 game engines".
 
 ##### Go
 
@@ -65,7 +68,7 @@ My first PR was actually for TS, and the language is nice. But I don't enjoy doi
 
 ## Successful language
 
-Excellent quote on [reddit](https://www.reddit.com/r/ada/comments/twv7je/comment/i3kqdf4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+Excellent quote on [reddit](https://www.reddit.com/r/ada/comments/twv7je/comment/i3kqdf4/)
 
 > Languages don't fail or succeed based on technical merits. We can lecture all day on the benefits of Ada over what's currently in use, but in the end that barely matters.
 

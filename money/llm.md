@@ -24,6 +24,8 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 - Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
 
+- Exploration. Does not need to be precise (fail ok). Good at aggregating information.
+
 - Demo. Which is:
 
   1. Simpler

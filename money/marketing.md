@@ -4,7 +4,7 @@ On sites like reddit, you need to spell out what you mean to reduce people's cog
 
 Do not make assumption of what they know.
 
-Give them full context of your inference (no stretching), e.g. from [this](https://www.reddit.com/r/browsers/comments/1uo30by/comment/ovovzbs/) to [this](https://www.reddit.com/r/browsers/comments/1uo30by/comment/ovp8bb7/), forking itself does not cost much, but the implied development does.
+Give them full context of your inference (no stretching), reduce their mental load because not everyone can jump to conclusion.
 
 Think in terms of what they know (Carnegie how to win friends and influence people),
 and create something of interest.
