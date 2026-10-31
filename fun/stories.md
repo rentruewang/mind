@@ -857,14 +857,14 @@ Compared to similar channels like Xdiaocha (who is more log like):
   and therefore more dramatic (present the decision process of people).
   And more arbitrary info / details (that are important to POV), so more realistic / immersive.
 
-- More subjective (to people in the story) and thus engaging.
+- More subjective (to people in the story) and adds adjective liberally.
+  Thus: Engaging. Humorous. Lively.
 
 - Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
   This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
 
 - Uses a "thread" to keep the story going, every part is connected.
 
-- Humorous. Lively.
 
 #### Child's play / Chucky movies
 
