@@ -24,6 +24,8 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 - Natural langauge is very flexible (its interface), _but neither reliable nor precise_.
 
+- One off script.
+
 - Exploration. Does not need to be precise (fail ok). Good at aggregating information.
 
 - Demo. Which is:
@@ -35,7 +37,7 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 - Configs / cmd line commands. Often simple but annoying.
 
-- It's decent at writing code when:
+- It's decent at writing (production) code when:
   1. You read every line of output.
   2. You give maximum requirements, best step by step, and ask for minimal changes.
   3. Finding sloppy and obvious bugs.
