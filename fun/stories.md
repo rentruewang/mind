@@ -1,5 +1,7 @@
 # Stories
 
+> Note: here we focus mostly on books / longer stories.
+
 > On the eve of turning 28,
 > I have more or less quit (serious) reading,
 > so I won't be updating this anymore.
