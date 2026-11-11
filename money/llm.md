@@ -35,6 +35,11 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
 
 - Configs / cmd line commands. Often simple but annoying.
 
+- It's decent at writing code when:
+  1. You read every line of output.
+  2. You give maximum requirements, best step by step, and ask for minimal changes.
+  3. Finding sloppy and obvious bugs.
+
 ### Why I don't like
 
 1. Use in B2C?
