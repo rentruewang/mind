@@ -39,6 +39,7 @@ Now for more efficient forms of tokens, e.g. math equations, it may not learn as
   1. You read every line of output.
   2. You give maximum requirements, best step by step, and ask for minimal changes.
   3. Finding sloppy and obvious bugs.
+  4. Stop it at any part that is not up to spec, those imperfections spiral out of control quickly and will become unreadable.
 
 ### Why I don't like
 
