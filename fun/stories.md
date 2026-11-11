@@ -1,5 +1,7 @@
 # Stories
 
+> Note: here we focus mostly on books / longer stories.
+
 > On the eve of turning 28,
 > I have more or less quit (serious) reading,
 > so I won't be updating this anymore.
@@ -13,6 +15,9 @@
 > 4. My ability to analyze has plateaued.
 > 5. No clear target for me to hit (unlike games).
 > 6. Has become a source of stress, not relief.
+>
+> Interestingly, it's easy to find flaws because baseline exists and is accessible (real life).
+> In comparison, music is only good or better, never bad. Where book flaws can be bad or cringe.
 
 ## Brain
 
@@ -859,7 +864,7 @@ Compared to similar channels like Xdiaocha (who is more log like):
 
 - More subjective (to people in the story) and adds adjective liberally.
   Thus: Engaging. Humorous. Lively.
-  Puts himself in POV's shoes. 
+  Puts himself in POV's shoes.
 
 - Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
   This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
