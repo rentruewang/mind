@@ -859,7 +859,7 @@ Compared to similar channels like Xdiaocha (who is more log like):
 
 - More subjective (to people in the story) and adds adjective liberally.
   Thus: Engaging. Humorous. Lively.
-  Puts himself in POV's shoes. 
+  Puts himself in POV's shoes.
 
 - Present the info in twists (e.g. instead of "A and B", he does "not just A, but also B").
   This keeps you engaged yet reduces mental load (because "A" usually is the obivous answer, and "B" keeps you guessing).
