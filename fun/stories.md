@@ -7,6 +7,9 @@ Here we focus mostly on books / longer stories.
 On the eve of turning 28,
 I have more or less quit (serious) reading,
 so I won't be updating this anymore.
+
+I only read non-serious work like movies / light novel now, for stress relief.
+
 This is because:
 
 0. I won't do it for a living.
