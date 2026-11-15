@@ -22,7 +22,7 @@ This is because:
 
 Interestingly, it's easy to find flaws because baseline exists and is accessible (real life),
 and that novel writing is essentially simulating many people by 1 person's imagination,
-you either lack computation to do so, or lack the clean state separation (prevent global info).
+you either lack computation to do so, or lack the clean state separation (prevent global info), amongst other reasons.
 Also, stories have to be interesting, naturally making some choices unrealistic.
 
 This is true even for GOAT writer (JY), where there are numerous flaws.
