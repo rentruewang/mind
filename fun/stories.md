@@ -1,23 +1,24 @@
 # Stories
 
-> Note: here we focus mostly on books / longer stories.
+Here we focus mostly on books / longer stories.
 
-> On the eve of turning 28,
-> I have more or less quit (serious) reading,
-> so I won't be updating this anymore.
->
-> This is because:
->
-> 0. I won't do it for a living.
-> 1. Time consuming.
-> 2. Understanding the craft makes it less fun.
-> 3. Can find flaws easily, and those annoy me.
-> 4. My ability to analyze has plateaued.
-> 5. No clear target for me to hit (unlike games).
-> 6. Has become a source of stress, not relief.
->
-> Interestingly, it's easy to find flaws because baseline exists and is accessible (real life).
-> In comparison, music is only good or better, never bad. Where book flaws can be bad or cringe.
+## Give up updates
+
+On the eve of turning 28,
+I have more or less quit (serious) reading,
+so I won't be updating this anymore.
+This is because:
+
+0. I won't do it for a living.
+1. Time consuming.
+2. Understanding the craft makes it less fun.
+3. Can find flaws easily, and those annoy me.
+4. My ability to analyze has plateaued.
+5. No clear target for me to hit (unlike games).
+6. Has become a source of stress, not relief.
+
+Interestingly, it's easy to find flaws because baseline exists and is accessible (real life).
+In comparison, music is only good or better, never bad. Where book flaws can be bad or cringe.
 
 ## Brain
 
