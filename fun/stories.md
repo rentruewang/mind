@@ -2,7 +2,7 @@
 
 Here we focus mostly on books / longer stories.
 
-## Give up updates
+## No more updates
 
 On the eve of turning 28,
 I have more or less quit (serious) reading,
@@ -17,7 +17,13 @@ This is because:
 5. No clear target for me to hit (unlike games).
 6. Has become a source of stress, not relief.
 
-Interestingly, it's easy to find flaws because baseline exists and is accessible (real life).
+Interestingly, it's easy to find flaws because baseline exists and is accessible (real life),
+and that novel writing is essentially simulating many people by 1 person's imagination,
+you either lack computation to do so, or lack the clean state separation (prevent global info).
+Also, stories have to be interesting, naturally making some choices unrealistic.
+
+This is true even for GOAT writer (JY), where there are numerous flaws.
+
 In comparison, music is only good or better, never bad. Where book flaws can be bad or cringe.
 
 ## Brain
@@ -81,7 +87,7 @@ Using various techniques, different angles / events to describe the same thing,
 surprise the readers, while keeping the reader attention (by not being too predictable).
 
 Tightly related to **info density**. Overly high: overwhelming / annoying, not high enough: boring / predictable.
-A good writer can keep it high, but only when readers dig deep (my god **Jin Yong** of course),
+A good writer can keep it high, but only when readers dig deep (my GOAT **Jin Yong** of course),
 so each level of understanding has an managable but good info, but gets uncovered when you dig deeper.
 
 Telling things readers already know can hurt pacing, but if done well and not over, can have good emotion resonance / embellishment (emotion is a form of info).
@@ -448,7 +454,7 @@ Most of these I consumed more than 1 times or having consumed the entire collect
 
 This list is in the ranking of greatness IMO.
 
-### Jin Yong (**God**)
+### Jin Yong (**GOAT**)
 
 - Good architecture (very **demanding** and **tight** (sequential + leaky) plots (weaved together), but distributed world building),
   _good pacing_, _good exploration_, good writing, _balanced narration_ (easy to digest), **realistic** characters, nonlinear (having twists) and engaging plots, lots of info everywhere, shows but not telling.
