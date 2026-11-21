@@ -193,7 +193,11 @@ and was able to generate a streamlit app, though ugly, in 90 lines.
 Why people claim that LLM gives them 10x productivity,
 but as of writing, the output of the industry doens't seem too different?
 
-Developers may generate code 10x as fast, but take 9x the detours.
+Developers may generate code 10x as fast, while also take 9x the detours, which does not translate to 10x productivity.
+
+Note: LOC, as well as PR count, are implementation details.
+More does not mean development is faster.
+
 Perception gap can exist: a research show that a group of developers claimed 20% speedup while in reality they slowed down 20%.
 Research show that devs close 2x as much PR, but perhaps compensated by more bugs.
 
