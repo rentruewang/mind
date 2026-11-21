@@ -188,6 +188,23 @@ And then I reverted to free chatgpt, and give precise requirement for function,
 asking it to follow my exact steps (search this library, use this function etc),
 and was able to generate a streamlit app, though ugly, in 90 lines.
 
+#### Productivity paradox
+
+Why people claim that LLM gives them 10x productivity,
+but as of writing, the output of the industry doens't seem too different?
+
+Developers may generate code 10x as fast, but take 9x the detours.
+Research show that devs close 2x as much PR, but perhaps compensated by more bugs.
+
+Research show that AI productivity gain is 0%-20% realistically.
+
+In my experience, it's roughly 15%, mostly in searching and exploring initial solutions.
+
+For rewrites, you can sometimes one shot.
+But for new code, unless you walk it step by step, it usually generates garbage (working but unmaintainable).
+
+For frontend, perhaps it's amazing (personally I don't care about frontend so it can be slop).
+
 #### Activity
 
 Why vibe coded software has so much activity?
