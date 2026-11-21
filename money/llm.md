@@ -201,7 +201,7 @@ Research show that AI productivity gain is 0%-20% realistically.
 In my experience, it's roughly 15%, mostly in searching and exploring initial solutions.
 
 For rewrites, you can sometimes one shot.
-But for new code, unless you walk it step by step, it usually generates garbage (working but unmaintainable).
+But for new code, unless you walk it step by step, it usually generates slop (working but unmaintainable).
 
 For frontend, perhaps it's amazing (personally I don't care about frontend so it can be slop).
 
